@@ -10,5 +10,8 @@ Content:
 
 .. toctree::
 
+   T3DocTeam/Index
    Sprint-2017-01/Index
    T3Sprint-2017-04-07/Index
+   AgendaDocumentation/Index
+
