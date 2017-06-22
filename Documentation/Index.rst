@@ -31,15 +31,21 @@ T3DocTeam At Work
 
 
 :Writing here:    TYPO3 Documentation Team
-:Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
+:Markup:          Check the `warnings.txt <_buildinfo/warnings.txt>`__ file
+:Rendered:        |today|
 
+
+See also:
+
+-  `what the T3O team writes
+   <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
 
 
 .. toctree::
    :hidden:
 
-   HelloWorld/Index
-   Hyperlinks/Index
-   reStructuredText/Index
+   Sitemap/Index
+   HowToDocument/Index
+   Linktargets/Index
 
