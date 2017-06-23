@@ -8,12 +8,15 @@ T3DocTeam At Work
 :Writing here:    TYPO3 Documentation Team
 :Buildinfo:       `buildinfo <_buildinfo>`_ \|
                   `warnings.txt <_buildinfo/warnings.txt>`__ \|
+                  `rebuild <https://docs.typo3.org/~mbless/github.com/T3DocumentationStarter/Public-Info-054.git.make/request_rebuild.php>`__
 :Sitemap:         :ref:`sitemap`
 :Rendered:        |today|
 
 
 See also:
 
+-  `001: Notes Martin Bless
+   <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/>`__
 -  `041: T3O team
    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
 
