@@ -15,6 +15,9 @@ Links may require a login.
 -  The T3O team is taking notes here:
    https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/
 
+-  TYPO3 docker image:
+   https://github.com/TYPO3-Documentation/t3docs-docker-image
+
 -  TYPO3 gitlab:
    https://git-t3o.typo3.org/
 
