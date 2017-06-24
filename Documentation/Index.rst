@@ -17,8 +17,12 @@ See also:
 
 -  `001: Notes Martin Bless
    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/>`__
+
 -  `041: T3O team
    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
+   
+-  `t3SphinxThemeRtdDemoDocs
+   <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/ThisAndThat/Index.html>`__
 
 
 .. toctree::
