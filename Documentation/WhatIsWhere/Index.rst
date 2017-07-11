@@ -27,7 +27,7 @@ Links may require a login.
 -  Docker Hub "T3Docs/RenderDocumentation":
    https://hub.docker.com/r/t3docs/renderdocumentation/
 
--  Trello Serer Team Sprint 2017-04
+-  Trello Server Team Sprint 2017-04
    https://trello.com/b/sfhJvvWz/typo3-server-team-sprint-2017-04
 
 -  Report of the 2017-04 sprint:
