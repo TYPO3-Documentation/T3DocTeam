@@ -11,7 +11,7 @@ The complete, anonymous form
 
 This markup will always work. It has a `linktext`, the complete url in `<...>`,
 and **two** underscores at the end. **Two** mean that it's an anonymous link. This
-means that the `linktext` is NOT added to the internal table of known link definitions::
+means that it does not becom `A named link`_ because the `linktext` is NOT added to the internal table of known link definitions::
 
    `linktext <https://the/complete/url/>`__
 
