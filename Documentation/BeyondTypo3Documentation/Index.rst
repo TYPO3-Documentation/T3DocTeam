@@ -15,7 +15,7 @@ Conferences
 * `API the docs, Amsterdam, 2017
   <https://pronovix.com/api-docs-amsterdam-2017/>`__
   
-  .. figure:: x.png
+  .. figure:: 459.png
      :class: with-shadow
      :target: https://pronovix.com/api-docs-amsterdam-2017/
 
