@@ -18,14 +18,15 @@ Conferences
 
 * .. image:: 459.png
      :class: float-left with-shadow
-     :width: 180 px
+     :width: 150 px
      :target: https://pronovix.com/api-docs-amsterdam-2017/
      
   `API the docs, Amsterdam, 2017
   <https://pronovix.com/api-docs-amsterdam-2017/>`__
 
+.. rst-class:: clear-both
+
 * more
 
-.. rst-class:: clear-both
 
 more
