@@ -6,7 +6,7 @@
 Beyond TYPO3 Documentation
 ==========================
 
-What is beyond Tellerrand? Things we should look at, learn from and keep in mind.
+Beyond tellerrand: Things we should look at, learn from and keep in mind.
 
 
 Conferences
@@ -16,25 +16,12 @@ Conferences
 
 .. |conferences-459|
 
-* .. figure:: 459.png
-     :class: float-left with-shadow
-     :width: 150 px
-     :target: https://pronovix.com/api-docs-amsterdam-2017/
-     
-     `API the docs, Amsterdam, 2017
-     <https://pronovix.com/api-docs-amsterdam-2017/>`__
+* `API the docs, Amsterdam, 2017 <https://pronovix.com/api-docs-amsterdam-2017/>`__, 
+  `tweet <https://twitter.com/kvantomme/status/941791317692157952>`__
 
   .. figure:: 459.png
-     :class: float-left with-shadow
+     :class: with-shadow
      :width: 150 px
      :target: https://pronovix.com/api-docs-amsterdam-2017/
-     
-     `API the docs, Amsterdam, 2017
-     <https://pronovix.com/api-docs-amsterdam-2017/>`__
 
-.. rst-class:: clear-both
-
-* more
-
-
-more
+* ...
