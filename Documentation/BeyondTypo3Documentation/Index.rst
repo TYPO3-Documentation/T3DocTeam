@@ -14,7 +14,9 @@ Conferences
 
 .. float-left, see https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/ImagesAndFigures/Index.html
 
-* .. |conferences-459| image:: 459.png
+.. |conferences-459|
+
+* .. image:: 459.png
      :class: float-left with-shadow
      :width: 180 px
      :target: https://pronovix.com/api-docs-amsterdam-2017/
