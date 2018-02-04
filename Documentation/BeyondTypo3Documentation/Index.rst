@@ -16,8 +16,8 @@ Conferences
 
 .. |conferences-459|
 
-* `API the docs, Amsterdam, 2017 <https://pronovix.com/api-docs-amsterdam-2017/>`__, 
-  `tweet <https://twitter.com/kvantomme/status/941791317692157952>`__
+* `API the docs <https://pronovix.com/api-docs-amsterdam-2017/>`__, Amsterdam, 2017,
+  `Tweet <https://twitter.com/kvantomme/status/941791317692157952>`__
 
   .. figure:: 459.png
      :class: with-shadow
