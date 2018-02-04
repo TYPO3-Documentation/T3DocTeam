@@ -18,6 +18,7 @@ Conferences
   .. figure:: 459.png
      :class: with-shadow
      :target: https://pronovix.com/api-docs-amsterdam-2017/
+     :width: 200 px
 
   
   
