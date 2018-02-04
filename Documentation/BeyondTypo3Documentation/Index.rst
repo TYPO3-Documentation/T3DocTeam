@@ -31,4 +31,7 @@ Conferences
      :class: with-shadow
      :width: 200 px
      :target: https://fosdem.org/2018/schedule/track/tool_the_docs/
+     
+  Twitter: `#ToolTheDocs #fosdem #WriteTheDocs 
+  <https://twitter.com/search?q=%23toolthedocs%20%23fosdem%20%23writethedocs>`__
    
