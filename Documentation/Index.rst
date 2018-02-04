@@ -32,4 +32,5 @@ See also:
    WhatIsWhere/Index
    Incoming/Index
    HowToDocument/Index
+   BeyondTypo3Documentation/Index
    Linktargets/Index
