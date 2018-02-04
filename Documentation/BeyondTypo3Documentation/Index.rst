@@ -25,7 +25,7 @@ Conferences
      :target: https://pronovix.com/api-docs-amsterdam-2017/
 
 * `FOSDEM'18 Tool the Docs devroom
-   <https://fosdem.org/2018/schedule/track/tool_the_docs/>`__
+  <https://fosdem.org/2018/schedule/track/tool_the_docs/>`__
    
   .. figure:: 460.png
      :class: with-shadow
