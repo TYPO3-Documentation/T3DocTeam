@@ -34,4 +34,7 @@ Conferences
      
   Twitter: `#ToolTheDocs #fosdem #WriteTheDocs 
   <https://twitter.com/search?q=%23toolthedocs%20%23fosdem%20%23writethedocs>`__
+  
+  + https://www.youtube.com/results?search_query=fosdem+2018+room+ud2.119
+  + https://video.fosdem.org/2018/UD2.119/ + `(status) <https://review.video.fosdem.org/overview>`__
    
