@@ -33,4 +33,5 @@ See also:
    Incoming/Index
    HowToDocument/Index
    BeyondTypo3Documentation/Index
+   Topics/Index
    Linktargets/Index
