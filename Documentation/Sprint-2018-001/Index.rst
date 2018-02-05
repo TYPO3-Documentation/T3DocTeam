@@ -16,4 +16,14 @@ Possible topics
      | plus the rendering triggers the indexing of the Elasticsearch
      | plus a couple of other neat things like Tweets etc :smile:
      
+* About requiring meta data:
+
+     so we have a few options here:
+     
+     a) Make proper meta data mandatory for indexing - this puts the work onto the extension authors
+     b) make *display* of extension docs rely on proper meta data (even more pressure on extension authors)
+     c) try to fix missing meta data ourselves (which will give us more searchresults but also lazy ext authors)
+     
+     (mattes) As I'm a hardliner, I'd opt for b) :slightly_smiling_face:
+     
      
