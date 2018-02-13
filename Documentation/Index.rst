@@ -29,7 +29,7 @@ See also:
    :hidden:
 
    Sitemap/Index
-   PersonalNotes/Index
    ToDoList/Index
    Topics/Index
+   PersonalNotes/Index
    Linktargets/Index
