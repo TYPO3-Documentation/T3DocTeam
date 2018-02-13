@@ -10,5 +10,7 @@ Topics
 .. toctree::
    :glob:
    :titlesonly:
-   
+
    *
+   HowToDocument/Index
+   BeyondTypo3Documentation/Index

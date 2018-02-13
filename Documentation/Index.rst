@@ -29,10 +29,7 @@ See also:
    :hidden:
 
    Sitemap/Index
-   Sprint-2018-001/Index
-   WhatIsWhere/Index
-   Incoming/Index
-   HowToDocument/Index
-   BeyondTypo3Documentation/Index
+   PersonalNotes/Index
+   ToDoList/Index
    Topics/Index
    Linktargets/Index

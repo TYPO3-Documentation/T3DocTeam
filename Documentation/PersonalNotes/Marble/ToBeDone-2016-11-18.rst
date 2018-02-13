@@ -1,13 +1,10 @@
 
-
-
 .. include:: ../../Includes.txt
 
 
 ======================================
 TBD: documents.json, ext:documentation
 ======================================
-
 
 Stephan Großberndt	[5:21 PM]
 Which service is responsible for generation of https://docs.typo3.org/typo3cms/documents.json ? Who can update it?
@@ -41,12 +38,14 @@ so you get an outdated local version with external links. hooray
 
 .. Martin Bless [7:10 PM]
 
-Hi Stephan @grossberndts, thanks for caring!
-(1) I've replaced http: by https,
-(2) the file is now at Github, so people can send pull requests: https://goo.gl/JEQ3DU
-(3) Xavier @xperseguers is the expert for ext:documentation
-(4) the upcoming toolchain 'RenderDocumentation' is at work for the manuals that already have the new theme. That toolchain rewrites the html files of manuals on the server so that ALL manuals use the SAME static files at (absolute!) `/t3SphinxThemeRtd/3.6.0/css` and so on.
-(5) If specified in `buildsettings.sh`for a manual the toolchain creates a *.zip archive for download and offline use. In there is the HTML and PDF version. In this case of the download package the HTML is complete. It has all the static files included with fonts, js, css and so and does not reference anything external.
+::
+
+   Hi Stephan @grossberndts, thanks for caring!
+   (1) I've replaced http: by https,
+   (2) the file is now at Github, so people can send pull requests: https://goo.gl/JEQ3DU
+   (3) Xavier @xperseguers is the expert for ext:documentation
+   (4) the upcoming toolchain 'RenderDocumentation' is at work for the manuals that already have the new theme. That toolchain rewrites the html files of manuals on the server so that ALL manuals use the SAME static files at (absolute!) `/t3SphinxThemeRtd/3.6.0/css` and so on.
+   (5) If specified in `buildsettings.sh`for a manual the toolchain creates a *.zip archive for download and offline use. In there is the HTML and PDF version. In this case of the download package the HTML is complete. It has all the static files included with fonts, js, css and so and does not reference anything external.
 
 
 Martin Bless	[7:16 PM]

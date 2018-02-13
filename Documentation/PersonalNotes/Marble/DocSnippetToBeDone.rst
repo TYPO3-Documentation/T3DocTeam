@@ -1,6 +1,5 @@
 .. include:: ../../Includes.txt
 
-
 ==============================
 To be done
 ==============================
@@ -227,31 +226,14 @@ Integrate further topics
 
 1. `rst-ing with PHPStorm
    <https://docs.typo3.org/typo3cms/drafts/github/wmdbsystems/RSTingWithPhpStormGuide/>`__
-   
+
    That content needs to partly go into `How To Document TYPO3 Projects
-   <https://docs.typo3.org/typo3cms/HowToDocument/>`__ and partly into 
+   <https://docs.typo3.org/typo3cms/HowToDocument/>`__ and partly into
    `Documentation Rendering <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/>`__.
-   
-   This should als cover the information of `Sphinx-Doc Installation Steps (2015) 
+
+   This should als cover the information of `Sphinx-Doc Installation Steps (2015)
    <http://mbless.de/blog/2015/01/26/sphinx-doc-installation-steps.html>`__.
-   
-   Keep an eye on the section about the :file:`_make` folder. 
+
+   Keep an eye on the section about the :file:`_make` folder.
    Provide a suitable :file:`make`-folder somewhere.
-
-
-
-
-More to be done
-===============
-
--  Tell people about css class `compactlist`
-
-
-More to be done
-===============
-
-.. toctree::
-
-   ToBeDone-2016-11-18.rst
-
 
