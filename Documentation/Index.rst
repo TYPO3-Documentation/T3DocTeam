@@ -30,6 +30,7 @@ See also:
 
    Sitemap/Index
    ToDoFiles/Index
+   CreateDocs/Index
    Topics/Index
    PersonalNotes/Index
    Linktargets/Index
