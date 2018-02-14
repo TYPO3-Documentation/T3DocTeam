@@ -1,12 +1,12 @@
 
 .. include:: ../Includes.txt
 
-=========
-Todo List
-=========
+==========
+Todo Files
+==========
 
 .. Do not put headlines here.
-.. Consider creating a file x.rst instead.
+.. Recommended: Use extra files like Something.rst
 
 
 **Contents:**
