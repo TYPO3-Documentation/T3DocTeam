@@ -2,7 +2,7 @@
 .. include:: ../Includes.txt
 
 ====================
-ToDo: ...
+ToDo ...
 ====================
 
 .. Do not put headlines here.
