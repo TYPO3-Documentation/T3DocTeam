@@ -20,4 +20,5 @@ Whatever
 __________________________________________________
 
 See also
+   * https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/StyleGuides/
    * https://github.com/alexpate/awesome-design-systems Has links to guidelines
