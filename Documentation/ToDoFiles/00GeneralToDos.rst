@@ -2,7 +2,7 @@
 .. include:: ../Includes.txt
 
 ========================
-ToDo: Long List
+ToDo: General Collection
 ========================
 
 .. if in doubt - put your stuff here
