@@ -1,5 +1,5 @@
 
-.. include:: ../../Includes.txt
+.. include:: ../Includes.txt
 
 ========================
 Documentation Styleguide
@@ -13,10 +13,10 @@ __________________________________________________
 
 Resources
    ...
-   
+
 Whatever
    ...
-   
+
 __________________________________________________
 
 See also
