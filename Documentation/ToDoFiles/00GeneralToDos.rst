@@ -1,9 +1,9 @@
 
 .. include:: ../Includes.txt
 
-===========================
-General Collection of ToDos
-===========================
+========================
+ToDo: General Collection
+========================
 
 .. if in doubt - put your stuff here
 
