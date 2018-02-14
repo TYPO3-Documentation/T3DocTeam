@@ -20,4 +20,4 @@ Whatever
 __________________________________________________
 
 See also
-   ...
+   * https://github.com/alexpate/awesome-design-systems Has links to guidelines
