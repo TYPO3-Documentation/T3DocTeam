@@ -2,7 +2,7 @@
 .. include:: ../Includes.txt
 
 ====================
-ToDo: Lots of Things
+ToDo: ...
 ====================
 
 .. Do not put headlines here.
@@ -16,4 +16,3 @@ ToDo: Lots of Things
    :titlesonly:
 
    *
-   CreateDocs/Index
