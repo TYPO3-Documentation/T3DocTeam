@@ -13,4 +13,5 @@ ToDo: General Collection
   that is active on page https://docs.typo3.org/services/GithubPullRequests/ Task: Display the Github labels
   as well (see `Tweet <https://twitter.com/marantern/status/899917436761362433>`__)
   
-* 2018-02-14 api.typo3.org: Keep an eye on discussion https://decisions.typo3.org/t/shut-down-api-typo3-org/355
+* 2018-02-14 Keep an eye on `discussion about api.typo3.org. 
+  <https://decisions.typo3.org/t/shut-down-api-typo3-org/355>`__
