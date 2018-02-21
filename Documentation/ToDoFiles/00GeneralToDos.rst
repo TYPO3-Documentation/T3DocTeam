@@ -7,6 +7,10 @@ ToDo: General Collection
 
 .. if in doubt - put your stuff here
 
+The date in the following list indicates the day of adding that item to the list.
+
+* 2018-02-21 Clean up Forge
+
 * 2018-02-15 Find a Javascript programmer to improve the
   `GithubPullRequests application 
   <https://github.com/TYPO3-Documentation/typo3-docs-typo3-org-resources/tree/master/webroot/services/GithubPullRequests>`__
