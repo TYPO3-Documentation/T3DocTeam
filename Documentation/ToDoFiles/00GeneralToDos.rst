@@ -9,6 +9,9 @@ ToDo: General Collection
 
 The date in the following list indicates the day of adding that item to the list.
 
+* 2018-02-22 We need a repair run for https://docs.typo3.org/typo3cms/extensions/manuals.json
+  and https://docs.typo3.org/typo3cms/extensions/extensions.js
+  
 * 2018-02-21 Clean up Forge
 
 * 2018-02-15 Find a Javascript programmer to improve the
