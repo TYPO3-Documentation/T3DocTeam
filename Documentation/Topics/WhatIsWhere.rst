@@ -40,6 +40,9 @@ Links may require a login.
 Documentation about how to write documentation for TYPO3
 ========================================================
 
+.. important::
+   This is an incomplete list started by Sybille Peters. Please help to complete this list and then remove this note. 
+
 Information about how to write includes but is not limited to the local rendering toolchain, reST in general, best practices and rules for structuring our docs, where to ask for help.
 
 This is a list of existing documents
