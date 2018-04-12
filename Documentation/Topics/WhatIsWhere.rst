@@ -5,7 +5,8 @@
 What is where?
 ==============
 
-Starting a list.
+General
+=======
 
 Links may require a login.
 
@@ -35,3 +36,21 @@ Links may require a login.
    (frozen `etherpad <https://notes.typo3.org/p/Server_Team_Meeting_2017-04-07>`__)
 
 -  2018-03-24 Repository overview https://github.com/TYPO3/repository-overview
+
+Documentation about how to write documentation for TYPO3
+========================================================
+
+Information about how to write includes but is not limited to the local rendering toolchain, reST in general, best practices and rules for structuring our docs, where to ask for help.
+
+This is a list of existing documents
+------------------------------------
+
+- `"How to document" <https://docs.typo3.org/typo3cms/HowToDocument/Index.html>`__ : How to use reST, general rules for our docs.
+- `"no title" (t3SphinxThemeDemoDocs) <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/>`__ : Examples (can probably be compared with the "styleguide" for the core?)
+- `"Teaching Docs" <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/>`__
+   - `"Style Guides" <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/StyleGuides/Index.html>`__
+- using docker for local rendering
+   - `Readme <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
+   
+
+- `t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd>`__ : used for rendering. If you use docker for local rendering or the GUI on github to edit documents, you do not need this!
