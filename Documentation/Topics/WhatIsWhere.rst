@@ -43,16 +43,29 @@ Documentation about how to write documentation for TYPO3
 .. important::
    This is an incomplete list started by Sybille Peters. Please help to complete this list and then remove this note. 
 
-Information about how to write includes but is not limited to the local rendering toolchain, reST in general, best practices and rules for structuring our docs, where to ask for help.
+Information about how to write includes but is not limited to the local rendering toolchain, reST in general, best practices and rules for structuring our docs.
 
 This is a list of existing documents
 ------------------------------------
+
+Writing documentation
 
 - `"How to document" <https://docs.typo3.org/typo3cms/HowToDocument/Index.html>`__ : How to use reST, general rules for our docs.
 - `"no title" (t3SphinxThemeDemoDocs) <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/>`__ : Examples (can probably be compared with the "styleguide" for the core?)
 - `"Teaching Docs" <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/>`__
 - `"Style Guides" <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/StyleGuides/Index.html>`__
-- using docker for local rendering: `Readme <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
- 
+- `"Writing documentation <https://docs.typo3.org/Tips/DocumentationWriters/Index.html>`__
 
+Rendering Toolchain
+
+- using docker for local rendering: `Readme <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
 - `t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd>`__ : used for rendering. If you use docker for local rendering or the GUI on github to edit documents, you do not need this!
+
+Planned documents / WIP
+-----------------------
+
+.. note::
+   Please contact @sybille on slack if you want to help with the contribution guides.
+
+- "Step-by-step" guide: "How to contribute to TYPO3 documentation". Should have a similar structure as the ? `"TYPO3 Contribution Guide" <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>`__ for contibuting to the TYPO3 core. 
+
