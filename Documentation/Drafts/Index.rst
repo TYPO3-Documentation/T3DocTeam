@@ -7,6 +7,6 @@ Drafts
 .. toctree::
    :hidden:
 
-   AnnotatedBibliography/Index
+   AnnotatedBibliography
    ContributionGuideDocumentation/Index
    ContributionGuideCore/Index
