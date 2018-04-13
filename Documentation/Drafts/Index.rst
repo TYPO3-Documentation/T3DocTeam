@@ -5,6 +5,6 @@ Drafts
 ======
 
 .. toctree::
-   :global:
+   :glob:
 
    *
