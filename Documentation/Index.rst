@@ -29,6 +29,7 @@ See also:
    :hidden:
 
    Sitemap/Index
+   Drafts/Index
    ToDoFiles/Index
    CreateDocs/Index
    Topics/Index
