@@ -4,13 +4,15 @@
 .. _start:
 
 ======================================
-TYPO3 documentation contribution guide
+TYPO3 Documentation Contribution Guide
 ======================================
 
 aka "How to contribute to TYPO3 documentation"
 
 .. toctree::
+   :glob:
    :hidden:
 
    ContributionGuideDocumentationDraft/Index
    ContributionGuideDocumentationNotes/Index
+   *
