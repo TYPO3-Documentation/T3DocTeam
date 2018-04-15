@@ -19,7 +19,6 @@ Still to do
       .. role:: aspect (emphasis)
       .. role:: html(code)
       .. role:: js(code)
-      .. role:: method(code)
       .. role:: php(code)
       .. role:: sep (strong)
       .. role:: typoscript(code)
@@ -29,7 +28,13 @@ Still to do
 
       .. default-role:: code
       .. highlight:: php
+
+   Progress of doing it::
+   
+      TCA-Reference 8-7: Done
+      ...
   
+
 
 Done
 ====
