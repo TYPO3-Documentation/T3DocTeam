@@ -1,0 +1,37 @@
+.. include:: ../../Includes.txt
+
+=====
+To Do
+=====
+
+Still to do
+===========
+
+(file todos here)
+
+#. 2018-04-15 The :file:`Includes.txt` file should be updated everywhere
+   to have the textroles 'sep' and 'aspect' as well. Note that the
+   TypoScript references have 'highlight:: typoscript' as default::
+   
+      .. This is 'Includes.txt'. It is included at the very top of each and
+         every ReST source file in THIS documentation project (= manual).
+
+      .. role:: aspect (emphasis)
+      .. role:: html(code)
+      .. role:: js(code)
+      .. role:: method(code)
+      .. role:: php(code)
+      .. role:: sep (strong)
+      .. role:: typoscript(code)
+
+      .. role:: ts(typoscript)
+         :class: typoscript
+
+      .. default-role:: code
+      .. highlight:: php
+  
+
+Done
+====
+
+(move done issues here)
