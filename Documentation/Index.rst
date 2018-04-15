@@ -31,7 +31,6 @@ See also:
    Sitemap/Index
    Drafts/Index
    ToDoFiles/Index
-   CreateDocs/Index
    Topics/Index
    PersonalNotes/Index
    Linktargets/Index
