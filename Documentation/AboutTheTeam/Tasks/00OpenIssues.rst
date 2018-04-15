@@ -1,10 +1,10 @@
 .. include:: ../../Includes.txt
 
-=====
-To Do
-=====
+==============
+List of Issues
+==============
 
-Still to do
+Open issues
 ===========
 
 (file todos here)
@@ -36,7 +36,7 @@ Still to do
   
 
 
-Done
-====
+Resolved issues
+===============
 
 (move done issues here)
