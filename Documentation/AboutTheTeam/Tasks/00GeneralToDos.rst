@@ -1,9 +1,9 @@
 
 .. include:: ../../Includes.txt
 
-========================
-ToDo: General Collection
-========================
+=====================
+What the team handles
+=====================
 
 .. if in doubt - put your stuff here
 
