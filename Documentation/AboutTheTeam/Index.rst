@@ -1,9 +1,9 @@
 
 .. include:: ../Includes.txt
 
-==============
-About The Team
-==============
+========================
+About The Team And Tasks
+========================
 
 
 .. rst-class:: compact-list
