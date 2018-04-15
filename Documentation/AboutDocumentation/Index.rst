@@ -1,9 +1,9 @@
 
 .. include:: ../Includes.txt
 
-======
-Topics
-======
+===================
+About Documentation
+===================
 
 
 .. rst-class:: compact-list
@@ -12,5 +12,4 @@ Topics
    :titlesonly:
 
    *
-   HowToDocument/Index
    BeyondTypo3Documentation/Index

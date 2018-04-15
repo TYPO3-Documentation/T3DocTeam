@@ -29,8 +29,8 @@ See also:
    :hidden:
 
    Sitemap/Index
+   AboutDocumentation/Index
+   AboutTheTeam/Index
    Drafts/Index
-   ToDoFiles/Index
-   Topics/Index
    PersonalNotes/Index
    Linktargets/Index
