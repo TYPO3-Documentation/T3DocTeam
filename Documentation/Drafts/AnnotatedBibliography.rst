@@ -4,9 +4,7 @@
 Annotated Bibliography
 ======================
 
-Reading list: What to read when
+Reading list: What to read when?
 
-Newbie
-======
-...
+((to be written))
 
