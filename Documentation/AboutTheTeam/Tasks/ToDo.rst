@@ -29,10 +29,10 @@ Still to do
       .. default-role:: code
       .. highlight:: php
 
-   Progress of doing it::
+   Keeping track of where it is correct already::
    
-      TCA-Reference 8-7: Done
-      ...
+      - TCA-Reference 8-7   :  is correct
+      - TCA-Reference master:  needs check
   
 
 
