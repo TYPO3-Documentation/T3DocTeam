@@ -1,9 +1,9 @@
 
 .. include:: ../../Includes.txt
 
-=====================
-What the team handles
-=====================
+============================
+What the team generally does
+============================
 
 .. if in doubt - put your stuff here
 
