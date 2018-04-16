@@ -32,10 +32,15 @@ Open issues
    Keeping track of where it is correct already::
    
       - TCA-Reference 8-7   :  is correct
-      - TCA-Reference master:  needs check
+      - TCA-Reference master:  is correct
   
 
 #. Sort permissions of Github/TYPO3-Documentation (marble/lolli)
+
+#. What people can do:
+   - The TCA reference has a lot of inlcuded files (:file:`*.rst.txt`) that should
+     be edited to have the 'dl-parameters' style. See `How to document > styled definition lists
+     <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/DefinitionLists.html#list-style-dl-parameters>`__
 
 
 
