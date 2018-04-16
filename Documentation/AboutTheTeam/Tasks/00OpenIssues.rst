@@ -35,6 +35,9 @@ Open issues
       - TCA-Reference master:  needs check
   
 
+#. Sort permissions of Github/TYPO3-Documentation (marble/lolli)
+
+
 
 Resolved issues
 ===============
