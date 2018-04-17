@@ -33,13 +33,25 @@ Open issues
    
       - TCA-Reference 8-7   :  is correct
       - TCA-Reference master:  is correct
+      
+#. There is more we should apply to ALL manuals:
+
+   - fix the :file:`Include.txt` file
+   - check the :file:`.gitignore` file
+   - add an :file:`.editorconfig` file
   
 
 #. Sort permissions of Github/TYPO3-Documentation (marble/lolli)
 
 #. What people can do:
+
    - The TCA reference has a lot of inlcuded files (:file:`*.rst.txt`) that should
      be edited to have the 'dl-parameters' style. See `How to document > styled definition lists
+     <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/DefinitionLists.html#list-style-dl-parameters>`__
+     
+   - Replace all tabs by three blanks
+   
+   - Apply the `"dl-parameters" style
      <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/DefinitionLists.html#list-style-dl-parameters>`__
 
 
