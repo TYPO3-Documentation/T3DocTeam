@@ -10,10 +10,6 @@ TYPO3 (core) contribution guide
    exists. We are using this space to collect new ideas.
 
 .. toctree::
-   :glob:
-   :hidden:
+   :titlesonly:
 
-   AnnotatedBibliography
-   DocumentationStyleguide
-   ContributionGuideDocumentation/Index
-   ContributionGuideCore/Index
+   Testing
