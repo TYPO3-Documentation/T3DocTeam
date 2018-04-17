@@ -15,14 +15,19 @@ T3DocTeam At Work
 
 See also:
 
--  `001: Notes Martin Bless
-   <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/>`__
+-  `How to document TYPO3 projects
+   <https://docs.typo3.org/typo3cms/HowToDocument/>`__
 
 -  `041: T3O team
    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
 
 -  `t3SphinxThemeRtdDemoDocs
    <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/ThisAndThat/Index.html>`__
+   
+-  `001: Notes Martin Bless
+   <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/>`__
+
+   
 
 
 .. toctree::
