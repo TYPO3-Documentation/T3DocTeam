@@ -29,10 +29,18 @@ Open issues
       .. default-role:: code
       .. highlight:: php
 
-   Keeping track of where it is correct already::
+   *Keeping track of what we have already:* The :file:`_make` folder should be
+   absent and be mentioned in the .gitignore. The other files should be present
+   and be ok. The check mark signals what has been checked already and is ok.
    
-      - TCA-Reference 8-7   :  is correct
-      - TCA-Reference master:  is correct
+      =============== ========= ============= =========== ============== =======
+      manual          branch    Includes.txt  .gitignore  .editorconfig  _make
+      =============== ========= ============= =========== ============== =======
+      TCA-Reference   8-7             ✔            ?             ?          ?  
+      TCA-Reference   master          ✔            ?             ?          ?  
+      ...
+      
+      
       
 #. There is more we should apply to ALL manuals:
 
