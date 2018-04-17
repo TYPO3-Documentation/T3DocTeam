@@ -34,6 +34,8 @@ Open issues
    absent and be mentioned in the .gitignore. The other files should be present
    and be ok. The check mark signals what has been checked already and is ok.
    
+   ::
+   
       =============== ========= ============= =========== ============== =======
       manual          branch    Includes.txt  .gitignore  .editorconfig  _make
       =============== ========= ============= =========== ============== =======
