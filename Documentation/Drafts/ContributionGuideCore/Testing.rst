@@ -1,7 +1,7 @@
 .. include:: ../../Includes.txt
 .. highlight:: shell
 
-.. imortant::
+.. important::
    Drafts version of https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/Testing/Index.html
    
 
