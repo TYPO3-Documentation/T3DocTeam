@@ -7,11 +7,12 @@ List of Issues
 Open issues
 ===========
 
-(file todos here)
+#. ...
 
-#. 2018-04-15 The :file:`Includes.txt` file should be updated everywhere
+#. The :file:`Includes.txt` file should be updated everywhere
    to have the textroles 'sep' and 'aspect' as well. Note that the
-   TypoScript references have 'highlight:: typoscript' as default::
+   TypoScript references have 'highlight:: typoscript' as default
+   (filed 2018-04-15)::
    
       .. This is 'Includes.txt'. It is included at the very top of each and
          every ReST source file in THIS documentation project (= manual).
@@ -59,8 +60,9 @@ Open issues
      
    - Replace all tabs by three blanks
    
-   - Apply the `"dl-parameters" style
+   - Apply the `"dl-parameters"
      <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/DefinitionLists.html#list-style-dl-parameters>`__
+     style
 
 
 
