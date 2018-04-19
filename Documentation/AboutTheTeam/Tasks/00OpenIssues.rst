@@ -40,7 +40,7 @@ Open issues
       manual          branch    Includes.txt  .gitignore  .editorconfig  _make
       =============== ========= ============= =========== ============== =======
       TCA-Reference   8-7             ✔            ?             ?          ?  
-      TCA-Reference   master          ✔            ?             ?          ?  
+      TCA-Reference   latest          ✔            ?             ?          ?  
       ...
       
       
