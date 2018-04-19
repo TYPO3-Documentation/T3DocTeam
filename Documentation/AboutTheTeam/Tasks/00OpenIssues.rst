@@ -39,6 +39,7 @@ Open issues
       =============== ========= ============= =========== ============== =======
       manual          branch    Includes.txt  .gitignore  .editorconfig  _make
       =============== ========= ============= =========== ============== =======
+      CoreApi         latest          ✔            ?             ?          ?  
       TCA-Reference   8-7             ✔            ?             ?          ?  
       TCA-Reference   latest          ✔            ?             ?          ?  
       ...
