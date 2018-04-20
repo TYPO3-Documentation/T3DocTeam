@@ -5,9 +5,9 @@ Drafts
 ======
 
 .. toctree::
-   .. toctree::
+   :glob:
    :hidden:
 
    *
-   ContributionGuideDocumentation/Index
    ContributionGuideCore/Index
+   ContributionGuideDocumentation/Index
