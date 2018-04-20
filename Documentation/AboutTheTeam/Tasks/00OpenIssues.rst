@@ -15,6 +15,51 @@ Open issues
 
 Who can do what? 
 
+[TODO] Sort permissions of Github/TYPO3-Documentation
+-----------------------------------------------------
+
+who: marble/lolli
+
+[WORKFLOW] How to keep track of which manual needs editing
+----------------------------------------------------------
+
+* How do we keep track of which manual with which branch is in what state of progress 
+  and needs editorial attention?
+* How do we communicate this to potential contributors, for example those at the UXweek?
+
+[DECISION] What to do with Extbase / Fluid book
+-----------------------------------------------
+
+* View Helpers?
+* Entire book is continuously being questioned, should be revised / taken offline?
+
+[DECISION] Should we display version hints
+------------------------------------------
+
+* Should we display "version hints" (e.g. "new in version 8.7", "changed in version 9.2") 
+  in docs. Example: TCA Ref? 
+* Example in other docs, see 
+  https://docs.saltstack.com/en/latest/ref/configuration/minion.html#master-port-syntax
+
+[DECSIION] General structure for all manuals 
+--------------------------------------------
+
+* Should all manuals have an introduction, what should go in there? 
+* Should the start page have only the Metadata table or for example contain something that looks nice and makes people curious to dive in, for example an embedded video about the topic or an image. 
+* Do we want a "What's new" section for pages and things that have been added recently?
+ 
+[TASK] Move / cleanup all public repos
+--------------------------------------
+ 
+Existing issues on forge:
+* https://forge.typo3.org/projects/team-docteam/issues
+* https://forge.typo3.org/projects/typo3cms-doc-core-api/issues
+* ...
+ 
+ 
+* Should all (public) documentation git projects and their (still relevant) open issues be moved from forge to github? 
+* if yes, someone has to do this
+
 [TODO] Cleanup Jobs for all manuals 
 -----------------------------------
 
@@ -99,12 +144,8 @@ TypoScript references have 'highlight:: typoscript' as default
       .. default-role:: code
       .. highlight:: php
       
-  
 
-[TODO] Sort permissions of Github/TYPO3-Documentation
------------------------------------------------------
 
-who: marble/lolli
 
 Resolved issues
 ===============
