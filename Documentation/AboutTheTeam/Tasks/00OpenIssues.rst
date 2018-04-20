@@ -52,6 +52,7 @@ who: marble/lolli
 --------------------------------------
  
 Existing issues on forge:
+
 * https://forge.typo3.org/projects/team-docteam/issues
 * https://forge.typo3.org/projects/typo3cms-doc-core-api/issues
 * ...
