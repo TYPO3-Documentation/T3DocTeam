@@ -37,7 +37,3 @@ Links may require a login.
 
 -  2018-03-24 Repository overview https://github.com/TYPO3/repository-overview
 
-Documentation about how to write documentation for TYPO3
-========================================================
-
-This list was moved to :ref:`Linklist docs about docs <contrib-guide-docs-notes-linklist-docs-about-docs>`
