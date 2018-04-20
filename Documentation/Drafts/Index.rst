@@ -5,8 +5,9 @@ Drafts
 ======
 
 .. toctree::
-   :titlesonly:
+   .. toctree::
+   :hidden:
 
-   AnnotatedBibliography
+   *
    ContributionGuideDocumentation/Index
    ContributionGuideCore/Index
