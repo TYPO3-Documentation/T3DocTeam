@@ -10,6 +10,11 @@ Open issues
 [DECISION] What to do with the Wiki
 -----------------------------------
 
+[TODO] Assign tasks
+-------------------
+
+Who can do what? 
+
 [TODO] Cleanup Jobs for all manuals 
 -----------------------------------
 
