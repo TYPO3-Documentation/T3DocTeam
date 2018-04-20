@@ -26,11 +26,8 @@ Documentation about how to write documentation for TYPO3
    You can use this as a start for the new idea "Annotated Bibliography".
 
 
-
-This is a list of existing documents
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Writing documentation
+~~~~~~~~~~~~~~~~~~~~~
 
 - `"How to document" <https://docs.typo3.org/typo3cms/HowToDocument/Index.html>`__ : How to use reST, general rules for our docs.
 - `"no title" (t3SphinxThemeDemoDocs) <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/>`__ : Examples (can probably be compared with the "styleguide" for the core?)
@@ -46,8 +43,13 @@ Writing documentation
 
 
 Rendering Toolchain
+~~~~~~~~~~~~~~~~~~~
 
 - using docker for local rendering: `Readme <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
 - `t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd>`__ : used for rendering. If you use docker for local rendering or the GUI on github to edit documents, you do not need this!
 
+Documentation only for Docs Team
+--------------------------------
+
+- `T3Docs Team Writing here <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/Index.html>`__
 
