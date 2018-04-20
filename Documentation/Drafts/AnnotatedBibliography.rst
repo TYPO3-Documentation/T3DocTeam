@@ -5,13 +5,16 @@ Annotated Bibliography
 ======================
 
 Reading list: What to read when?
+================================
 
 ((to be written))
 
 .. contrib-guide-docs-notes-linklist:
 
-Linklist
+Linklist 
 ========
+
+
 
 .. _contrib-guide-docs-notes-linklist-docs-about-docs:
 
@@ -20,9 +23,8 @@ Documentation about how to write documentation for TYPO3
 
 .. important::
    This is an incomplete list started by Sybille Peters. Please help to complete this list and then remove this note.
-   You can use this as a start for the new idea "Annotated list for newbies".
+   You can use this as a start for the new idea "Annotated Bibliography".
 
-Information about how to write includes but is not limited to the local rendering toolchain, reST in general, best practices and rules for structuring our docs.
 
 
 This is a list of existing documents
@@ -35,7 +37,13 @@ Writing documentation
 - `"Teaching Docs" <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/>`__
 - `"Style Guides" <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/StyleGuides/Index.html>`__
 - `"Writing documentation <https://docs.typo3.org/Tips/DocumentationWriters/Index.html>`__
-- `"About TYPO3 Documentation <https://docs.typo3.org/About.html>`__
+- `"About TYPO3 Documentation <https://docs.typo3.org/About.html>`__: 
+
+   - `Writing documentation <https://docs.typo3.org/Tips/DocumentationWriters/Index.html#>`__
+   - `How to trigger rendering <https://docs.typo3.org/Tips/DocumentationWriters/DocumentationBuild/Index.html>`__
+   - `Documentation news <https://docs.typo3.org/News/Index.html>`__
+   - more ...
+
 
 Rendering Toolchain
 
