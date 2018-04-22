@@ -4,8 +4,69 @@
 List of Issues
 ==============
 
+used tags:
+
+* `[PROPOSAL]` : describes an idea, that still needs to be refined and needs
+  feedback or approval from the team. Because the proposals tend to be longer,
+  the descriptions are currently in a seperate file :ref:`tasks-proposals`
+* `[DECISION]` : is something that we need to decide on before moving
+  forward.
+* `[TODO]`     : are things that can just be done without waiting for
+  approval or discussions about if, how and what.
+* `[QUESTION]`
+
+
 Open issues
 ===========
+
+
+
+[DECISION] How do we communicate?
+---------------------------------
+
+Slack is ideal for some things but not all. Is there a way we can find
+solutions for things that are a little more complex to solve and where
+we need to focus on one topic and get it clarified?
+
+Specifically: Can we use `decisions <https://decisions.typo3.org/>`__
+for Docs related questions?
+
+"This platform is meant for discussions and votings on strategic topics
+of greater impact for the **TYPO3 Core Development.**"
+
+Or anything else? Talk? Mailing-List?
+
+.. _todos-overview-of-all-docs:
+
+
+[TODO] Searchengine
+-------------------
+
+Current status? Does this need help? Next steps?
+
+[TODO]: Finish overview of all docs
+-----------------------------------
+
+**new**
+
+Here we try to collect a list of docs we already have: things on
+docs.typo3.org, in the Wiki, but also in other places.
+
+Then we can decide, what we have, what we need, if manuals should
+be merged, new ones created, things moved from the wiki etc.
+
+:ref:`list-of-current-resources`
+
+[DECISION] How to keep track of which manual needs editing
+----------------------------------------------------------
+
+* How do we keep track of which manual with which branch is in what state
+  of progress and needs editorial attention?
+* How do we communicate this to potential contributors, for example those
+  at the UXweek?
+
+Also see current draft: :ref:`overview-of-manuals-current-status`
+
 
 [DECISION] What to do with the Wiki
 -----------------------------------
@@ -18,26 +79,21 @@ Who can do what?
 [TODO] Sort permissions of Github/TYPO3-Documentation
 -----------------------------------------------------
 
-who: marble/lolli
+`Assignees: marble/lolli`
 
-[WORKFLOW] How to keep track of which manual needs editing
-----------------------------------------------------------
-
-* How do we keep track of which manual with which branch is in what state of progress 
-  and needs editorial attention?
-* How do we communicate this to potential contributors, for example those at the UXweek?
 
 [DECISION] What to do with Extbase / Fluid book
 -----------------------------------------------
 
 * View Helpers?
-* Entire book is continuously being questioned, should be revised / taken offline?
+* Entire book is continuously being questioned, should be revised / taken
+  offline / replaced with what?
 
 [DECISION] Should we display version hints
 ------------------------------------------
 
-* Should we display "version hints" (e.g. "new in version 8.7", "changed in version 9.2") 
-  in docs. Example: TCA Ref? 
+* Should we display "version hints" (e.g. "new in version 8.7", "changed
+  in version 9.2") in docs. Example: TCA Ref?
 * Example in other docs, see 
   https://docs.saltstack.com/en/latest/ref/configuration/minion.html#master-port-syntax
 
@@ -45,10 +101,10 @@ who: marble/lolli
 --------------------------------------------
 
 * Should all manuals have an introduction, what should go in there? 
-* Should the start page have only the Metadata table or for example contain something that looks nice and makes people curious to dive in, for example an embedded video about the topic or an image. 
-* Do we want a "What's new" section for pages and things that have been added recently?
+* Do we want a "What's new" section for pages and things that have
+  been added recently?
  
-[TASK] Move / cleanup all public repos
+[TODO] Move / cleanup all public repos
 --------------------------------------
  
 Existing issues on forge:
@@ -58,7 +114,8 @@ Existing issues on forge:
 * ...
  
  
-* Should all (public) documentation git projects and their (still relevant) open issues be moved from forge to github? 
+* Should all (public) documentation git projects and their (still
+  relevant) open issues be moved from forge to github?
 * if yes, someone has to do this
 
 [TODO] Cleanup Jobs for all manuals 

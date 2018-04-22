@@ -3,9 +3,9 @@
 
 .. _start:
 
-======================================
-TYPO3 Documentation Contribution Guide
-======================================
+========================================
+TYPO3 Contribution Guide - Documentation
+========================================
 
 aka "How to contribute to TYPO3 documentation"
 

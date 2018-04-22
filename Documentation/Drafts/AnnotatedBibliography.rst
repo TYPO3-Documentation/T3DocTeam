@@ -4,6 +4,8 @@
 Annotated Bibliography
 ======================
 
+This is a list about docs about writing docs.
+
 Reading list: What to read when?
 ================================
 
@@ -34,7 +36,7 @@ Writing documentation
 - `"Teaching Docs" <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/>`__
 - `"Style Guides" <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/StyleGuides/Index.html>`__
 - `"Writing documentation <https://docs.typo3.org/Tips/DocumentationWriters/Index.html>`__
-- `"About TYPO3 Documentation <https://docs.typo3.org/About.html>`__: 
+- `"About TYPO3 Documentation <https://docs.typo3.org/About.html>`__:
 
    - `Writing documentation <https://docs.typo3.org/Tips/DocumentationWriters/Index.html#>`__
    - `How to trigger rendering <https://docs.typo3.org/Tips/DocumentationWriters/DocumentationBuild/Index.html>`__
@@ -45,6 +47,8 @@ Writing documentation
 Rendering Toolchain
 ~~~~~~~~~~~~~~~~~~~
 
+- `Render TYPO3 Documentation Guide
+  <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/>`__
 - using docker for local rendering: `Readme <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
 - `t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd>`__ : used for rendering. If you use docker for local rendering or the GUI on github to edit documents, you do not need this!
 
