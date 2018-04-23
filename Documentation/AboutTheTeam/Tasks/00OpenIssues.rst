@@ -33,6 +33,20 @@ Move (still relevant) open issues to Github to corresponding project.
 `Assignee: Michael Schams (Security Guide)`
 `Assignee: Sybille Peters (CGL, Core API)`
 
+[TODO] Archive no longer used Repos on Github
+---------------------------------------------
+
+Archiving means the repositories are still there but less visible and read-only. 
+
+
+See https://docs.typo3.org/typo3cms/References/Index.html
+
+* TYPO3CMS-Reference-CodingGuidelines
+* TYPO3CMS-Reference-FileAbstractionLayer (edited)
+* TYPO3CMS-Reference-Typo3Services (edited)
+* TYPO3CMS-Reference-TyposcriptSyntax
+
+These are all moved to Core API. 
 
 [DECISION] How do we communicate?
 ---------------------------------
