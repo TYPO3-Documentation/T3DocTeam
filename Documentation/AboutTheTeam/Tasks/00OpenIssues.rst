@@ -19,6 +19,19 @@ used tags:
 Open issues
 ===========
 
+[IN_PROGRESS] Move / cleanup all public repos
+--------------------------------------
+ 
+Existing issues on forge:
+
+* https://forge.typo3.org/projects/team-docteam/issues
+* https://forge.typo3.org/projects/typo3cms-doc-core-api/issues
+* ...
+ 
+Move (still relevant) open issues to Github to corresponding project.
+
+`Assignee: Michael Schams (Security Guide)`
+`Assignee: Sybille Peters (CGL, Core API)`
 
 
 [DECISION] How do we communicate?
@@ -104,19 +117,6 @@ Who can do what?
 * Do we want a "What's new" section for pages and things that have
   been added recently?
  
-[TODO] Move / cleanup all public repos
---------------------------------------
- 
-Existing issues on forge:
-
-* https://forge.typo3.org/projects/team-docteam/issues
-* https://forge.typo3.org/projects/typo3cms-doc-core-api/issues
-* ...
- 
- 
-* Should all (public) documentation git projects and their (still
-  relevant) open issues be moved from forge to github?
-* if yes, someone has to do this
 
 [TODO] Cleanup Jobs for all manuals 
 -----------------------------------
