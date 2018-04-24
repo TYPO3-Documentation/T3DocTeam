@@ -1,7 +1,7 @@
 .. include:: ../../../Includes.txt
 .. highlight:: rst
 
-.. _start:
+.. _start-TYPO3-contribution-guide-Documentation:
 
 ========================================
 TYPO3 contribution guide - Documentation

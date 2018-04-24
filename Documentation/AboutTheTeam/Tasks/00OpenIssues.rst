@@ -9,10 +9,12 @@ used tags:
 * `[PROPOSAL]` : describes an idea, that still needs to be refined and needs
   feedback or approval from the team. Because the proposals tend to be longer,
   the descriptions are currently in a seperate file :ref:`tasks-proposals`
-* `[DECISION]` : is something that we need to decide on before moving
-  forward.
-* `[TODO]`     : are things that can just be done without waiting for
-  approval or discussions about if, how and what.
+
+* `[DECISION]` : is something that we need to decide on before moving forward.
+
+* `[TODO]`     : are things that can just be done without waiting for approval
+  or discussions about if, how and what.
+
 * `[QUESTION]`
 
 
@@ -20,14 +22,14 @@ Open issues
 ===========
 
 [IN_PROGRESS] Move / cleanup all public repos
---------------------------------------
- 
+---------------------------------------------
+
 Existing issues on forge:
 
 * https://forge.typo3.org/projects/team-docteam/issues
 * https://forge.typo3.org/projects/typo3cms-doc-core-api/issues
 * ...
- 
+
 Move (still relevant) open issues to Github to corresponding project.
 
 `Assignee: Michael Schams (Security Guide)`
@@ -36,7 +38,7 @@ Move (still relevant) open issues to Github to corresponding project.
 [TODO] Archive no longer used Repos on Github
 ---------------------------------------------
 
-Archiving means the repositories are still there but less visible and read-only. 
+Archiving means the repositories are still there but less visible and read-only.
 
 
 See https://docs.typo3.org/typo3cms/References/Index.html
@@ -46,7 +48,7 @@ See https://docs.typo3.org/typo3cms/References/Index.html
 * TYPO3CMS-Reference-Typo3Services (edited)
 * TYPO3CMS-Reference-TyposcriptSyntax
 
-These are all moved to Core API. 
+These are all moved to Core API.
 
 [DECISION] How do we communicate?
 ---------------------------------
@@ -101,7 +103,7 @@ Also see current draft: :ref:`overview-of-manuals-current-status`
 [TODO] Assign tasks
 -------------------
 
-Who can do what? 
+Who can do what?
 
 [TODO] Sort permissions of Github/TYPO3-Documentation
 -----------------------------------------------------
@@ -121,18 +123,18 @@ Who can do what?
 
 * Should we display "version hints" (e.g. "new in version 8.7", "changed
   in version 9.2") in docs. Example: TCA Ref?
-* Example in other docs, see 
+* Example in other docs, see
   https://docs.saltstack.com/en/latest/ref/configuration/minion.html#master-port-syntax
 
-[DECSIION] General structure for all manuals 
+[DECSIION] General structure for all manuals
 --------------------------------------------
 
-* Should all manuals have an introduction, what should go in there? 
+* Should all manuals have an introduction, what should go in there?
 * Do we want a "What's new" section for pages and things that have
   been added recently?
- 
 
-[TODO] Cleanup Jobs for all manuals 
+
+[TODO] Cleanup Jobs for all manuals
 -----------------------------------
 
 There are some jobs which should be done in ALL manuals:
@@ -141,15 +143,15 @@ There are some jobs which should be done in ALL manuals:
    *Keeping track of what we have already:* The :file:`_make` folder should be
    absent and be mentioned in the .gitignore. The other files should be present
    and be ok. The check mark signals what has been checked already and is ok.
-   
+
    ::
-   
+
       =============== ========= ============= =========== ============== =======
       manual          branch    Includes.txt  .gitignore  .editorconfig  _make
       =============== ========= ============= =========== ============== =======
-      CoreApi         latest          ✔            ?             ?          ?  
-      TCA-Reference   8-7             ✔            ?             ?          ?  
-      TCA-Reference   latest          ✔            ?             ?          ?  
+      CoreApi         latest          ✔            ?             ?          ?
+      TCA-Reference   8-7             ✔            ?             ?          ?
+      TCA-Reference   latest          ✔            ?             ?          ?
       ...
 
 
@@ -161,7 +163,7 @@ intersphinx
 
 Use the same shortcuts for the intersphinx mapping in Settings.cfg
 
-Have a similar structure 
+Have a similar structure
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 * "Introduction" with "Contrib" section
@@ -170,10 +172,10 @@ Have a similar structure
 Feedback / Contrib
 ~~~~~~~~~~~~~~~~~~
 
-Update the "Feedback" or "Contribution" section in the "Introduction" section. 
+Update the "Feedback" or "Contribution" section in the "Introduction" section.
 
-Some of them are missing information about Slack and are still sending people to the mailing-
-list where they will sit in the void and wait forever. 
+Some of them are missing information about Slack and are still sending people
+to the mailing-list where they will sit in the void and wait forever.
 
 .editorconfig
 ~~~~~~~~~~~~~
@@ -187,7 +189,7 @@ dl-parameters
 The TCA reference has a lot of inlcuded files (:file:`*.rst.txt`) that should
 be edited to have the 'dl-parameters' style. See `How to document > styled definition lists
 <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/DefinitionLists.html#list-style-dl-parameters>`__
-     
+
 Replace all tabs by three blanks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -199,7 +201,7 @@ The :file:`Includes.txt` file should be updated everywhere
 to have the textroles 'sep' and 'aspect' as well. Note that the
 TypoScript references have 'highlight:: typoscript' as default
 (filed 2018-04-15)::
-   
+
       .. This is 'Includes.txt'. It is included at the very top of each and
          every ReST source file in THIS documentation project (= manual).
 
@@ -215,7 +217,7 @@ TypoScript references have 'highlight:: typoscript' as default
 
       .. default-role:: code
       .. highlight:: php
-      
+
 
 
 
