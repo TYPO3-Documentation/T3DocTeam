@@ -13,18 +13,10 @@ Overview of Manuals
 State of Manuals
 ================
 
-**Note: This task is not realistically possible to do by one person.
-This is a VERY ROUGH FIRST ATTEMPT!!!
-Pending further decision**
-
-
-Overview of state of manuals. We should consider all branches, but
-for pragmatic reasons we don't.
-
-As a first step we take all `guides, tutorials
+Initially taken from `guides and tutorials
 <https://docs.typo3.org/typo3cms/GuidesAndTutorials/Index.html>`__
-and `references <https://docs.typo3.org/typo3cms/References/Index.html>`__
-from docs.typo3.org.
+and `references <https://docs.typo3.org/typo3cms/References/Index.html>`__.
+For pragmatic reasons we don't list individual branches here.
 
 
 .. t3-field-list-table::
