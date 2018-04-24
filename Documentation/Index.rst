@@ -37,5 +37,6 @@ See also:
    AboutDocumentation/Index
    AboutTheTeam/Index
    Drafts/Index
+   HowWeWork/Index
    PersonalNotes/Index
    Linktargets/Index
