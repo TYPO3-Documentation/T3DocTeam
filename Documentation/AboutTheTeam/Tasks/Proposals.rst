@@ -150,8 +150,9 @@ First, we need an overview what we actually have and in what state
 it is in, see also: :ref:`overview-of-manuals`
 
 Questions:
+
 * Can we automatically generate this list?
-* Can we additionally add a list, grouped by topic?
+* Can we additionally add a list, grouped by topic (should not be a problem, if list is automatically generated)?
 
 
 
