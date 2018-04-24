@@ -4,6 +4,9 @@
 Using Github
 ============
 
+List of pull requests
+   https://docs.typo3.org/services/GithubPullRequests/
+
 Search Github
    Search for: 
    ✦
