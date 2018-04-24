@@ -66,7 +66,8 @@ and will keep the manual up-to-date.
 The intention of this is to pull some of the people who
 are currently maintaining excellent blogs into docs.
 
-Side-Effect:
+Side-Effects:
+
 * Your name is in there, you will **make sure** it looks good!
 * People who are currently using their blogs as a marketing 
   instrument, get a platform. Hopefully, someone will be
