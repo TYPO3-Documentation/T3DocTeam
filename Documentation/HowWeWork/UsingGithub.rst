@@ -5,12 +5,12 @@ Using Github
 ============
 
 List of pull requests
-   https://docs.typo3.org/services/GithubPullRequests/
+   `List at docs.typo3.org <https://docs.typo3.org/services/GithubPullRequests/>`__
 
 Search Github
    Search for: 
    ✦
-   `open issues 
+   `open issues, recently updated 
    <https://github.com/search?o=desc&q=org%3ATYPO3-Documentation+type%3Aissue&s=updated&state=open&type=Issues>`__
    ✦
      
