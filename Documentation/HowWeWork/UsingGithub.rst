@@ -15,6 +15,8 @@ Search Github
    ✦
      
 Find help
-   * About `searching issues and pull-requests
-     <https://help.github.com/articles/searching-issues-and-pull-requests/>`__
+   ✦
+   `searching Github issues and pull-requests
+   <https://help.github.com/articles/searching-issues-and-pull-requests/>`__
+   ✦
    
