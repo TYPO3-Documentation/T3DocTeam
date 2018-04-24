@@ -49,13 +49,19 @@ from docs.typo3.org.
    :About:
 
  - :Manual:       :ref:`t3security:start`
-   :Mentor:
+   :Mentor:       Michael Schams
    :State:
    :NextStep:
    :About:
 
+ - :Manual:       Site Package Tutorial
+   :Mentor:       Michael Schams
+   :State:        upcoming
+   :NextStep:
+   :About:
+
  - :Manual:       :ref:`t3contribute:start`
-   :Mentor:
+   :Mentor:       Sybille Peters
    :State:        Up-to-date, proofread (4/2018)
    :NextStep:
    :About:        TYPO3 core contribution
@@ -68,7 +74,7 @@ from docs.typo3.org.
 
  - :Manual:       :ref:`t3extbase:start`
    :Mentor:
-   :State:        "Very unsufficient, but better than nothing."
+   :State:        
    :NextStep:
    :About:
 
@@ -79,7 +85,7 @@ from docs.typo3.org.
    :About:
 
  - :Manual:       :ref:`h2document:start`
-   :Mentor:
+   :Mentor:       Martin Bless   
    :State:        "Work in progress!"
    :NextStep:
    :About:        How to document
@@ -109,13 +115,13 @@ from docs.typo3.org.
    :About:
 
  - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-   :Mentor:
+   :Mentor:       Christian Kuhn
    :State:
    :NextStep:
    :About:        ChangeLog Reference
 
  - :Manual:       :ref:`Core API <t3coreapi:start>`
-   :Mentor:
+   :Mentor:       Christian Kuhn
    :State:
    :NextStep:
    :About:
