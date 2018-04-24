@@ -44,13 +44,21 @@ responsible for each manual.
 
 Would require to get more people involved.
 
-Additionally, it might be a good idea, to give them 
+`VoteForThis: Sybille, ..., you?`
+
+
+.. _tasks-proposals-one-mentor-per-manual:
+
+[PROPOSAL] One Person as mentor for each manual
+===============================================
+
+Additionally to :ref:`tasks-proposals-one-mentor-per-manual`, 
+it might be a good idea, to give them 
 credit for it, e.g. have a foto and a link to their
 homepage on the front page. This should only be done
 if someone has actually substantially contributed 
 and will keep the manual up-to-date. 
 
-`VoteForThis: Sybille, ..., you?`
 
 .. _tasks-proposals-get-feedback-from-community:
 
