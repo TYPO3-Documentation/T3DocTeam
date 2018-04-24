@@ -79,7 +79,7 @@ from docs.typo3.org.
    :About:
 
  - :Manual:       :ref:`rendert3docs:start`
-   :Mentor:
+   :Mentor:       Martin Bless
    :State:        "Work in progress!"
    :NextStep:
    :About:
