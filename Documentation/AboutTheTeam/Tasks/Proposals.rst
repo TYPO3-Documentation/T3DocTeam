@@ -49,16 +49,26 @@ Would require to get more people involved.
 
 .. _tasks-proposals-one-mentor-per-manual:
 
-[PROPOSAL] One Person as mentor for each manual
-===============================================
+[PROPOSAL] Add an "About the main contributors section"
+=======================================================
 
 Additionally to :ref:`tasks-proposals-one-mentor-per-manual`, 
 it might be a good idea, to give them 
 credit for it, e.g. have a foto and a link to their
-homepage on the front page. This should only be done
+homepage on the front page or in the left sidebar. 
+
+This should only be done
 if someone has actually substantially contributed 
 and will keep the manual up-to-date. 
 
+The intention of this is to pull some of the people who
+are currently maintaining excellent blogs into docs.
+
+Side-Effect:
+* Your name is in there, you will **make sure** it looks good!
+* People who are currently using their blogs as a marketing 
+  instrument, get a platform. Hopefully, someone will be
+  more interested in contributing to docs!
 
 .. _tasks-proposals-get-feedback-from-community:
 
