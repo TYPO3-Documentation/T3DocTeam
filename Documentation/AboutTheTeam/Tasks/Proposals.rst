@@ -8,6 +8,32 @@
 Proposals
 =========
 
+Suggestion: If you want to add a new proposal, add 
+it in the top and mark it with *new*. 
+
+[PROPOSAL] Think about Maxwidth for main text
+=============================================
+
+If a monitor is wide and resolution high, the 
+main content is not easily readable because 
+the main content uses entire viewport. 
+
+Actually, in this case the docs are more readable
+on a smartphone or other device with smaller screen.
+
+I don't think someone should have to adjust their 
+browser width.
+
+Possible solutions:
+* restrict the width for the main text, as in 
+  http://flowframework.readthedocs.io/en/stable/
+* Additionally, use the now free space for the 
+  notes / hints / important etc. if there is room. 
+
+`VoteForThis: Sybille, ..., you?`
+
+.. _tasks-proposals-one-mentor-per-manual:
+
 [PROPOSAL] One Person as mentor for each manual
 ===============================================
 
@@ -18,13 +44,31 @@ responsible for each manual.
 
 Would require to get more people involved.
 
-[PROPOSAL] Use decisions
-========================
+Additionally, it might be a good idea, to give them 
+credit for it, e.g. have a foto and a link to their
+homepage on the front page. This should only be done
+if someone has actually substantially contributed 
+and will keep the manual up-to-date. 
 
-Ask in decisions what people want for the manuals.
+`VoteForThis: Sybille, ..., you?`
+
+.. _tasks-proposals-get-feedback-from-community:
+
+[PROPOSAL] Get Feedback from the community
+==========================================
+
+Ask in decisions (or somewhere else?) what people want 
+for the manuals.
 
 Start with a very specific question to keep discussion
 focused.
+
+Side-Effect: We remind them there is documentation for TYPO3
+that needs work and (hopefully) get them engaged. 
+
+**WIP:** This needs some more thought, what exactly we need 
+to know from the community and what is the best medium to
+ask.
 
 .. _tasks-proposals-command-shortcuts:
 
@@ -32,15 +76,15 @@ focused.
 =======================================
 
 
-**New** : The `docker image <https://github.com/t3docs/docker-render-documentation>`__
+The `docker image <https://github.com/t3docs/docker-render-documentation>`__
 is very useful and convenient to use. To make it even easier to use, some suggestions:
 
 * Windows support? (does the current method of source'ing the command into
   the shell work on windows? Can we make the method portable?
 * more command shortcuts, for example for opening the generated html in
-  the browser:
+  the browser (xdg-open is not portable, this is just an example):
   `xdg-open "file:///$(pwd)/Documentation-GENERATED-temp/typo3cms/drafts/project/0.0.0/Index.html`
-* can we put some basic commands (for example the `xdg-open`) into the
+* can we put some basic commands for rendering etc. into the
   docs repo itself (like TYPO3 does in a Build folder)? General commands should
   be maintained as 1 central repo (e.g. as a submodule).
 
@@ -83,6 +127,9 @@ Are the things that are listed here up to date and useful?
 First, we need an overview what we actually have and in what state
 it is in, see also: :ref:`overview-of-manuals`
 
+Questions:
+* Can we automatically generate this list?
+* Can we additionally add a list, grouped by topic?
 
 
 
