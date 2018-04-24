@@ -25,6 +25,7 @@ I don't think someone should have to adjust their
 browser width.
 
 Possible solutions:
+
 * restrict the width for the main text, as in 
   http://flowframework.readthedocs.io/en/stable/
 * Additionally, use the now free space for the 
