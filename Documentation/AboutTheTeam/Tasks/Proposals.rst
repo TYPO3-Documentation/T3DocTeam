@@ -32,9 +32,9 @@ Possible solutions:
 
 `VoteForThis: Sybille, ..., you?`
 
-.. _tasks-proposals-one-mentor-per-manual:
+.. _proposals-one-mentor-per-manual:
 
-[PROPOSAL] One Person as mentor for each manual
+[PROPOSAL] One person as mentor for each manual
 ===============================================
 
 We already have this in an informal way with Lolli taking
@@ -46,13 +46,15 @@ Would require to get more people involved.
 
 `VoteForThis: Sybille, ..., you?`
 
+**WIP**: Word "mentor" is not really fitting, which word 
+is better?
 
 .. _tasks-proposals-one-mentor-per-manual:
 
 [PROPOSAL] Add an "About the main contributors section"
 =======================================================
 
-Additionally to :ref:`tasks-proposals-one-mentor-per-manual`, 
+Additionally to :ref:`proposals-one-mentor-per-manual`, 
 it might be a good idea, to give them 
 credit for it, e.g. have a foto and a link to their
 homepage on the front page or in the left sidebar. 
