@@ -74,6 +74,18 @@ Side-Effects:
   instrument, get a platform. Hopefully, someone will be
   more interested in contributing to docs!
 
+.. _proposal-markers-for-editorial-state:
+
+[PROPOSAL] Add metadata / markers for editorial state
+=====================================================
+
+* Add metadata for the entire manual
+* have a marker per page, this could be something simple
+  like a comment that is not visible but defines the 
+  state of each page, e.g. `{{outdated}}`, this can be
+  changed when edited, see Markers in Wiki:
+  `markers <https://wiki.typo3.org/Help:Contents#Teamwork_and_page_states_-_draft.2C_review.2C_publish.2C_delete.2C_merge.2C_outdated>`__ 
+
 .. _tasks-proposals-get-feedback-from-community:
 
 [PROPOSAL] Get Feedback from the community
