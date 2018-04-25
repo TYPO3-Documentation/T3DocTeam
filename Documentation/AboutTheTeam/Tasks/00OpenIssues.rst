@@ -21,6 +21,34 @@ used tags:
 Open issues
 ===========
 
+.. _todos-linking-problems:
+
+[TODO] Create overview of linking problems and find solution
+------------------------------------------------------------
+
+Currently there are some problems with linking, if sections are
+moved:
+
+* The URLs change (e.g. /Documentation/Introduction.html#section1 >> 
+  /Documentation/Introduction/Slack.html#section1). This means
+  that search engines and links from other places become 404.
+  See also `t3SphinxThemeRtd Issue #74 
+  <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/issues/74>`__
+* Selecting a different version will not longer work, because
+  the section has moved in the other branch, e.g. see 
+  https://docs.typo3.org/typo3cms/CoreApiReference/7.6/CachingFramework/
+  and select 8.7. 
+
+**WIP: Possible solutions and work-arounds:**
+
+* Use singlepage for "permalink" in sections, as described in issue
+  `t3SphinxThemeRtd Issue #74 
+  <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/issues/74>`__
+* Think twice about restructuring???  
+
+
+.. _todos-move-cleanup-public-repos-forge:
+
 [IN_PROGRESS] Move / cleanup all public repos
 ---------------------------------------------
 
@@ -32,8 +60,11 @@ Existing issues on forge:
 
 Move (still relevant) open issues to Github to corresponding project.
 
-`Assignee: Michael Schams (Security Guide)`
-`Assignee: Sybille Peters (CGL, Core API)`
+* `Assignee: Michael Schams (Security Guide)`
+* `Assignee: Sybille Peters (CGL, Core API)`
+
+
+.. _todos-archive-repos-on-github:
 
 [TODO] Archive no longer used Repos on Github
 ---------------------------------------------
