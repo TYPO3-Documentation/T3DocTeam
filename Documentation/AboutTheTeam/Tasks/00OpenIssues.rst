@@ -124,6 +124,15 @@ be merged, new ones created, things moved from the wiki etc.
   of progress and needs editorial attention?
 * How do we communicate this to potential contributors, for example those
   at the UXweek?
+* should this be done per manual / per branch / per page + branch?  
+
+Possible solutions:
+
+* The wiki has `markers <https://wiki.typo3.org/Help:Contents#Teamwork_and_page_states_-_draft.2C_review.2C_publish.2C_delete.2C_merge.2C_outdated>`__ , 
+  eg. `{{outdated}}`. If we do something similiar, should the 
+  markers be visible in the rendered version or only in the source
+
+See Proposal: :ref:`proposal-markers-for-editorial-state`
 
 Also see current draft: :ref:`overview-of-manuals-current-status`
 
