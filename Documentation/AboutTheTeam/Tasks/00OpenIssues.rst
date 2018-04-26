@@ -9,13 +9,11 @@ used tags:
 * `[PROPOSAL]` : describes an idea, that still needs to be refined and needs
   feedback or approval from the team. Because the proposals tend to be longer,
   the descriptions are currently in a seperate file :ref:`tasks-proposals`
-
 * `[DECISION]` : is something that we need to decide on before moving forward.
-
 * `[TODO]`     : are things that can just be done without waiting for approval
   or discussions about if, how and what.
-
 * `[QUESTION]`
+* `[INFO]`
 
 
 Open issues
@@ -41,6 +39,8 @@ moved:
 
 **WIP: Possible solutions and work-arounds:**
 
+* see Martin: `Relocator service 
+  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/PersonalNotes/Marble/IdeaRelocatorService.html>`__
 * Use singlepage for "permalink" in sections, as described in issue
   `t3SphinxThemeRtd Issue #74 
   <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/issues/74>`__
@@ -80,6 +80,18 @@ See https://docs.typo3.org/typo3cms/References/Index.html
 * TYPO3CMS-Reference-TyposcriptSyntax
 
 These are all moved to Core API.
+
+.. _todos-search-engine:
+
+[INFO] Status of search engine, next steps
+------------------------------------------
+
+What will be indexed by search engine?
+
+* Officiaton reST TYPO3 docs on docs.typo3.org
+* Extension docs?
+* Wiki?
+* What's new?
 
 [DECISION] How do we communicate?
 ---------------------------------
