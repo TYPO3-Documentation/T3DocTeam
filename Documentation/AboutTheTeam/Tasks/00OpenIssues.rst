@@ -140,6 +140,24 @@ Also see current draft: :ref:`overview-of-manuals-current-status`
 [DECISION] What to do with the Wiki
 -----------------------------------
 
+Main problems:
+
+* Some of the pages are outdated
+* Not enough people currently working on improving it
+* Unclear: What should go in the Wiki, what in docs.typo3.org
+
+Possible solutions:
+
+* Migrate to docs.typo3.org. Not easily possible. 
+  Currently there are a number 
+  of Wiki pages in different languages, not just
+  English. These can't just be migrated to docs.typo3.org
+* Clarify scope of docs.typo3.org + Wiki 
+* If Wiki is kept, should it be indexed by the search engine
+  as well?
+* Give the layout / design a do-over? Responsive, modern layout
+
+
 [TODO] Assign tasks
 -------------------
 
