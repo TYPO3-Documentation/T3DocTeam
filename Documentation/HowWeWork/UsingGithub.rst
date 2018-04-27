@@ -23,3 +23,10 @@ Find help
 Tips
    * http://nvie.com/posts/a-successful-git-branching-model/
    
+     .. figure:: grafik.png
+        :alt: teaser
+        :target: http://nvie.com/posts/a-successful-git-branching-model/
+        :class: with-shadow
+        
+     .. todo Rename grafik.png to UsingGithub-001.png   
+   
