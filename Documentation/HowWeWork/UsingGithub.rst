@@ -21,7 +21,8 @@ Find help
    ✦
    
 Tips
-   * http://nvie.com/posts/a-successful-git-branching-model/
+   * `A successful Git branching model
+     <http://nvie.com/posts/a-successful-git-branching-model/>`__
    
      .. figure:: grafik.png
         :alt: teaser
@@ -29,4 +30,13 @@ Tips
         :class: with-shadow
         
      .. todo Rename grafik.png to UsingGithub-001.png   
+   
+   * `How to Write a Git Commit Message
+     <https://chris.beams.io/posts/git-commit/>`__
+   
+     .. figure:: UsingGithub-002.png
+        :alt: teaser
+        :target: https://chris.beams.io/posts/git-commit/
+        :class: with-shadow
+        
    
