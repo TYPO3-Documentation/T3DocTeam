@@ -20,3 +20,6 @@ Find help
    <https://help.github.com/articles/searching-issues-and-pull-requests/>`__
    ✦
    
+Tips
+   * http://nvie.com/posts/a-successful-git-branching-model/
+   
