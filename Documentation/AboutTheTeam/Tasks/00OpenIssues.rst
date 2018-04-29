@@ -78,8 +78,9 @@ See https://docs.typo3.org/typo3cms/References/Index.html
 * TYPO3CMS-Reference-FileAbstractionLayer (edited)
 * TYPO3CMS-Reference-Typo3Services (edited)
 * TYPO3CMS-Reference-TyposcriptSyntax
+* Inside TYPO3
 
-These are all moved to Core API.
+These have all moved to Core API.
 
 .. _todos-search-engine:
 
