@@ -3,7 +3,7 @@
 
 
 This builds on the already existing section
-:ref:`Reporting a bug <t3contrib:bugreporting-index>` existing docs but
+:ref:`Reporting a bug <t3contribute:bugreporting-index>` existing docs but
 focuses on what should go in the title and description of a bug report
 (e.g. clear title, steps to reproduce).
 
