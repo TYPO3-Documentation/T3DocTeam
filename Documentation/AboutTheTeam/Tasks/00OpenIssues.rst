@@ -60,8 +60,8 @@ Existing issues on forge:
 
 Move (still relevant) open issues to Github to corresponding project.
 
-* `Assignee: Michael Schams (Security Guide)`
-* `Assignee: Sybille Peters (CGL, Core API)`
+* `Assignee: Michael Schams (Security Guide)` (done)
+* `Assignee: Sybille Peters (CGL, Core API)` (done)
 
 
 .. _todos-archive-repos-on-github:
@@ -157,18 +157,31 @@ Main problems:
 * Some of the pages are outdated
 * Not enough people currently working on improving it
 * Unclear: What should go in the Wiki, what in docs.typo3.org
+* theme could use some brushing up
+
+To clarify:
+
+* can / should the search engine index the Wiki?
+* there is considerable overlap between "Tell me something about
+  X" and Wiki. Can "Tell me something" be a possible replacement
+  for the Wiki?
+
 
 Possible solutions:
 
 * Migrate to docs.typo3.org. Not easily possible. 
   Currently there are a number 
   of Wiki pages in different languages, not just
-  English. These can't just be migrated to docs.typo3.org
+  English. These can't just easily be migrated to docs.typo3.org
 * Clarify scope of docs.typo3.org + Wiki 
 * If Wiki is kept, should it be indexed by the search engine
   as well?
 * Give the layout / design a do-over? Responsive, modern layout
 
+More information:
+
+* `2017-12-01 Discussion at Slack <https://typo3.slack.com/archives/C028JEPJL/p1512157494000437>`__
+  in Channel #typo3-documentation
 
 [TODO] Assign tasks
 -------------------
