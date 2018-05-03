@@ -31,6 +31,7 @@ See also:
    :hidden:
 
    Sitemap/Index
+   HowPeopleCanHelp/Index
    AboutDocumentation/Index
    AboutTheTeam/Index
    Drafts/Index
