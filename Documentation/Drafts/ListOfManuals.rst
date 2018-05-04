@@ -50,7 +50,7 @@ For pragmatic reasons we don't list individual branches here.
    :NextStep:
    :About:
 
- - :Manual:       Site Package Tutorial
+ - :Manual:       `Site Package Tutorial <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/SitePackageTutorial/>`__ (DRAFT and draft link!!!)
    :Shortcut:
    :Mentor:       Michael Schams
    :State:        upcoming
