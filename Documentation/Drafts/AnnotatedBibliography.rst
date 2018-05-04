@@ -125,5 +125,5 @@ Useful shortcuts
 Documentation only for Docs Team
 ================================
 
-- `T3Docs Team Writing here <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/Index.html>`__
+- `T3Docs Team Writing here <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/index.html>`__
 
