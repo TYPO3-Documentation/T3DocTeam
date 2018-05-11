@@ -109,21 +109,7 @@ ask.
 [Proposal] Command shortcuts for docker
 =======================================
 
-
-The `docker image <https://github.com/t3docs/docker-render-documentation>`__
-is very useful and convenient to use. To make it even easier to use, some suggestions:
-
-* Windows support? (does the current method of source'ing the command into
-  the shell work on windows? Can we make the method portable?
-* more command shortcuts, for example for opening the generated html in
-  the browser (xdg-open is not portable, this is just an example):
-  `xdg-open "file:///$(pwd)/Documentation-GENERATED-temp/typo3cms/drafts/project/0.0.0/Index.html`
-* can we put some basic commands for rendering etc. into the
-  docs repo itself (like TYPO3 does in a Build folder)? General commands should
-  be maintained as 1 central repo (e.g. as a submodule).
-
-See also pending review for inspiration:
-`"#54959: Add various Composer scripts" <https://review.typo3.org/54959>`__
+Moved to issue for docker github project, because it only concerns that project: https://github.com/t3docs/docker-render-documentation/issues/8
 
 .. _tasks-proposals-startpage:
 
