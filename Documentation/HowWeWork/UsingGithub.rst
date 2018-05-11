@@ -13,7 +13,6 @@ Search Github
    `open issues, recently updated 
    <https://github.com/search?o=desc&q=org%3ATYPO3-Documentation+type%3Aissue&s=updated&state=open&type=Issues>`__
    ✦
-   ✦
    `open pull requests, recently updated 
    <https://github.com/search?q=org%3ATYPO3-Documentation+type%3Apr&state=open&type=Issues>`__
    ✦
