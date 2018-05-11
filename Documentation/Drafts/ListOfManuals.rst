@@ -121,7 +121,7 @@ For pragmatic reasons we don't list individual branches here.
    :About:
 
  - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-   :Shortcut:     ?
+   :Shortcut:     t3core
    :Mentor:       Christian Kuhn
    :State:
    :NextStep:
