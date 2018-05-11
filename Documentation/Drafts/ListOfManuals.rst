@@ -51,7 +51,7 @@ For pragmatic reasons we don't list individual branches here.
    :About:
 
  - :Manual:       `Site Package Tutorial <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/SitePackageTutorial/>`__ (DRAFT and draft link!!!)
-   :Shortcut:
+   :Shortcut:     t3sitepack
    :Mentor:       Michael Schams
    :State:        upcoming
    :NextStep:
