@@ -13,7 +13,7 @@ Search
    ✦
    `documentation style guide <https://www.startpage.com/do/dsearch?query=documentation+style+guide>`__
    ✦
-   `documentation style guide <https://www.startpage.com/do/dsearch?query=documentation+style+guide+curated>`__
+   `documentation style guide curated <https://www.startpage.com/do/dsearch?query=documentation+style+guide+curated>`__
    ✦
  
 __________________________________________________
