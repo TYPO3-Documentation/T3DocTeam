@@ -16,5 +16,10 @@ Readings
 
    * https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/StyleGuides/
 
-   * https://github.com/alexpate/awesome-design-systems Has links to guidelines
+   * `Awesome design systems 
+     <https://github.com/alexpate/awesome-design-systems>`__ - with links to guidelines
+     
+     .. figure:: DocumentationStyleguide-awesome-design-systems.png
+        :target: https://github.com/alexpate/awesome-design-systems
+        :class: with-shadow
   
