@@ -80,11 +80,23 @@ Side-Effects:
 =====================================================
 
 * Add metadata for the entire manual
-* have a marker per page, this could be something simple
-  like a comment that is not visible but defines the 
-  state of each page, e.g. `{{outdated}}`, this can be
-  changed when edited, see Markers in Wiki:
+* have a marker per page
+
+The markers could be something simple like a comment that is not visible 
+but defines the  state of each page, e.g. `{{outdated}}`, this can be
+changed when edited, see Markers in Wiki:
   `markers <https://wiki.typo3.org/Help:Contents#Teamwork_and_page_states_-_draft.2C_review.2C_publish.2C_delete.2C_merge.2C_outdated>`__ 
+
+It would be good if the markers have a naming convention so you could
+search for them. 
+
+It would be good if tags for the markers are defined, for example
+
+* outdated
+* needs review language (spellcheck/grammar/style)
+* needs review technical (check if technically correct)
+* needs review didactic (is clear and understandable)
+* reviewd for (language|technical|didactic) by <editor> on <date>
 
 .. _tasks-proposals-get-feedback-from-community:
 
