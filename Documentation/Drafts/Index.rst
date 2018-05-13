@@ -11,3 +11,4 @@ Drafts
    *
    ContributionGuideCore/Index
    ContributionGuideDocumentation/Index
+   Various/Index
