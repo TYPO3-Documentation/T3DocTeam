@@ -1,8 +1,8 @@
 
 .. include:: ../../Includes.txt
 
-==========
-Some notes
-==========
+=============
+Michael Notes
+=============
 
 ...
