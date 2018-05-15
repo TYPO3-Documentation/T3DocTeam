@@ -16,4 +16,5 @@ Using Forge
    to their Forge location:
    
    .. figure:: UsingForge-001.png
+      :class: with-shadow
   
