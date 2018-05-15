@@ -4,7 +4,7 @@
 Using Forge
 ===========
 
-File archive of the "What's new?" documentation subproject 
+"What's new?" file archive
    The `documentation subproject "What's new?" at Forge
    <https://forge.typo3.org/projects/documentation-whatsnew>`__
    is used ① to provide a description, ② to list the people involved and,
