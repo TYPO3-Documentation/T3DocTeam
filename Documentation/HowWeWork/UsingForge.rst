@@ -17,5 +17,5 @@ Using Forge
    
    .. figure:: UsingForge-001.png
       :class: with-shadow
-      :width: 75%
+      :width: 62%
   
