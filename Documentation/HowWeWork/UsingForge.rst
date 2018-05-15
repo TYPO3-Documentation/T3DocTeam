@@ -11,4 +11,9 @@ Using Forge
    most important, to ③ keep a `file archive of all existing PDF files
    <https://forge.typo3.org/projects/documentation-whatsnew/files>`__ 
    in various languages.
+   
+   The slides (pdf files) are advertised on typo3.org with urls pointing
+   to their Forge location:
+   
+   .. figure:: UsingForge-001.png
   
