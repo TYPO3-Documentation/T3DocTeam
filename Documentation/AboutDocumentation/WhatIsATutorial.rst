@@ -8,7 +8,17 @@ What Is A Tutorial?
 Characteristics of a TYPO3 tutorial
 ===================================
 
-From looking at the literature mentioned below we start with some key points:
+Text used so far in the first section of TYPO3 tutorials:
+
+   This document is a tutorial. Tutorials are designed to be step-by-step
+   instructions specifically created to walk a beginner through a particular task
+   from beginning to end. To facilitate effective learning, tutorials provide
+   examples to illustrate the subjects they cover. In addition, tutorials provide
+   guidance on how to avoid common pitfalls and highlight key concepts that should
+   be remembered for future reference.
+
+From looking at the literature mentioned below we should consider the following
+key points:
 
    a tutorial is a lesson, learning oriented, showing steps to complete something,
    making the reader more knowledgable
