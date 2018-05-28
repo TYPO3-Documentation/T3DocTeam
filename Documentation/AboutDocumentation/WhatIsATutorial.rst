@@ -5,6 +5,11 @@
 What Is A Tutorial?
 ===================
 
+Characteristics of a TYPO3 tutorial
+===================================
+
+* ...
+
 
 Literature
 ==========
@@ -12,7 +17,7 @@ Literature
 Daniele Procida
 ---------------
 
--  `What nobody tells you about documentation
+*  `What nobody tells you about documentation
    <https://www.divio.com/en/blog/documentation/>`__ - a very good blogpost about 
    different kind of manuals by Daniele Procida, May 19, 2017
    
@@ -57,7 +62,7 @@ Daniele Procida
 Ubuntu
 ------
 
--  `Ubuntu: How to write a tutorial <https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0>`__
+*  `Ubuntu: How to write a tutorial <https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0>`__
 
    .. figure:: WhatIsATutorial-001-Ubuntu.png
       :class: with-shadow
