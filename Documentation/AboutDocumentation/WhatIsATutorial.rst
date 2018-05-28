@@ -9,6 +9,9 @@ What Is A Tutorial?
 Literature
 ==========
 
+Daniele Procida
+---------------
+
 -  `What nobody tells you about documentation
    <https://www.divio.com/en/blog/documentation/>`__ - a very good blogpost about 
    different kind of manuals by Daniele Procida, May 19, 2017
@@ -51,6 +54,8 @@ Literature
       Good tutorials are very difficult to write. They need to be useful for the beginner,
       easy to follow, meaningful and extremely robust.
 
+Ubuntu
+------
 
 -  `Ubuntu: How to write a tutorial <https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0>`__
 
