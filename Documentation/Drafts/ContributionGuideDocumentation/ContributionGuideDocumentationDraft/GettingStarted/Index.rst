@@ -133,31 +133,56 @@ For example:
 
 .. highlight:: bash
 
+git clone
+~~~~~~~~~
+
 Clone the forked repository **from your workspace**, for example::
 
    git clone https://github.com/<USERNAME>/<NAME OF REPOSITORY>.git
+
+Create branch
+~~~~~~~~~~~~~
 
 Create a branch, for example::
 
    git checkout -b changes-in-cgl
 
 
-Make changes.
+Make changes
+~~~~~~~~~~~~
 
-Test the changes with docker (see next section).
+Using your preferred IDE or editor, make changes to the files. Make
+sure you adhere to the Coding Guidelines for TYPO3 documentation, e.g.
+use 3 spaces to indent (not tabs). 
 
+.. todo: Add link to coding guidelines for our documentation
 
-Commit::
+Render
+~~~~~~
+
+Render with docker in order to test the changes (see next section).
+
+Commit
+~~~~~~
+
+::
 
    git commit -a
 
-Push changes::
+Push changes
+~~~~~~~~~~~~
+
+::
 
    git push origin changes-in-cgl
 
-Now, in your browser, visit the forked repository. Github will already
-make some suggestions for a Pull Request and will display your pushed
-branch as "Your recently pushed branches".
+Create Pull request
+~~~~~~~~~~~~~~~~~~~
+
+Now, in your browser, visit the forked repository in your Github
+workspace. Github will already make some suggestions for a Pull 
+Request and will display your pushed branch as "Your recently 
+pushed branches".
 
 Now, click on the green button "Compare & pull request" and then
 "Create pull request".
@@ -189,16 +214,25 @@ docker
 
 You should already have docker installed and usable.
 
+docker pull
+~~~~~~~~~~~
+
 Now get the docker image for rendering TYPO3 documentation. You will
 only need to do this once and occasionally update it::
 
    docker pull t3docs/render-documentation
+
+source docker run
+~~~~~~~~~~~~~~~~~
 
 This command will make the command `dockrun_t3rdf makehtml` available in
 your current shell. You will have to repeat it every time you reboot your
 computer or open a new shell::
 
    source <(docker run --rm t3docs/render-documentation show-shell-commands)
+
+dockrun_t3rdf
+~~~~~~~~~~~~~
 
 Now, in the directory of your cloned repository:
 
@@ -207,7 +241,7 @@ Run the rendering (you can repeat this as often as you want)::
    dockrun_t3rdf makehtml
 
 Open the result in your browser, either by copy-pasting your current
-directory and prepending it with file:/// or with some other method,
+directory and prepending it with `file:///` or with some other method,
 and appending the path `Documentation-GENERATED-temp/typo3cms/drafts/project/0.0.0/Index.html`
 e.g.::
 
