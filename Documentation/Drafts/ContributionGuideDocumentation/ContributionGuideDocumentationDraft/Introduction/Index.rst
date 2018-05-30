@@ -31,9 +31,10 @@ Help on the documentation is very much appreciated.
 Further recommended reading
 ===========================
 
-.. fixme
+.. fixme : replace with intersphinx link
 
-* refer to "How to document" etc.
+* The first place to look is the TYPO3 manual 
+  :ref:`How to document <https://docs.typo3.org/typo3cms/HowToDocument/>`
 * `ReST basics
   <http://rest-sphinx-memo.readthedocs.io/en/latest/ReST.html>`__
 
@@ -46,7 +47,7 @@ is the place to be.
 
 Slack is currently the main communication medium for TYPO3. In order
 to join the slack workspace, you must `Register for TYPO3's Slack
-Platform <https://forger.typo3.com/slack>`__. On that page, you will
+Platform <https://my.typo3.org>`__. On that page, you will
 also find information about the most important channels.
 
 The channel **#typo3-cms-documentation** is your channel of choice
