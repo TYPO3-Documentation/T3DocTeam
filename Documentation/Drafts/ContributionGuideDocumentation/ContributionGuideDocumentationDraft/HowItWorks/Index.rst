@@ -29,7 +29,7 @@ All documentation files for one manual are included inside a git repository
 on Github.
 
 You can make the changes either directly on Github using the Github
-user interface or use a git workflow.
+user interface or use a local git workflow.
 
 Pull Requests
 =============
