@@ -18,7 +18,7 @@ The files used within the documentation are in ReST (Restructured Text)
 format, which means they are basically text files with some markup for
 bold, headers, links etc., similar to what is used in Wikis.
 
-These files can be converted into a final format which can be displayed
+These files will be converted into a final format which can be displayed
 online or downloaded. The formats we currently use are HTML and PDF.
 The conversion process is referred to as "rendering".
 
