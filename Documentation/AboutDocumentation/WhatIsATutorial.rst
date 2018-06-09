@@ -1,12 +1,12 @@
 
 .. include:: ../Includes.txt
 
-===================
-What Is A Tutorial?
-===================
+=========================
+What Is A TYPO3 Tutorial?
+=========================
 
-Characteristics of a TYPO3 tutorial
-===================================
+Characteristics
+===============
 
 Text used so far in the first section of TYPO3 tutorials:
 
