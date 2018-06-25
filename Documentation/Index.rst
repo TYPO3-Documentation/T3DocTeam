@@ -2,7 +2,7 @@
 .. highlight:: rst
 
 =================
-T3DocTeam At Work
+T3DocTeam at Work
 =================
 
 :Writing here:    TYPO3 Documentation Team
