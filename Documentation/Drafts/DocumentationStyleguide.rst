@@ -34,3 +34,9 @@ Readings
         :target: https://github.com/alexpate/awesome-design-systems
         :class: with-shadow
   
+__________________________________________________
+
+Tools
+   *  https://titlecaseconverter.com/
+   *  https://capitalizemytitle.com/
+   
