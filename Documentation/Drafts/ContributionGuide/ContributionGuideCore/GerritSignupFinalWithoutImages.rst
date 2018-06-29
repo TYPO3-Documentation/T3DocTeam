@@ -6,20 +6,14 @@
 
 .. _GerritAccount:
 
-====================================
-Setting up your Gerrit account (new)
-====================================
+===============================================
+Setting up your Gerrit account (without images)
+===============================================
 
 
 .. rst-class:: bignums-xxl
 
 1. Switch to new UI in Gerrit
-
-   .. figure:: _assets/gerrit_newui3.png
-      :width: 400 px
-      :class: with-shadow
-      :align: left
-      :figclass: align-left
 
    Head over to `Gerrit <https://review.typo3.org>`__, scroll to the end
    of the page and switch to the new UI. You can also work with the old
@@ -46,14 +40,6 @@ Setting up your Gerrit account (new)
 
 4. Add your public SSH key to Gerrit
 
-
-   .. figure:: _assets/gerrit-add-ssh-key3.png
-      :width: 400px
-      :class: with-shadow
-      :align: left
-      :figclass: align-left
-
-
    Click on your profile in the top right corner and click **Settings**.
 
    On the left hand side, click **SSH Keys**.
@@ -61,7 +47,6 @@ Setting up your Gerrit account (new)
    Copy-paste the contents of your public ssh key file (e.g.
    ~/.ssh/id_rsa.pub) into the text field next to **New SSH key** and then
    click on **Add new SSH key**.
-
 
 
 
