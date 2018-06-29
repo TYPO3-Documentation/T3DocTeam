@@ -9,6 +9,5 @@ Drafts
    :hidden:
 
    *
-   ContributionGuideCore/Index
-   ContributionGuideDocumentation/Index
-   Various/Index
+   ContributionGuide/Index
+

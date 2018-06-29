@@ -1,8 +1,8 @@
-.. include:: ../../Includes.txt
+.. include:: ../Includes.txt
 
-================
-Slack Guidelines
-================
+=======================
+Draft: Slack Guidelines
+=======================
 
 Some ideas:
 

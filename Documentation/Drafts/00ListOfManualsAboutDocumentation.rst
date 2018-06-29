@@ -1,10 +1,10 @@
 .. include:: ../Includes.txt
 
-======================
-Annotated Bibliography
-======================
+===================================
+List of Manuals about Documentation
+===================================
 
-
+(Annotated Bibliography)
 
 Documentation about how to write documentation for TYPO3
 ========================================================

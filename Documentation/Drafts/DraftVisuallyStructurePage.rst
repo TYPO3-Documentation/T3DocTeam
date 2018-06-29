@@ -233,35 +233,3 @@ sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
 
 
-misc
-----
-
-sfsf sfdsfs
-sdfsfds
- sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-
-.. sidebar:: New to TYPO3 CMS?
-
-   If you are new to TYPO3 CMS, please start by reading the
-   :ref:`Tutorials <tutorials>`, which will help you progressively
-   increase your knowledge of TYPO3 CMS.
-
-   When you feel ready, you can move on to :ref:`Guides <guides>`,
-   which provide an in-depth look into specific topics and
-   :ref:`References <references>` which contain exhaustive listings
-   of properties, options, APIs, etc.
-
-.. End of sidebar
-
-
-sdfsfs
-
-
-
-.. container:: myclass
-
-   text inside a container
-   more text
-
-the end

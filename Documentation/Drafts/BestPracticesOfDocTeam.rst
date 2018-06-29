@@ -1,8 +1,8 @@
 .. include:: ../Includes.txt
 
-====================================
-Best practices of documentation team
-====================================
+===========================================
+DRAFT: Best practices of documentation team
+===========================================
 
 Use .rst.txt as suffix for included files
 =========================================

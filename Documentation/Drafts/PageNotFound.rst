@@ -1,6 +1,6 @@
 :orphan:
 
-.. include:: Includes.txt
+.. include:: ../Includes.txt
 
 .. _general-404:
 
@@ -8,9 +8,9 @@
 .. note::
    This is a first draft of a 404 page for a specific manual. Needs to be refined and made prettier.
 
-===================
-404: Page not found
-===================
+===========================
+DRAFT: Page not found (404)
+===========================
 
 
 We are sorry! The page you sought could not be found.
