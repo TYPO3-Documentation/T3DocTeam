@@ -29,6 +29,14 @@ Setting up your Gerrit account (new)
 
 2. Click the **Sign In** button in the top right corner.
 
+
+   .. figure:: _assets/gerrit_signin3.png
+      :width: 400 px
+      :class: with-shadow
+      :align: left
+      :figclass: align-left
+
+
    You will be prompted with a regular **Basic Authentication** window,
    simply enter your TYPO3.org username and password you had
    :ref:`set up earlier <TYPO3Account>`.

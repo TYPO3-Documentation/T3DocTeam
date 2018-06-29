@@ -55,8 +55,11 @@ at work and another computer at home you can either copy your
 private key or create a separate key for the other computer. Luckily
 Gerrit can handle multiple keys.
 
-Always keep your keys private. Never give them away. No member of the
-TYPO3 project will ever ask you for your keys.
+
+.. important::
+
+   Always keep your keys private. Never give them away. No member of the
+   TYPO3 project will ever ask you for your keys.
 
 
 
