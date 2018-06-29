@@ -22,7 +22,7 @@ Setting up your Gerrit account (new)
       :figclass: align-left
 
    Head over to `Gerrit <https://review.typo3.org>`__, scroll to the bottom
-   of the page and switch to the new UI. You can also work with the old
+   of the page and click the link "New UI". You can also work with the old
    UI, but then some things will look a little different.
 
 
