@@ -13,13 +13,13 @@ Head over to Gerrit_, scroll to the end of the page and switch to the new UI.
    :width: 400 px
    :class: with-shadow
 
-   Now you can click the **Sign In** button in the top right corner.
+Now you can click the **Sign In** button in the top right corner.
 
 .. figure:: _assets/gerrit_signin.png
    :width: 400px
    :class: with-shadow
 
-   You will be prompted with a regular **Basic Authentication** window, simply enter your TYPO3.org username and password you
+You will be prompted with a regular **Basic Authentication** window, simply enter your TYPO3.org username and password you
 had :ref:`set up earlier <TYPO3Account>`.
 
 .. note::
@@ -37,7 +37,7 @@ Click on your profile in the top right corner and click **Settings**.
    :width: 400px
    :class: with-shadow
 
-   On the left hand side, click **SSH Public Keys** to set up your key.
+On the left hand side, click **SSH Public Keys** to set up your key.
 
 .. note::
 
