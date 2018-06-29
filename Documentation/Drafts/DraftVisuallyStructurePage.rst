@@ -26,10 +26,11 @@ first found in form extension docs: https://docs.typo3.org/typo3cms/extensions/f
 2. con
 
    * not in menu, so you can't jump to specific section from menu
+   * no named anchor so you can't link directly to section
 
 3. conlusion
 
-   **Good method if there are not too many items (up to 7 is ok).**
+   **Good method if there are not too many items (up to 5 is ok).**
 
 Method: subsections
 ===================
