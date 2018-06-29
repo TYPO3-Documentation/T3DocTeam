@@ -1,10 +1,9 @@
 .. include:: ../../../Includes.txt
 
-
-.. _GerritAccount:
+.. _GerritAccount-002:
 
 =============================================================
-001 Setting up your Gerrit account
+002 Setting up your Gerrit account
 =============================================================
 
 .. rst-class:: bignums-xxl
@@ -12,7 +11,7 @@
 1. Switch to new UI in Gerrit
 
    .. image:: GerritSignupFinal-new-ui-3.png
-      :class: with-shadow
+      :class: with-shadow float-left
 
    Head over to `Gerrit <https://review.typo3.org>`__, scroll to the bottom
    of the page and click the link "New UI". You can also work with the old
@@ -22,12 +21,13 @@
 2. Click the **Sign In** button in the top right corner.
 
    .. image:: GerritSignupFinal-sign-in-3.png
-      :class: with-shadow
+      :class: with-shadow float-left
 
    You will be prompted with a regular **Basic Authentication** window,
    simply enter your TYPO3.org username and password you had
    :ref:`set up earlier <TYPO3Account>`.
 
+   .. rst-class:: clear-both
 
 3. Create your ssh key
 
@@ -42,7 +42,7 @@
 4. Add your public SSH key to Gerrit
 
    .. image:: GerritSignupFinal-add-ssh-key-3.png
-      :class: with-shadow
+      :class: with-shadow float-left
 
    * Click on your profile in the top right corner and click **Settings**.
 
