@@ -16,4 +16,5 @@ TYPO3 (core) contribution guide
    :glob:
    :hidden:
 
+   Quickstart/Index
    *
