@@ -15,7 +15,7 @@ These manuals have been submitted as "done" by the authors but need review.
 New manuals IN PROGRESS
 =======================
 
-* Sybille Peters: <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/Drafts/ContributionGuideDocumentation/ContributionGuideDocumentationDraft/Index.html>`__
+* Sybille Peters: `Contribution Guide Documentation <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/Drafts/ContributionGuideDocumentation/ContributionGuideDocumentationDraft/Index.html>`__
 
 New manuals being PLANNED
 ==========================
