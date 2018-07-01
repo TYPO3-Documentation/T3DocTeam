@@ -9,5 +9,6 @@ Drafts
    :hidden:
 
    *
+   rte_ckeditor/Documentation/Index
    ContributionGuide/Index
 
