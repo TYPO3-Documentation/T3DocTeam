@@ -3,7 +3,7 @@
 .. _GerritAccount-002:
 
 =============================================================
-002 Setting up your Gerrit account
+002 Setting up your Gerrit account (with-shadow, float-left)
 =============================================================
 
 .. rst-class:: bignums-xxl
