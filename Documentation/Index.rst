@@ -13,18 +13,7 @@ T3DocTeam at Work
 :Rendered:        |today|
 
 
-See also:
-
--  `How to document TYPO3 projects
-   <https://docs.typo3.org/typo3cms/HowToDocument/>`__
-
--  `t3SphinxThemeRtdDemoDocs
-   <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/ThisAndThat/Index.html>`__
-   
--  `001: Notes Martin Bless
-   <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/>`__
-
-   
+  
 
 
 .. toctree::
