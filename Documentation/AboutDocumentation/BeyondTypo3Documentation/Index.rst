@@ -11,7 +11,7 @@ Beyond tellerrand: Things we should look at, learn from and keep in mind.
 
 .. toctree::
    :titlesonly:
-   :global:
+   :glob:
    
    *
 
