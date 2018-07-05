@@ -8,16 +8,6 @@ What is where?
 General
 =======
 
-Changes:
-
-- *2018-04-20 (Sybille Peters) : removed all 404*
-
-Open questions:
-
-- Should the server team sprint notes really be linked in here?
-- Should the T3O Team link be here? (not really docs related)
-
-
 Links may require a login.
 
 -  The T3DocTeam is taking notes here:
