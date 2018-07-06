@@ -20,5 +20,4 @@ New manuals IN PROGRESS
 New manuals being PLANNED
 ==========================
 
-* Michael Schams: Development / Extbase-Fluid, see `Issue on github
-<https://github.com/TYPO3-Documentation/T3DocTeam/issues/10#issuecomment-400910096>`__
+* Michael Schams: Development / Extbase-Fluid, see `Issue on github <https://github.com/TYPO3-Documentation/T3DocTeam/issues/10#issuecomment-400910096>`__
