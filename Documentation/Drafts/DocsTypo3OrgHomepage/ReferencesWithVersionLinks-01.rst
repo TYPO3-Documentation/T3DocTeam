@@ -1,0 +1,108 @@
+.. include:: ../../Includes.txt
+.. highlight:: rst
+
+.. _references:
+
+======================================
+DRAFT: References - with Version Hints
+======================================
+
+* Currently published version: `References <https://docs.typo3.org/typo3cms/References/Index.html>`__
+
+01 - with version links
+=======================
+
+Different ways to format the version links have been tried out below
+(e.g. with [], without etc.):
+
+
+.. t3-field-list-table::
+ :header-rows: 1
+
+ - :Manual:       Manual
+   :Versions:     Links for TYPO3 versions
+   :Description:  Description
+
+ - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
+   :Versions:     `TYPO3 v9 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__ |
+                  `TYPO3 v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__ |
+                  `TYPO3 v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
+   :Description:  New Features, Breaking Changes, Deprecations.
+                  Reading up here is strongly recommended for developers.
+                  For everyone else, the `What's new slides
+                  <https://typo3.org/help/documentation/whats-new/>`__
+                  provide the information in a more digestible way.
+
+ - :Manual:       :ref:`t3coreapi:start` (latest)
+   :Versions:     :ref:`latest <t3coreapi:start>`
+                  `v8.7 <https://docs.typo3.org/typo3cms/CoreApiReference/8.7/>`__ |
+                  `v7.6 <https://docs.typo3.org/typo3cms/CoreApiReference/7.6/>`__ |
+                  `v6.2 <https://docs.typo3.org/typo3cms/CoreApiReference/6.2/>`__ |
+                  `v6.1 <https://docs.typo3.org/typo3cms/CoreApiReference/6.1/>`__ |
+                  `v6.0 <https://docs.typo3.org/typo3cms/CoreApiReference/6.0/>`__ |
+                  `v4.7 <https://docs.typo3.org/typo3cms/CoreApiReference/4.7/>`__ |
+                  `v4.6 <https://docs.typo3.org/typo3cms/CoreApiReference/4.6/>`__ |
+                  `v4.5 <https://docs.typo3.org/typo3cms/CoreApiReference/4.5/>`__
+   :Description:  A technical reference of the TYPO3 core.
+                  Reading this is strongly recommended for core developers and
+                  extension developers. Also contains :ref:`cgl`.
+
+ - :Manual:       :ref:`t3tca:start`
+   :Versions:     :ref:`latest <t3tca:start>` |
+                  `v8.7 <https://docs.typo3.org/typo3cms/TCAReference/8.7/>`__ |
+                  `v8.7 <https://docs.typo3.org/typo3cms/TCAReference/8.7/>`__ |
+                  `v7.6 <https://docs.typo3.org/typo3cms/TCAReference/7.6/>`__ |
+                  `v6.2 <https://docs.typo3.org/typo3cms/TCAReference/6.2/>`__ |
+                  `v6.1 <https://docs.typo3.org/typo3cms/TCAReference/6.1/>`__ |
+                  `v6.0 <https://docs.typo3.org/typo3cms/TCAReference/6.0/>`__
+   :Description:  Reference for the Table Configuration Array (TCA). TCA can be
+                  used to extend the definition of database tables.
+
+ - :Manual:       :ref:`t3tsconfig:start`
+   :Versions:     ...
+   :Description:  Reference to Page TSconfig and User TSconfig. This is used
+                  to configurate the backend.
+
+ - :Manual:       :ref:`t3tsref:start`
+   :Versions:     ...
+   :Description:  TypoScript is a configuration language that is specific to
+                  TYPO3. This is used to configure the frontend.
+                  For an introduction see the
+                  :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
+
+
+02 - with version links and DL
+==============================
+
+
+   .. rst-class:: dl-parameters
+
+   `Core Changelog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__ : New Features, Breaking Changes, Deprecations.
+      versions: `latest <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
+      :sep:`|` `TYPO3 v9 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__
+      :sep:`|` `TYPO3 v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__
+      :sep:`|` `TYPO3 v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
+
+      Reading the Changelog is strongly recommended for developers.
+
+      For everyone else, the `What's new slides
+      <https://typo3.org/help/documentation/whats-new/>`__
+      provide the information in a more digestible way.
+
+
+   :ref:`t3coreapi:start` : A technical reference of the TYPO3 core.
+      versions: :ref:`t3coreapi:start`
+      :sep:`|` `v8.7 <https://docs.typo3.org/typo3cms/CoreApiReference/8.7/>`__
+      :sep:`|` `v7.6 <https://docs.typo3.org/typo3cms/CoreApiReference/7.6/>`__
+      :sep:`|` `v6.2 <https://docs.typo3.org/typo3cms/CoreApiReference/6.2/>`__
+      :sep:`|` `v6.2 <https://docs.typo3.org/typo3cms/CoreApiReference/6.2/>`__
+      :sep:`|` `v6.1 <https://docs.typo3.org/typo3cms/CoreApiReference/6.1/>`__
+      :sep:`|` `v6.0 <https://docs.typo3.org/typo3cms/CoreApiReference/6.0/>`__
+      :sep:`|` `v4.7 <https://docs.typo3.org/typo3cms/CoreApiReference/4.7/>`__
+      :sep:`|` `v4.6 <https://docs.typo3.org/typo3cms/CoreApiReference/4.6/>`__
+      :sep:`|` `v4.5 <https://docs.typo3.org/typo3cms/CoreApiReference/4.5/>`__
+
+      Reading this is strongly recommended for core developers and
+      extension developers. Also contains :ref:`cgl`.
+
+
