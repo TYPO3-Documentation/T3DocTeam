@@ -64,7 +64,7 @@ Different ways to format the version links have been tried out below
                   to configurate the backend.
 
  - :Manual:       :ref:`t3tsref:start`
-   :Versions:     ...
+   :Versions:     ...dl
    :Description:  TypoScript is a configuration language that is specific to
                   TYPO3. This is used to configure the frontend.
                   For an introduction see the
@@ -91,7 +91,7 @@ Different ways to format the version links have been tried out below
 
 
    :ref:`t3coreapi:start` : A technical reference of the TYPO3 core.
-      versions: :ref:`t3coreapi:start`
+      versions: :ref:`latest <t3coreapi:start>`
       :sep:`|` `v8.7 <https://docs.typo3.org/typo3cms/CoreApiReference/8.7/>`__
       :sep:`|` `v7.6 <https://docs.typo3.org/typo3cms/CoreApiReference/7.6/>`__
       :sep:`|` `v6.2 <https://docs.typo3.org/typo3cms/CoreApiReference/6.2/>`__
