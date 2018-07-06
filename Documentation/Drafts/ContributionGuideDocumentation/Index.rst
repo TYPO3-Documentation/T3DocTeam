@@ -1,11 +1,11 @@
-.. include:: ../../../Includes.txt
+.. include:: Includes.txt
 .. highlight:: rst
 
 .. _start-TYPO3-contribution-guide-Documentation:
 
-========================================
-TYPO3 contribution guide - Documentation
-========================================
+================================================
+DRAFTS: TYPO3 contribution guide - Documentation
+================================================
 
 aka "How to contribute to TYPO3 documentation"
 

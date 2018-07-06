@@ -2,7 +2,7 @@
 
 
 ================================================
-Drafts for visually structuring things on a page
+DRAFTS for visually structuring things on a page
 ================================================
 
 Test out and showcase some ideas.

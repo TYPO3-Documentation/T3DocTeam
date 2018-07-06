@@ -1,5 +1,7 @@
 .. include:: ../Includes.txt
 
+.. _list-of-new-manuals:
+
 ===================
 List of new manuals
 ===================

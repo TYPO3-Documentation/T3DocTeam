@@ -2,7 +2,7 @@
 .. include:: ../Includes.txt
 
 ===============================
-Draft: Documentation Styleguide
+DRAFT: Documentation Styleguide
 ===============================
 
 Description

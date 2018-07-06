@@ -1,8 +1,10 @@
 .. include:: ../Includes.txt
 
-===================================
-List of Manuals about Documentation
-===================================
+.. _list-of-manuals-about-writing-docs:
+
+===========================================
+List of Manuals about Writing Documentation
+===========================================
 
 (Annotated Bibliography)
 
