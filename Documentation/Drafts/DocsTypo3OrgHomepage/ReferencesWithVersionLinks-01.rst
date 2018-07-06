@@ -77,11 +77,13 @@ Different ways to format the version links have been tried out below
 
    .. rst-class:: dl-parameters
 
-   `Core Changelog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__ : New Features, Breaking Changes, Deprecations.
+   `Core Changelog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
       versions: `latest <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
       :sep:`|` `TYPO3 v9 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__
       :sep:`|` `TYPO3 v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__
       :sep:`|` `TYPO3 v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
+
+      New Features, Breaking Changes, Deprecations.
 
       Reading the Changelog is strongly recommended for developers.
 
@@ -90,7 +92,7 @@ Different ways to format the version links have been tried out below
       provide the information in a more digestible way.
 
 
-   :ref:`t3coreapi:start` : A technical reference of the TYPO3 core.
+   :ref:`t3coreapi:start`
       versions: :ref:`latest <t3coreapi:start>`
       :sep:`|` `v8.7 <https://docs.typo3.org/typo3cms/CoreApiReference/8.7/>`__
       :sep:`|` `v7.6 <https://docs.typo3.org/typo3cms/CoreApiReference/7.6/>`__
@@ -101,6 +103,8 @@ Different ways to format the version links have been tried out below
       :sep:`|` `v4.7 <https://docs.typo3.org/typo3cms/CoreApiReference/4.7/>`__
       :sep:`|` `v4.6 <https://docs.typo3.org/typo3cms/CoreApiReference/4.6/>`__
       :sep:`|` `v4.5 <https://docs.typo3.org/typo3cms/CoreApiReference/4.5/>`__
+
+      A technical reference of the TYPO3 core.
 
       Reading this is strongly recommended for core developers and
       extension developers. Also contains :ref:`cgl`.
