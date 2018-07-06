@@ -107,6 +107,8 @@ Different ways to format the version links have been tried out below
       A technical reference of the TYPO3 core.
 
       Reading this is strongly recommended for core developers and
-      extension developers. Also contains :ref:`cgl`.
+      extension developers.
+
+      Also contains :ref:`cgl`.
 
 
