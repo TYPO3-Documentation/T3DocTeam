@@ -1,6 +1,10 @@
 
 .. include:: ../../Includes.txt
 
+=========
+Proposals
+=========
+
 Some of the more relevant proposals where moved to 
 `Github issues <https://github.com/TYPO3-Documentation/T3DocTeam/issues>`__
 

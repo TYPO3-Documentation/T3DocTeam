@@ -26,4 +26,6 @@ Drafts
    DraftVisuallyStructurePage
    ContributionGuideCore/Index
    ContributionGuideDocumentation/Index
+   SlackGuidelines
+   PageNotFound
 

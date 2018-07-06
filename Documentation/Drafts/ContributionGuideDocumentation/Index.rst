@@ -56,4 +56,5 @@ kept up-to-date to the best of the Documentation Team's abilities.
    SettingUpYourAccounts/Index
    HowItWorks/Index
    GettingStarted/Index
+   HowPeopleCanHelp
 

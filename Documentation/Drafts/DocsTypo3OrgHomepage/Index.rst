@@ -14,6 +14,5 @@ References
 .. toctree::
    :maxdepth: 2
 
-   ReferencesOriginal
    ReferencesWithVersionLinks-01
 

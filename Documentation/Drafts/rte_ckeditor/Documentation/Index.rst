@@ -46,13 +46,13 @@ DRAFT: rte_ckeditor
 	**Table of Contents**
 
 .. toctree::
-	:maxdepth: 3
-	:titlesonly:
 
-	Introduction/Index
-	User/Index
-	Administrator/Index
-	Configuration/Index
-	Developer/Index
-	ChangeLog/Index
-	Links
+
+   Introduction/Index
+   User/Index
+   Administrator/Index
+   Configuration/Index
+   Developer/Index
+   ChangeLog/Index
+   KnownProblems/Index
+   Links

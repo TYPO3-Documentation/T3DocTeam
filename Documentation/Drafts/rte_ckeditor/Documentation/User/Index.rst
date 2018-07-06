@@ -45,9 +45,9 @@ Provide screenshots as needed for making things clear. When creating
 screenshots, try using the `Introduction Package <http://demo.typo3.org/>`_
 as a neutral TYPO3 CMS instance.
 
-.. figure:: ../Images/UserManual/BackendView.png
-   :width: 500px
-   :alt: Backend view
+.. .. figure:: ../Images/UserManual/BackendView.png
+..   :width: 500px
+..   :alt: Backend view
 
    Default Backend view (caption of the image)
 

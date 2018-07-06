@@ -1,3 +1,6 @@
+:orphan:
+
+
 .. include:: ../Includes.txt
 
 .. _list-of-new-manuals:

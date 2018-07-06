@@ -1,5 +1,9 @@
 .. include:: ../../Includes.txt
 
+===========
+Open Issues
+===========
+
 The more relevant still open issues where moved to 
 `Github issues <https://github.com/TYPO3-Documentation/T3DocTeam/issues>`__
 
