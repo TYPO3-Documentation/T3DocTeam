@@ -159,7 +159,7 @@ For pragmatic reasons we don't list individual branches here.
 
 
 See also list of documentation about documentation:
-:ref:`docs-about-docs`
+:ref:`list-of-manuals-about-writing-docs`
 
 
 .. _list-of-resources-about-resources:

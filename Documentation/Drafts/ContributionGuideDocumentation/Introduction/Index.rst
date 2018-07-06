@@ -34,7 +34,7 @@ Further recommended reading
 .. fixme : replace with intersphinx link
 
 * The first place to look is the TYPO3 manual 
-  :ref:`How to document <https://docs.typo3.org/typo3cms/HowToDocument/>`
+  `How to document <https://docs.typo3.org/typo3cms/HowToDocument/>`__
 * `ReST basics
   <http://rest-sphinx-memo.readthedocs.io/en/latest/ReST.html>`__
 
