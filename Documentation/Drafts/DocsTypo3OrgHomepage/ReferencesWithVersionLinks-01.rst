@@ -4,7 +4,7 @@
 .. _references:
 
 ======================================
-DRAFT: References - with Version Hints
+DRAFT: References - with Version Links
 ======================================
 
 * Currently published version: `References <https://docs.typo3.org/typo3cms/References/Index.html>`__
