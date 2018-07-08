@@ -21,9 +21,9 @@ DRAFT: References - with Version Links
    :Description:  Description
 
  - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-   :Versions:     `TYPO3 v9 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__ |
-                  `TYPO3 v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__ |
-                  `TYPO3 v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
+   :Versions:     `latest <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__ |
+                  `v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__ |
+                  `v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
    :Description:  New Features, Breaking Changes, Deprecations.
                   Reading up here is strongly recommended for developers.
                   For everyone else, the `What's new slides
@@ -31,7 +31,7 @@ DRAFT: References - with Version Links
                   provide the information in a more digestible way.
 
  - :Manual:       :ref:`t3coreapi:start` (latest)
-   :Versions:     :ref:`latest <t3coreapi:start>`
+   :Versions:     :ref:`latest <t3coreapi:start>` |
                   `v8.7 <https://docs.typo3.org/typo3cms/CoreApiReference/8.7/>`__ |
                   `v7.6 <https://docs.typo3.org/typo3cms/CoreApiReference/7.6/>`__ |
                   `v6.2 <https://docs.typo3.org/typo3cms/CoreApiReference/6.2/>`__ |
@@ -76,9 +76,9 @@ DRAFT: References - with Version Links
 
    `Core Changelog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
       versions: `latest <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-      :sep:`|` `TYPO3 v9 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__
-      :sep:`|` `TYPO3 v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__
-      :sep:`|` `TYPO3 v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
+      :sep:`|` `v9 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__
+      :sep:`|` `v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__
+      :sep:`|` `v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
 
       New Features, Breaking Changes, Deprecations.
 
@@ -128,9 +128,9 @@ DRAFT: References - with Version Links
 
    `Core Changelog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
       versions: `latest <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-      :sep:`|` `TYPO3 v9 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__
-      :sep:`|` `TYPO3 v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__
-      :sep:`|` `TYPO3 v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
+      :sep:`|` `v9 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__
+      :sep:`|` `v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__
+      :sep:`|` `v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
 
       New Features, Breaking Changes, Deprecations.
 
@@ -178,9 +178,9 @@ DRAFT: References - with Version Links
 
 `Core Changelog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
    versions: `latest <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-   :sep:`|` `TYPO3 v9 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__
-   :sep:`|` `TYPO3 v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__
-   :sep:`|` `TYPO3 v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
+   :sep:`|` `v9 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__
+   :sep:`|` `v8 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__
+   :sep:`|` `v7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
 
    New Features, Breaking Changes, Deprecations.
 
