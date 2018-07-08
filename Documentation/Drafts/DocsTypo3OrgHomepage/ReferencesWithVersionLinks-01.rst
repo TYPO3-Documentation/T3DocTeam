@@ -30,7 +30,7 @@ DRAFT: References - with Version Links
                   <https://typo3.org/help/documentation/whats-new/>`__
                   provide the information in a more digestible way.
 
- - :Manual:       :ref:`t3coreapi:start` (latest)
+ - :Manual:       :ref:`t3coreapi:start` 
    :Versions:     :ref:`latest <t3coreapi:start>` |
                   `v8.7 <https://docs.typo3.org/typo3cms/CoreApiReference/8.7/>`__ |
                   `v7.6 <https://docs.typo3.org/typo3cms/CoreApiReference/7.6/>`__ |
