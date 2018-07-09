@@ -20,11 +20,32 @@ DRAFT 1 : add link to exernal search engine
 
 see also `PR #87 <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/pull/87>`__
 
+Results page for no results
+---------------------------
+
+
 Search Results
---------------
+~~~~~~~~~~~~~~
 
 Your search did not match any documents. Please make sure that all words are spelled correctly.
 
 The search function only searches within the current manual `<title of manual>`.
 
 For a wider search, try: `<URL to startpage.com with site:docs.typo3.org and query>`
+
+
+Results page for results
+---------------------------
+
+
+Search Results
+~~~~~~~~~~~~~~
+
+Search finished, found `<number of pages>` page(s) matching the search query.
+
+The search function only searches within the current manual `<title of manual>`.
+
+For a wider search, try: `<URL to startpage.com with site:docs.typo3.org and query>`
+
+
+`<search results>`
