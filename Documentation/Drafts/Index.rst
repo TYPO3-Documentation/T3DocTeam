@@ -31,5 +31,6 @@ Drafts
    DocsAboutDocs/Index
    ContributionGuideDocumentation/Index
    SlackGuidelines
+   SearchResults
    PageNotFound
 
