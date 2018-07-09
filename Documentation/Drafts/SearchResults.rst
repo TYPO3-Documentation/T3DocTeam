@@ -25,6 +25,6 @@ Search Results
 
 Your search did not match any documents. Please make sure that all words are spelled correctly.
 
-The search function only searches within the current manual `<Title of manualy>`.
+The search function only searches within the current manual `<title of manual>`.
 
 For a wider search, try: `<URL to startpage.com with site:docs.typo3.org and query>`
