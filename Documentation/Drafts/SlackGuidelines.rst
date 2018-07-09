@@ -1,7 +1,7 @@
 .. include:: ../Includes.txt
 
 =======================
-Draft: Slack Guidelines
+DRAFT: Slack Guidelines
 =======================
 
 Some ideas:
