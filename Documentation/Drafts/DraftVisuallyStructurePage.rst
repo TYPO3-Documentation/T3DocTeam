@@ -30,16 +30,44 @@ Adresses `PR for contribution guide
   This makes it hard to read. Example: `A journey through the blog example
   <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/3-BlogExample/1-first-orientation.html>`__
 
-   * Solution:
+   * Solution: See `issue #83 in t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/issues/83>`__
 
 
-Method: 1-2-3 with big numbers
-==============================
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+Method 01: 1-2-3 with big numbers xxl
+=====================================
 
 
 first found in form extension docs: https://docs.typo3.org/typo3cms/extensions/form/QuickStart/Index.html
 
 .. rst-class:: bignums-xxl
+
+1. pro
+
+   * good division between parts
+   * numbering makes it easier to follow
+
+2. con
+
+   * not in menu, so you can't jump to specific section from menu
+   * no named anchor so you can't link directly to section
+   * less contrast here because of background color
+
+
+3. conlusion
+
+   **Good method if there are not too many items (up to 5 is ok).
+   It is probably a good idea to use this consistently throughout
+   the documentation**
+
+
+Method 02: 1-2-3 with big numbers
+=================================
+
+.. rst-class:: bignums
 
 1. pro
 
@@ -57,21 +85,20 @@ first found in form extension docs: https://docs.typo3.org/typo3cms/extensions/f
    It is probably a good idea to use this consistently throughout
    the documentation, e.g. for a Quick start section**
 
-Method: subsections
-===================
+
+
+
+
+Method 03: subsections
+======================
 
 pro:
 ----
 
-division between subsection
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* division between subsection
+* subsection title in menu so you can click directly
+* you can link directly to section with named anchors
 
-subsection title in menu so you can click directly
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-you can link directly to section with named anchors
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 con:
 ----
@@ -79,8 +106,32 @@ con:
 * no numbering
 
 
-Methods: Borders for images
-===========================
+
+
+
+Method 04: subsections with numbering
+=====================================
+
+step 1 : show the advantages
+----------------------------
+
+* division between subsection
+* subsection title in menu so you can click directly
+* you can link directly to section with named anchors
+
+step 2: show the disadvantages
+------------------------------
+
+* the division between the steps is not as clear as with
+  the number method above
+
+
+
+
+
+
+Methods 05 : Borders for images
+===============================
 
 
 Adresses problem that it is difficult to distinguish images from text.
@@ -102,29 +153,30 @@ With drop-shadow
    :class: with-shadow
 
 
-sfsf sfdsfs
-sdfsfds
+sfsf sfdsfs sfsf sfdsfs sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs xdxvss sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsf aAsfsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfs.
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
 With border
 -----------
@@ -133,96 +185,116 @@ With border
    :class: with-border
 
 
-sfsf sfdsfs
-sdfsfds
+sfsf sfdsfs sfsf sfdsfs sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs xdxvss sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsf aAsfsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfs.
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
 With border
 -----------
 
 
-sfsf sfdsfs
-sdfsfds
+sfsf sfdsfs sfsf sfdsfs sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs xdxvss sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsf aAsfsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfs.
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
 .. figure:: ../_assets/gerrit_signin.png
    :class: with-panel
 
-sfsf sfdsfs
-sdfsfds
+sfsf sfdsfs sfsf sfdsfs sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs xdxvss sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsf aAsfsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfs.
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
 With width and alignment (left)
 -------------------------------
 
-sfsf sfdsfs
-sdfsfds
+sfsf sfdsfs sfsf sfdsfs sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs xdxvss sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsf aAsfsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfs.
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
-sfsf sfdsfs
-sdfsfds
-sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
-
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
 .. figure:: ../_assets/gerrit_signin.png
    :width: 200px
@@ -231,29 +303,30 @@ sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
       :figclass: align-left
 
 
-   sfsf sfdsfs
-   sdfsfds
-   sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sfsf sfdsfs sfsf sfdsfs sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
-   sfsf sfdsfs
-   sdfsfds
-   sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
-   sfsf sfdsfs
-   sdfsfds
-   sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
-   sfsf sfdsfs
-   sdfsfds
-   sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sfsf sfdsfs xdxvss sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsf aAsfsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfs.
 
-   sfsf sfdsfs
-   sdfsfds
-   sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
-   sfsf sfdsfs
-   sdfsfds
-   sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+
+sfsf sfdsfs sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfds sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
+sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd sdfsfsdfsd  sdfdsfs sdfdsfdsfds sdfssd
 
 
 

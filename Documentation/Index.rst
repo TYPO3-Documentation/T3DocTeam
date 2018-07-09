@@ -23,6 +23,7 @@ T3DocTeam at Work
    HowPeopleCanHelp/Index
    AboutDocumentation/Index
    AboutTheTeam/Index
+   OverviewOfManuals/Index
    Drafts/Index
    HowWeWork/Index
    PersonalNotes/Index
