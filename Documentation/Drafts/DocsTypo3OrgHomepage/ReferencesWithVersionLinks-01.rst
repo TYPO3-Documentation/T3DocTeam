@@ -71,6 +71,10 @@ DRAFT: References - with Version Links
 02 - with version links and DL
 ==============================
 
+**Problem:**
+
+* style dl should not be used here, because it is specifically for styling TCA
+
 
    .. rst-class:: dl-parameters
 
@@ -111,6 +115,10 @@ DRAFT: References - with Version Links
 
 03 - with version links, DL and TOC
 ===================================
+
+**Problem:**
+
+* style dl should not be used here, because it is specifically for styling TCA
 
 `Core Changelog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
 
@@ -163,6 +171,10 @@ DRAFT: References - with Version Links
 
 04 - with version links, DL and Quick Links
 ===========================================
+
+**Problem:**
+
+* style dl should not be used here, because it is specifically for styling TCA
 
 .. rst-class:: horizbuttons-note-m
 
