@@ -5,12 +5,12 @@ Drafts
 ======
 
 
-**Current drafts in this section:**
-
 .. toctree::
    :maxdepth: 1
+   :hidden:
    :glob:
 
+   GeneralThings/Index
    rte_ckeditor/Index
    DocsTypo3OrgHomepage/Index
    *
