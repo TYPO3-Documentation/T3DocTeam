@@ -16,7 +16,8 @@ What should be on the start page?
 * How to read this document (or should this be in the introduction section?)
 * Quick links
 
-What information is already in left sidepanel, on footer etc. and must not be in main content
+What information is already in left sidepanel, on footer etc. and must
+not be in main content?
 
 * Title of document (is in left sidepanel)
 * Version of document (is in left sidepanel)
