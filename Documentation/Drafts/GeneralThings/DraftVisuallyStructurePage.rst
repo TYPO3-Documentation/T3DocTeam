@@ -35,6 +35,18 @@ Adresses `PR for contribution guide
    * Solution: See `issue #83 in t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/issues/83>`__
 
 
+**General best practices:**
+
+* don't create long paragraphs
+* use images and tips / hints etc. sparingly
+* very sparingly use bold to emphasize important things (helps when people scan page)
+* don't put too much on one page
+* always use visual styling consistently for specific type of content,
+  e.g. only use sidebars to link to additional information. Use this
+  consistently within a manual and preferably within the entire docs.
+
+
+
 .. toctree::
    :maxdepth: 1
    :glob:
