@@ -10,7 +10,9 @@ What the team generally does
 The date in the following list indicates the day of adding that item to the list.
 
 * 2018-02-22 We need a repair run for https://docs.typo3.org/typo3cms/extensions/manuals.json
-  and https://docs.typo3.org/typo3cms/extensions/extensions.js
+  and https://docs.typo3.org/typo3cms/extensions/extensions.js 
+  
+  * Added this issue to Github: `T3DocTeam #23 <https://github.com/TYPO3-Documentation/T3DocTeam/issues/23>`__
 
 * 2018-02-21 Clean up Forge
 
