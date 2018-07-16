@@ -19,14 +19,15 @@ T3DocTeam at Work
 .. toctree::
    :hidden:
 
-   Sitemap/Index
-   HowPeopleCanHelp/Index
    AboutDocumentation/Index
-   AboutTheTeam/Index
-   OverviewOfManuals/Index
-   Drafts/Index
+   Tasks/Index
    HowWeWork/Index
+   HowPeopleCanHelp/Index
+   OverviewOfManuals/Index
+   ListOfNewManuals/Index
+   Drafts/Index
    PersonalNotes/Index
+   Sitemap/Index
    Linktargets/Index
 
 

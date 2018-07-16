@@ -10,10 +10,8 @@ Overview of Manuals
 * :ref:`overview-of-manuals` : List of currently exsisting manuals
 * :ref:`list-of-manuals-about-writing-docs` : List of currently existing manuals about writing docs
 
-**List of manuals in planned / draft / review state:**
 
-* :ref:`list-of-new-manuals`
-
+See also :ref:`list-of-new-manuals`
 
 .. toctree::
    :maxdepth: 1

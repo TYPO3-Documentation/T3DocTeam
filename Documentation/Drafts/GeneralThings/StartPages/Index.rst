@@ -9,7 +9,9 @@ DRAFTS for startpage
 
 What should be on the start page?
 
-* **Mandatory** What's the manual about
+Some examples:
+
+* What's the manual about (short description)
 * Target audience (e.g. Developers)
 * Prerequisites (what knowledge do you need, what to read first)
 * Recommended reading (or should this be in the introduction section?)

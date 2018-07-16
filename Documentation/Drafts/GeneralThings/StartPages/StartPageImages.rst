@@ -48,14 +48,14 @@ Find additional information:
 * See the `t3SphinxThemeRtd demo docs
   <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/Index.html>`__
   to find out about the visual appearance of various kind of markup.
-* See `docker-render-documentation Readme on Github
+* See `docker-render-documentation
   <https://github.com/t3docs/docker-render-documentation>`__ to
   find out how to use docker to render the TYPO3 documentation locally.
 
 
 * *For extension developers:* Look at :ref:`how-to-start-docs-extension`
 
-* *For TYPO3 core developers:* * Read :ref:`t3contribute:Bugfixing-Adding-documentation` to learn about how to add
+* *For TYPO3 core developers:* Read :ref:`t3contribute:Bugfixing-Adding-documentation` to learn about how to add
   documentation to the Changelog
 
 

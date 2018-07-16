@@ -9,7 +9,7 @@ Startpage : panel-default style
 
 **Problem:**
 
-* *This style is currently used for documentation news. We need a style
+* *This style is currently used for documentation news. We are using this style
   to visually structure each text block as a block, but it should look different
   from the docs news.*
 

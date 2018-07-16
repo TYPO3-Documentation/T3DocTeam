@@ -1,9 +1,9 @@
 
-.. include:: ../../Includes.txt
+.. include:: ../Includes.txt
 
-=====
-Tasks
-=====
+==========
+Team Tasks
+==========
 
 .. Do not put headlines here.
 .. Recommended: Use extra files like Something.rst
