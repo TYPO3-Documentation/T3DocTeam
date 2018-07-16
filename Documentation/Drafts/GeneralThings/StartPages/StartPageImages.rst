@@ -7,6 +7,12 @@
 Startpage : With images
 =======================
 
+**Problem:**
+
+* *This style is currently used for documentation news. We need a style
+  to visually structure each text block as a block, but it should look different
+  from the docs news.*
+
 Title of document
 =================
 
