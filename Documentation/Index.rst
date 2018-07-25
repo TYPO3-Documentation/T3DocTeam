@@ -21,11 +21,13 @@ T3DocTeam at Work
 
    AboutDocumentation/Index
    Tasks/Index
+   TeamEvents/Index
    HowWeWork/Index
    HowPeopleCanHelp/Index
    OverviewOfManuals/Index
    ListOfNewManuals/Index
    Drafts/Index
+   Incoming/Index
    PersonalNotes/Index
    Sitemap/Index
    Linktargets/Index

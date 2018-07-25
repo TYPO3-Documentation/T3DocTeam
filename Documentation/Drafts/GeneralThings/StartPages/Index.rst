@@ -3,11 +3,14 @@
 
 .. _drafts-visually-structure:
 
-====================
-DRAFTS for startpage
-====================
+===================================
+DRAFTS for startpage of each manual
+===================================
 
-What should be on the start page?
+What should be on the start page of each manual?
+
+What information should be there?
+=================================
 
 Some examples:
 
@@ -28,9 +31,20 @@ not be in main content?
 * Rendered : is in footer
 
 How should the start page be styled?
+====================================
 
-* Each text block should be visibly recognizable
-* Every manual should have a similar start page
+* e.g. use borders for each text block
+* using multiple columns also looks nice.
+
+.. image:: _assets/readthedocs.png
+   :target: https://readthedocs.org/
+
+
+* e.g. make text block with same information (e.g. what is manual about)
+  easily recognizable
+  by placing it at the top, using always the same image or style.
+* e.g. use images for each text block
+* e.g. always use specific styles (same color) for links
 
 
 .. toctree::
