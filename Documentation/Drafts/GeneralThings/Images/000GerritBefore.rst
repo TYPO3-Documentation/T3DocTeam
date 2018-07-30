@@ -1,10 +1,10 @@
-.. include:: Includes.txt
+.. include:: ../../../Includes.txt
 
 .. _GerritAccount:
 
-=======================================
-Setting up your Gerrit account (before)
-=======================================
+===================================
+000 Original page (without changes)
+===================================
 
 Head over to Gerrit_, scroll to the end of the page and switch to the new UI.
 

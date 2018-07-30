@@ -20,10 +20,6 @@ Conventions
    * do not use **@api** 
    * use **@internal** for internal functions
    
-(July 2018, #typo3-cms-coredev channel, asked by @sybille)   
+(July 2018, #typo3-cms-coredev channel)
 
 
-Open questions
-==============
-
-* should @throws be used in Phpdoc? (is used in a number of cases but not completely and consistently)

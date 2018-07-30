@@ -24,3 +24,4 @@ Some more open questions:
 
    *
    StartPages/Index
+   Images/Index

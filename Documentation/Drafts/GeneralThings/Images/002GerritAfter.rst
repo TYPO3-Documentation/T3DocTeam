@@ -1,18 +1,17 @@
-.. include:: Includes.txt
+.. include:: ../../../Includes.txt
 
+.. _GerritAccount-002:
 
-.. _GerritAccount-003:
-
-================================================
-003 Setting up your Gerrit account (with-border)
-================================================
+==============================================
+002 Page with images (with-shadow, float-left)
+==============================================
 
 .. rst-class:: bignums-xxl
 
 1. Switch to new UI in Gerrit
 
    .. image:: GerritSignupFinal-new-ui-3.png
-      :class: with-border float-left
+:class: with-shadow float-left
 
    Head over to `Gerrit <https://review.typo3.org>`__, scroll to the bottom
    of the page and click the link "New UI". You can also work with the old
@@ -22,15 +21,13 @@
 2. Click the **Sign In** button in the top right corner.
 
    .. image:: GerritSignupFinal-sign-in-3.png
-      :class: with-border float-left
+:class: with-shadow float-left
 
    You will be prompted with a regular **Basic Authentication** window,
    simply enter your TYPO3.org username and password you had
    :ref:`set up earlier <TYPO3Account>`.
 
    .. rst-class:: clear-both
-
-   …
 
 3. Create your ssh key
 
@@ -45,7 +42,7 @@
 4. Add your public SSH key to Gerrit
 
    .. image:: GerritSignupFinal-add-ssh-key-3.png
-      :class: with-border float-left
+:class: with-shadow float-left
 
    * Click on your profile in the top right corner and click **Settings**.
 
@@ -54,8 +51,6 @@
    * Copy-paste the contents of your public ssh key file (e.g.
      :file:`~/.ssh/id_rsa.pub`) into the text field next to **New SSH key** and
      then click on **Add new SSH key**.
-
-   .. rst-class:: clear-both
 
 If you work with different computers, for example with a notebook
 at work and another computer at home you can either copy your

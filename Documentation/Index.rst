@@ -27,7 +27,6 @@ T3DocTeam at Work
    OverviewOfManuals/Index
    ListOfNewManuals/Index
    Drafts/Index
-   Incoming/Index
    PersonalNotes/Index
    Sitemap/Index
    Linktargets/Index

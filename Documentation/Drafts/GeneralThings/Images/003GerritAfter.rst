@@ -1,32 +1,37 @@
-.. include:: Includes.txt
+.. include:: ../../../Includes.txt
 
 
-.. note::
-   Version after pimping it up
 
-.. _GerritAccount:
+.. _GerritAccount-003:
 
-===============================================
-Setting up your Gerrit account (without images)
-===============================================
-
+================================================
+003 Setting up your Gerrit account (with-border)
+================================================
 
 .. rst-class:: bignums-xxl
 
 1. Switch to new UI in Gerrit
+
+   .. image:: _assets/GerritSignupFinal-new-ui-3.png
+      :class: with-border float-left
 
    Head over to `Gerrit <https://review.typo3.org>`__, scroll to the bottom
    of the page and click the link "New UI". You can also work with the old
    UI, but then some things will look a little different.
 
 
-
 2. Click the **Sign In** button in the top right corner.
+
+   .. image:: _assets/GerritSignupFinal-sign-in-3.png
+      :class: with-border float-left
 
    You will be prompted with a regular **Basic Authentication** window,
    simply enter your TYPO3.org username and password you had
    :ref:`set up earlier <TYPO3Account>`.
 
+   .. rst-class:: clear-both
+
+   …
 
 3. Create your ssh key
 
@@ -40,26 +45,23 @@ Setting up your Gerrit account (without images)
 
 4. Add your public SSH key to Gerrit
 
-   Click on your profile in the top right corner and click **Settings**.
+   .. image:: GerritSignupFinal-add-ssh-key-3.png
+      :class: with-border float-left
 
-   On the left hand side, click **SSH Keys**.
+   * Click on your profile in the top right corner and click **Settings**.
 
-   Copy-paste the contents of your public ssh key file (e.g.
-   ~/.ssh/id_rsa.pub) into the text field next to **New SSH key** and then
-   click on **Add new SSH key**.
+   * On the left hand side, click **SSH Keys**.
 
+   * Copy-paste the contents of your public ssh key file (e.g.
+     :file:`~/.ssh/id_rsa.pub`) into the text field next to **New SSH key** and
+     then click on **Add new SSH key**.
 
+   .. rst-class:: clear-both
 
 If you work with different computers, for example with a notebook
 at work and another computer at home you can either copy your
 private key or create a separate key for the other computer. Luckily
 Gerrit can handle multiple keys.
 
-
-.. important::
-
-   Always keep your keys private. Never give them away. No member of the
-   TYPO3 project will ever ask you for your keys.
-
-
-
+Always keep your keys private. Never give them away. No member of the
+TYPO3 project will ever ask you for your keys.

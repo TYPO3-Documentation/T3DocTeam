@@ -2,10 +2,13 @@
 
 .. _drafts:
 
-========================
-DRAFTS for documentation
-========================
+====================
+Documentation drafts
+====================
 
+Here, documentation can be written without making it official (yet).
+
+T3DocTeam manual is public, but is excluded by robots.txt.
 
 .. toctree::
    :maxdepth: 1
@@ -13,8 +16,9 @@ DRAFTS for documentation
    :glob:
 
    GeneralThings/Index
+   T3DocTeam/Index
    rte_ckeditor/Index
    DocsTypo3OrgHomepage/Index
    *
    ContributionGuideCore/Index
-   ContributionGuideDocumentation/Index
+   HowToDocument/Index
