@@ -12,12 +12,6 @@ T3DocTeam at Work
 :Sitemap:         :ref:`sitemap`
 :Rendered:        |today|
 
-Quicklinks to issues:
-
-*  `open issues of T3DocTEAM, that nobody has taken yet
-   <https://github.com/TYPO3-Documentation/T3DocTeam/issues?utf8=✓&q=is%3Aopen+no%3Aassignee>`__
-  
-
 
 .. toctree::
    :hidden:
