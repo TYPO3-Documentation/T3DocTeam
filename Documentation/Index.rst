@@ -17,12 +17,8 @@ T3DocTeam at Work
    :hidden:
 
    AboutDocumentation/Index
-   Tasks/Index
-   TeamEvents/Index
    HowWeWork/Index
-   HowPeopleCanHelp/Index
    OverviewOfManuals/Index
-   ListOfNewManuals/Index
    Drafts/Index
    PersonalNotes/Index
    Sitemap/Index

@@ -16,9 +16,4 @@ T3DocTeam manual is public, but is excluded by robots.txt.
    :glob:
 
    GeneralThings/Index
-   T3DocTeam/Index
-   rte_ckeditor/Index
-   DocsTypo3OrgHomepage/Index
    *
-   ContributionGuideCore/Index
-   HowToDocument/Index
