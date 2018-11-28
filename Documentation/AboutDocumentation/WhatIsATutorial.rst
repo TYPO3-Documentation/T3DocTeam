@@ -1,6 +1,8 @@
 
 .. include:: ../Includes.txt
 
+.. _whats-a-tutorial:
+
 =========================
 What Is A TYPO3 Tutorial?
 =========================
