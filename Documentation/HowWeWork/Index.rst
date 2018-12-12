@@ -9,7 +9,8 @@ Using Github
 
 Pull requests
    * `List at docs.typo3.org <https://docs.typo3.org/services/GithubPullRequests/>`__
-   * `open pull requests, recently updated <https://github.com/search?q=org%3ATYPO3-Documentation+type%3Apr&state=open&type=Issues>`__
+   * `open pull requests (oldest first) 
+     <https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+org%3ATYPO3-Documentation+sort%3Acreated-asc>`__
 
 Issues
    * `open issues, recently updated
