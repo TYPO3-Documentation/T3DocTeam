@@ -14,8 +14,7 @@ There is a monthly Slack call in the **#typo3-documentation** channel.
 Date:
    Every third Thursday of the month
 Time:
-   `13:00 UTC (London) <https://www.thetimezoneconverter.com/?t=13%3A00&tz=UTC%20(Coordinated%20Universal%20Time)&>`__
-   until 14:00 UTC (London)
+   13:00 UTC (London) until 14:00 UTC (London) `Link to show time in your local timezone <https://www.thetimezoneconverter.com/?t=13%3A00&tz=UTC%20(Coordinated%20Universal%20Time)&>`__
 Duration:
    One hour
 Place:
@@ -26,6 +25,11 @@ Who can participate:
 
 For more information about Slack, please see the `Wiki Slack page <https://wiki.typo3.org/Slack>`__,
 to register, go to `Slack: my.typo3.org <https://my.typo3.org/about-mytypo3org/slack/>`__.
+
+Next Slack Call
+---------------
+
+See `Forge Wiki team-docteam <https://forge.typo3.org/projects/team-docteam/wiki>`__
 
 
 Past Slack Call Notes
