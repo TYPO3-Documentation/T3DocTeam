@@ -17,6 +17,7 @@ T3DocTeam at Work
    :hidden:
 
    AboutDocumentation/Index
+   Events/Index
    HowWeWork/Index
    OverviewOfManuals/Index
    Drafts/Index
