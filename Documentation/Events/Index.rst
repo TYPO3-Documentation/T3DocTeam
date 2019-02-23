@@ -14,7 +14,7 @@ There is a monthly Slack call in the **#typo3-documentation** channel.
 Date:
    Every third Thursday of the month
 Time:
-   13:00 UTC (London) until 14:00 UTC (London) `Link to show time in your local timezone <https://www.thetimezoneconverter.com/?t=13%3A00&tz=UTC%20(Coordinated%20Universal%20Time)&>`__
+   13:00 UTC (UTC) until 14:00 UTC (Amsterdam, Berlin, London) `Link to show time in your local timezone <https://www.thetimezoneconverter.com/?t=13%3A00&tz=UTC%20(Coordinated%20Universal%20Time)&>`__
 Duration:
    One hour
 Place:
