@@ -20,6 +20,11 @@ Initially taken from `guides and tutorials
 and `references <https://docs.typo3.org/typo3cms/References/Index.html>`__.
 For pragmatic reasons we don't list individual branches here.
 
+todo:
+
+* add automatically generated ViewHelper reference
+* add "Tell me Something About"
+
 
 .. t3-field-list-table::
  :header-rows: 1
@@ -89,7 +94,7 @@ For pragmatic reasons we don't list individual branches here.
 
  - :Manual:       :ref:`h2document:start`
    :Shortcut:     h2document
-   :Mentor:       Martin Bless   
+   :Mentor:       Martin Bless, Sybille Peters   
    :State:        Fully revised
    :NextStep:
    :About:        How to document
