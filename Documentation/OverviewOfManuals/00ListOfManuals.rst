@@ -26,7 +26,7 @@ For pragmatic reasons we don't list individual branches here.
 
  - :Manual:       Manual
    :Shortcut:     Shortcut
-   :Mentor:       Mentor
+   :Mentor:       Maintainer / Caretaker
    :State:        State
    :NextStep:     Next Step
    :About:        About
