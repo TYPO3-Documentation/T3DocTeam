@@ -90,7 +90,7 @@ For pragmatic reasons we don't list individual branches here.
  - :Manual:       :ref:`h2document:start`
    :Shortcut:     h2document
    :Mentor:       Martin Bless   
-   :State:        "Work in progress!"
+   :State:        Fully revised
    :NextStep:
    :About:        How to document
 
