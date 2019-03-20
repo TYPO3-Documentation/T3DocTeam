@@ -53,14 +53,14 @@ todo:
  - :Manual:       :ref:`t3security:start`
    :Shortcut:     t3security
    :Mentor:       Michael Schams
-   :State:
+   :State:        Merged into TYPO3 Explained
    :NextStep:
    :About:
 
  - :Manual:       `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
    :Shortcut:     t3sitepack
    :Mentor:       Michael Schams
-   :State:        upcoming
+   :State:        published
    :NextStep:
    :About:
 
@@ -102,8 +102,8 @@ todo:
  - :Manual:       :ref:`t3start:start`
    :Shortcut:     t3start
    :Mentor:       Sybille Peters
-   :State:
-   :NextStep:
+   :State:        not fully updated
+   :NextStep:     Working on updating latest branch for TYPO3 9
    :About:
 
  - :Manual:       :ref:`t3editors:start`
