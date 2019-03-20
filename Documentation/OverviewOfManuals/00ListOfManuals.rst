@@ -66,7 +66,7 @@ todo:
 
  - :Manual:       :ref:`t3contribute:start`
    :Shortcut:     t3contribute
-   :Mentor:       Sybille Peters
+   :Mentor:       Sybille Peters, Josef Glatz
    :State:        Up-to-date, proofread (4/2018)
    :NextStep:
    :About:        TYPO3 core contribution
@@ -101,7 +101,7 @@ todo:
 
  - :Manual:       :ref:`t3start:start`
    :Shortcut:     t3start
-   :Mentor:
+   :Mentor:       Sybille Peters
    :State:
    :NextStep:
    :About:
