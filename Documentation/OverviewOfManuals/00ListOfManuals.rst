@@ -39,8 +39,8 @@ todo:
  - :Manual:       :ref:`t3l10n:start`
    :Shortcut:     t3l10n
    :Mentor:
-   :State:
-   :NextStep:
+   :State:        Current "latest" is for version 7.6 
+   :NextStep:     Create branch for 7.6 and update "latest" for TYPO3 9
    :About:
 
  - :Manual:       :ref:`t3install:start`
