@@ -74,15 +74,15 @@ todo:
  - :Manual:       :ref:`t3extbasebook:start`
    :Shortcut:     t3extbasebook
    :Mentor:
-   :State:
-   :NextStep:
+   :State:        Was often mentioned, that it is not up-to-date. Was also mentioned, that language needs improvement.
+   :NextStep:     Review all branches to check if up-to-date. Proofread for language.
    :About:
 
  - :Manual:       :ref:`t3extbase:start`
    :Shortcut:     t3extbase
    :Mentor:
-   :State:        
-   :NextStep:
+   :State:        Scope of Guide unclear. 
+   :NextStep:     
    :About:
 
  - :Manual:       :ref:`rendert3docs:start`
@@ -102,8 +102,8 @@ todo:
  - :Manual:       :ref:`t3start:start`
    :Shortcut:     t3start
    :Mentor:       Sybille Peters
-   :State:        not fully updated
-   :NextStep:     Working on updating latest branch for TYPO3 9
+   :State:        9.5 branch fully updated, other branches: unclear
+   :NextStep:     check 8 and 7 branch
    :About:
 
  - :Manual:       :ref:`t3editors:start`
@@ -130,7 +130,7 @@ todo:
  - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
    :Shortcut:     t3core
    :Mentor:       Christian Kuhn
-   :State:
+   :State:        Up to date
    :NextStep:
    :About:        ChangeLog Reference
 
