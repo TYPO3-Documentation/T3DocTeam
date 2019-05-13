@@ -30,137 +30,111 @@ todo:
  :header-rows: 1
 
  - :Manual:       Manual
-   :Shortcut:     Shortcut
    :Mentor:       Maintainer / Caretaker
    :State:        State
    :NextStep:     Next Step
-   :About:        About
 
  - :Manual:       :ref:`t3l10n:start`
-   :Shortcut:     t3l10n
    :Mentor:
    :State:        Current "latest" is for version 7.6 
-   :NextStep:     Create branch for 7.6 and update "latest" for TYPO3 9
-   :About:
+   :NextStep:     Create branch for 7.6 and update "latest" for TYPO3 9. Also check, if there is overlap with other manuals. Should this manual be merged to "TYPO3 Explained"?
 
  - :Manual:       :ref:`t3install:start`
-   :Shortcut:     t3install
    :Mentor:
    :State:
    :NextStep:
-   :About:
 
  - :Manual:       :ref:`t3security:start`
-   :Shortcut:     t3security
    :Mentor:       Michael Schams
    :State:        Merged into TYPO3 Explained
    :NextStep:
-   :About:
 
  - :Manual:       `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
-   :Shortcut:     t3sitepack
    :Mentor:       Michael Schams
-   :State:        published
-   :NextStep:
-   :About:
+   :State:        "master" is for TYPO3 8.7 
+   :NextStep:     Check if changes for 9 are necessary, branch out and create changes for 9 
 
  - :Manual:       :ref:`t3contribute:start`
-   :Shortcut:     t3contribute
    :Mentor:       Sybille Peters, Josef Glatz
    :State:        Up-to-date, proofread (4/2018)
    :NextStep:
-   :About:        TYPO3 core contribution
 
  - :Manual:       :ref:`t3extbasebook:start`
-   :Shortcut:     t3extbasebook
    :Mentor:
    :State:        Was often mentioned, that it is not up-to-date. Was also mentioned, that language needs improvement.
-   :NextStep:     Review all branches to check if up-to-date. Proofread for language.
-   :About:
+   :NextStep:     Decide if all branches should be maintained longterm or only "latest". Possibly, remove branches. Review for: up-to-date, proofread language.
 
  - :Manual:       :ref:`t3extbase:start`
    :Shortcut:     t3extbase
    :Mentor:
    :State:        Scope of Guide unclear. 
-   :NextStep:     
-   :About:
+   :NextStep:     Make decision about guide. Should we continue maintaining it? What is scope? How should it be structured? Should Fluid section be separated?
 
  - :Manual:       :ref:`rendert3docs:start`
    :Shortcut:     rendert3docs
    :Mentor:       Martin Bless
    :State:        "Work in progress!"
-   :NextStep:
-   :About:
+   :NextStep:     Should be updated and "WIP" removed. What is scope of guide? Clarify, what information should go in "Rendering Guide", what in "Writing Documentation": :ref:`h2document:rendering-docs` and what in `Readme on GitHub for Docker image <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
 
  - :Manual:       :ref:`h2document:start`
    :Shortcut:     h2document
    :Mentor:       Martin Bless, Sybille Peters   
-   :State:        Fully revised
+   :State:        Fully revised, is up-to-date!
    :NextStep:
-   :About:        How to document
 
  - :Manual:       :ref:`t3start:start`
    :Shortcut:     t3start
    :Mentor:       Sybille Peters
    :State:        9.5 branch fully updated, other branches: unclear
    :NextStep:     check 8 and 7 branch
-   :About:
 
  - :Manual:       :ref:`t3editors:start`
    :Shortcut:     t3editors
    :Mentor:
    :State:
    :NextStep:
-   :About:
 
  - :Manual:       :ref:`t3ts45:start`
    :Shortcut:     t3ts45
    :Mentor:
-   :State:
+   :State:        
    :NextStep:
-   :About:
 
  - :Manual:       :ref:`t3templating:start`
    :Shortcut:     t3templating
    :Mentor:
    :State:
-   :NextStep:
-   :About:
+   :NextStep:     
 
  - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
    :Shortcut:     t3core
    :Mentor:       Christian Kuhn
    :State:        Up to date
    :NextStep:
-   :About:        ChangeLog Reference
 
  - :Manual:       :ref:`Core API <t3coreapi:start>`
    :Shortcut:     t3coreapi
    :Mentor:       Christian Kuhn
-   :State:
-   :NextStep:
-   :About:
+   :State:        Mostly in good shape, some parts outdated
+   :NextStep:     Check entire manual, if up-to-date for TYPO3 9 (latest)
 
  - :Manual:       :ref:`t3tca:start`
    :Shortcut:     t3tca
    :Mentor:
    :State:
    :NextStep:
-   :About:
 
  - :Manual:       :ref:`t3tsconfig:start`
    :Shortcut:     t3tsconfig
    :Mentor:
    :State:
    :NextStep:
-   :About:
 
  - :Manual:       :ref:`t3tsref:start`
    :Shortcut:     t3tsref
    :Mentor:
    :State:
    :NextStep:
-   :About:
 
 
 See also list of documentation about documentation:
