@@ -144,17 +144,3 @@ e.g. answers on StackOverflow where people are pointed to documentation.
   <https://stackoverflow.com/questions/50024380/what-are-your-recommended-resources-for-learning-extension-development-for-typo3>`__
 * `TYPO3 Fluid and Flux tutorial [closed]
   <https://stackoverflow.com/questions/24910318/typo3-fluid-and-flux-tutorial>`__
-
-Use the answers to check:
-
-* What are people recommending and using? Are they recommending
-  outdated resources?
-* Where are people not finding the information they need?
-* Find ideas to optimize docs
-* Please add a new answer if the answers are outdated!
-
-
-Please note that StackOverflow does not really want questions
-about books / tutorials etc., so it is not ideal to ask there.
-The questions might get closed,
-see `This question <https://stackoverflow.com/questions/24910318/typo3-fluid-and-flux-tutorial>`__
