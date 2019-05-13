@@ -36,12 +36,12 @@ todo:
 
  - :Manual:       :ref:`t3l10n:start`
    :Mentor:
-   :State:        Current "latest" is for version 7.6 
+   :State:        **outdated** Current "latest" is for version 7.6
    :NextStep:     Create branch for 7.6 and update "latest" for TYPO3 9. Also check, if there is overlap with other manuals. Should this manual be merged to "TYPO3 Explained"?
 
  - :Manual:       :ref:`t3install:start`
    :Mentor:
-   :State:
+   :State:        **good** Generally, "latest" (9.5) version looks good and up-to-date.
    :NextStep:
 
  - :Manual:       :ref:`t3security:start`
@@ -56,82 +56,70 @@ todo:
 
  - :Manual:       :ref:`t3contribute:start`
    :Mentor:       Sybille Peters, Josef Glatz
-   :State:        Up-to-date, proofread (4/2018)
+   :State:        **good** Up-to-date, proofread (4/2018)
    :NextStep:
 
  - :Manual:       :ref:`t3extbasebook:start`
    :Mentor:
-   :State:        Was often mentioned, that it is not up-to-date. Was also mentioned, that language needs improvement.
+   :State:        **needs revision** Was often mentioned, that it is not up-to-date. Was also mentioned, that language needs improvement.
    :NextStep:     Decide if all branches should be maintained longterm or only "latest". Possibly, remove branches. Review for: up-to-date, proofread language.
 
  - :Manual:       :ref:`t3extbase:start`
-   :Shortcut:     t3extbase
    :Mentor:
-   :State:        Scope of Guide unclear. 
+   :State:        **needs revision** Scope of Guide unclear.
    :NextStep:     Make decision about guide. Should we continue maintaining it? What is scope? How should it be structured? Should Fluid section be separated?
 
  - :Manual:       :ref:`rendert3docs:start`
-   :Shortcut:     rendert3docs
    :Mentor:       Martin Bless
-   :State:        "Work in progress!"
+   :State:        **needs revision** "Work in progress!"
    :NextStep:     Should be updated and "WIP" removed. What is scope of guide? Clarify, what information should go in "Rendering Guide", what in "Writing Documentation": :ref:`h2document:rendering-docs` and what in `Readme on GitHub for Docker image <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
 
  - :Manual:       :ref:`h2document:start`
-   :Shortcut:     h2document
-   :Mentor:       Martin Bless, Sybille Peters   
-   :State:        Fully revised, is up-to-date!
+   :Mentor:       Martin Bless, Sybille Peters
+   :State:        **good** Fully revised, is up-to-date!
    :NextStep:
 
  - :Manual:       :ref:`t3start:start`
-   :Shortcut:     t3start
    :Mentor:       Sybille Peters
    :State:        9.5 branch fully updated, other branches: unclear
    :NextStep:     check 8 and 7 branch
 
  - :Manual:       :ref:`t3editors:start`
-   :Shortcut:     t3editors
    :Mentor:
    :State:
    :NextStep:
 
  - :Manual:       :ref:`t3ts45:start`
-   :Shortcut:     t3ts45
    :Mentor:
    :State:        
    :NextStep:
 
  - :Manual:       :ref:`t3templating:start`
-   :Shortcut:     t3templating
    :Mentor:
    :State:
    :NextStep:     
 
  - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-   :Shortcut:     t3core
    :Mentor:       Christian Kuhn
-   :State:        Up to date
+   :State:        **good** Up to date
    :NextStep:
 
  - :Manual:       :ref:`Core API <t3coreapi:start>`
-   :Shortcut:     t3coreapi
    :Mentor:       Christian Kuhn
-   :State:        Mostly in good shape, some parts outdated
+   :State:        Mostly in good shape. Some parts outdated. Some parts missing.
    :NextStep:     Check entire manual, if up-to-date for TYPO3 9 (latest)
 
  - :Manual:       :ref:`t3tca:start`
-   :Shortcut:     t3tca
    :Mentor:
    :State:
    :NextStep:
 
  - :Manual:       :ref:`t3tsconfig:start`
-   :Shortcut:     t3tsconfig
    :Mentor:
    :State:
    :NextStep:
 
  - :Manual:       :ref:`t3tsref:start`
-   :Shortcut:     t3tsref
    :Mentor:
    :State:
    :NextStep:
