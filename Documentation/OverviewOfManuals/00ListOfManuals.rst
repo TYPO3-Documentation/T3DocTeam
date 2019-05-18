@@ -15,15 +15,6 @@ Overview of Manuals
 State of Manuals
 ================
 
-Initially taken from `guides and tutorials
-<https://docs.typo3.org/typo3cms/GuidesAndTutorials/Index.html>`__
-and `references <https://docs.typo3.org/typo3cms/References/Index.html>`__.
-For pragmatic reasons we don't list individual branches here.
-
-todo:
-
-* add automatically generated ViewHelper reference
-* add "Tell me Something About"
 
 
 .. t3-field-list-table::
@@ -71,7 +62,8 @@ todo:
                   that language needs improvement.
    :InProgress:   Language improvements, roughly check if up-to-date (Sybille - May, 2019)
    :NextStep:     Decide if all branches should be maintained longterm or only "latest". Possibly,
-                  remove branches. Review for: up-to-date, proofread language.
+                  remove other branches from being rendered (branches can be kept but will not
+                  be rendered). Review for: up-to-date, proofread language.
 
  - :Manual:       :ref:`t3extbase:start`
    :Mentor:
@@ -99,13 +91,13 @@ todo:
    :Mentor:       Sybille Peters
    :State:        9.5 branch fully updated, other branches: unclear
    :InProgress:
-   :NextStep:     check 8 and 7 branch
+   :NextStep:     Remove 8 branch from rendering until updated. Check 8 and 7 branch.
 
  - :Manual:       :ref:`t3editors:start`
    :Mentor:
-   :State:
+   :State:        Current latest for TYPO3 8
    :InProgress:
-   :NextStep:
+   :NextStep:     Branch out and update "latest" for 8 
 
  - :Manual:       :ref:`t3ts45:start`
    :Mentor:
@@ -153,19 +145,3 @@ todo:
 See also list of documentation about documentation:
 :ref:`list-of-manuals-about-writing-docs`
 
-
-.. _list-of-resources-about-resources:
-
-List of Ressources about ressources
-===================================
-
-e.g. answers on StackOverflow where people are pointed to documentation.
-
-* `TYPO3 references
-  <https://stackoverflow.com/questions/3928662/typo3-references>`__
-* `Stackoverflow: Templating tutorial for beginners
-  <https://stackoverflow.com/questions/44407852/typo3-v6-2-x-tutorials-for-beginners>`__
-* `What are recommended resources for learning extension development
-  <https://stackoverflow.com/questions/50024380/what-are-your-recommended-resources-for-learning-extension-development-for-typo3>`__
-* `TYPO3 Fluid and Flux tutorial [closed]
-  <https://stackoverflow.com/questions/24910318/typo3-fluid-and-flux-tutorial>`__
