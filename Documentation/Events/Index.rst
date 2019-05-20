@@ -12,7 +12,7 @@ There is a monthly Slack call in the **#typo3-documentation** channel.
 
 
 Date:
-   Every third Thursday of the month
+   Every third Friday of the month
 Time:
    13:00 UTC (UTC) until 14:00 UTC (Amsterdam, Berlin, London) `Link to show time in your local timezone <https://www.thetimezoneconverter.com/?t=13%3A00&tz=UTC%20(Coordinated%20Universal%20Time)&>`__
 Duration:
@@ -35,14 +35,7 @@ See `Forge Wiki team-docteam <https://forge.typo3.org/projects/team-docteam/wiki
 Past Slack Call Notes
 ---------------------
 
-* `Overview <https://forge.typo3.org/projects/team-docteam/wiki/index>`__
-* `2018-12-20 <https://forge.typo3.org/projects/team-docteam/wiki/2018-12-20_Team_meeting>`__
-* `2018-11-15 <https://forge.typo3.org/projects/team-docteam/wiki/2018-11-15_Team_meeting>`__
-* `2018-10-18 <https://forge.typo3.org/projects/team-docteam/wiki/2018-10-18_Team_meeting>`__
-* `2018-09-20 <https://forge.typo3.org/projects/team-docteam/wiki/2018-09-20_Team_meeting>`__
-* `2018-08-09 <https://forge.typo3.org/projects/team-docteam/wiki/2018-08-09_Team_meeting>`__
-* `2018-06-14 <https://forge.typo3.org/projects/team-docteam/wiki/2018-06-14_Team_meeting>`__
-* `2018-05-03 <https://forge.typo3.org/projects/team-docteam/wiki/2018-05-03_Team_meeting>`__
+See `Forge Wiki <https://forge.typo3.org/projects/team-docteam/wiki/index>`__
 
 Sprints
 =======
