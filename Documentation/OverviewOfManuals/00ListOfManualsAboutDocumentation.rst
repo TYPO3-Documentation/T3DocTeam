@@ -1,51 +1,89 @@
-:orphan:
-
-
 .. include:: ../Includes.txt
 
 .. _list-of-manuals-about-writing-docs:
 
-===========================================
-List of Manuals about Writing Documentation
-===========================================
+==============================================================
+Information About Writing Documentation and Documentation Team
+==============================================================
 
-(Annotated Bibliography)
 
-Documentation about how to write documentation for TYPO3
-========================================================
+This page is used to clarify for the listed manuals and webpages:
 
-This is a list about docs about writing docs.
+Scope? What is it about? What is the target group? **What should be documented where?**
 
-Basics
-------
 
 .. t3-field-list-table::
  :header-rows: 1
 
  - :Manual:       Manual
-   :Shortcut:     Shortcut
-   :Urlpath:      URL path
-   :Mentor:       Mentor
-   :State:        State
-   :NextStep:     Next Step
-   :About:        About
+   :Scope:        About
+   :State:        State, is it up-to-date?
+   :NextStep:     Next step
+   :Comment:      Comment
 
- - :Manual:       :ref:`h2document:start`
-   :Shortcut:     h2document
-   :Urlpath:      /HowToDocument/
-   :Mentor:       Martin Bless
+ - :Manual:       :ref:`h2document:start` (Guide)
+   :Scope:        Main documentation for writing documentation on docs.typo3.org,
+                  for contributors, extension developers (and Documentation Team).
+   :State:        Reviewed and up to date!
+   :NextStep:
+   :Comment:      Use this as main resource for contributors!
+
+
+ - :Manual:       :ref:`start` (this manual)
+   :Scope:        Information *for* doc team. (In comparison:
+                  `team page on typo3.org <https://typo3.org/community/teams/documentation/>`__
+                  is *about* team.)
+   :State:        In progress
+   :NextStep:
+   :Comment:      This can be used for things that only concern documentation team. It can
+                  also be used for drafts. As information matures, it may get moved either to
+                  team page on typo3.org or to "Writing Documentation".
+
+
+ - :Manual:       Team page on **typo3.org**: https://typo3.org/community/teams/documentation/
+   :Scope:        About the "Documentation Team" for interested public. Contains "official,
+                  general information". WIP and internal information should be put in :ref:`start`
+                  (this manual)
+   :State:        In progress
+   :NextStep:
+   :Comment:      It's important for interested contributors to find relevant information.
+                  Place strategic links on team page about contribution, joining Slack and
+                  joining the team. The public should also have the possibility to inform
+                  themselves about what team is doing.
+
+
+ - :Manual:       "About TYPO3 Documentation" on "glue pages" https://docs.typo3.org/About.html
+   :Scope:        Contains documentation news, Tips & Tricks ...
+   :State:        Up to date
+   :NextStep:
+   :Comment:      :ref:`h2document:start` now being used as main resource for contributors.
+                  In order to not have information in too many different places, the pages
+                  "Contribution" and "Writing Documentation" have been replaced by external
+                  links to :ref:`h2document:start`.
+
+ - :Manual:       "Tips" on "start page" https://docs.typo3.org/
+   :Scope:        **Changed:** Mostly tips about **using** (reading) documentation and
+                  **general tips about TYPO3 or where to find things**!
+   :State:        Up to date
+   :NextStep:
+   :Comment:      "Writing Documentation" now being used as main resource for contributors.
+                  Because of this, the **tips on writing** documentation have been moved to
+                  :ref:`h2document:start` (see startpage).
+
+
+ - :Manual:       Forge Wiki: https://forge.typo3.org/projects/team-docteam
+   :Scope:        This is currently only a placeholder for the
+                  `slack call notes <https://forge.typo3.org/projects/team-docteam/wiki/index>`__.
+                  Provide miminal information on that page and link elsewhere.
+                  Could be removed if we did not still need the slack call notes and other notes.
    :State:
    :NextStep:
-   :About:        General rules for writing, reST, Sphinx
+   :Comment:      todo: move "responsibilities of documentation team" to
+                  `team page on typo3.org <https://typo3.org/community/teams/documentation/>`__
 
 
- - :Manual:       `About TYPO3 Documentation <https://docs.typo3.org/About.html>`__
-   :Shortcut:     subchapter in t3start
-   :Urlpath:      (---)
-   :Mentor:
-   :State:
-   :NextStep:
-   :About:        Contains Docs News, How to contribute, Tips & Tricks ...
+
+
 
 
 Rendering
@@ -56,27 +94,24 @@ Rendering
 
  - :Manual:       Manual
    :Shortcut:     Shortcut
-   :Urlpath:      URL path
-   :Mentor:       Mentor
+   :Mentor:       Maintainer
    :State:        State
    :NextStep:     Next Step
    :About:        About
 
  - :Manual:       :ref:`rendert3docs:start`
    :Shortcut:     rendert3docs
-   :Urlpath:      /RenderTYPO3DocumentationGuide/
    :Mentor:
    :State:
-   :NextStep:
+   :NextStep:     There is overlap with Readme on GitHub. Clarify.
    :About:        About rendering (Docs server, local rendering with docker)
 
  - :Manual:       `docker-render-documenation <https://github.com/t3docs/docker-render-documentation>`__
    :Shortcut:
-   :Urlpath:      /t3docs/docker-render-documentation/
    :Mentor:
    :State:
    :NextStep:
-   :About:        This is a Github Readme! "This is the official recipe to build the Docker image"
+   :About:        This is a Github Readme! Explains how to use the official Docker Image for rendering.
 
 
 Examples
@@ -109,26 +144,4 @@ Examples
    :NextStep:
    :About:        Various examples, "Teaching Docs", "Style Guides" ...
 
-
-Additional docs
----------------
-
-- README on Github `t3SphinxThemeRtd <t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd>`__
-  used for rendering. If you use docker for local rendering or the GUI
-  on github to edit documents, you do not need this!?
-- Not on docs.typo3.org, but interesting: `A new Theme for docs.typo3.org
-  <http://mbless.de/blog/2015/06/16/a-new-theme-for-docs-typo3-org.html>`__
-
-Useful shortcuts
-----------------
-
-- `Writing documentation <https://docs.typo3.org/Tips/DocumentationWriters/Index.html#>`__ (in t3start)
-- `How to trigger rendering <https://docs.typo3.org/Tips/DocumentationWriters/DocumentationBuild/Index.html>`__ (in t3start)
-- `Documentation news <https://docs.typo3.org/News/Index.html>`__ (in t3start)
-
-
-Documentation only for Docs Team
-================================
-
-- `T3Docs Team Writing here <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/index.html>`__
 
