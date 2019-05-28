@@ -5,15 +5,11 @@
 
 
 .. _overview-of-manuals:
-
-===================
-Overview of Manuals
-===================
-
 .. _overview-of-manuals-current-status:
 
-State of Manuals
-================
+================================
+Overview of Manuals (for Review)
+================================
 
 
 

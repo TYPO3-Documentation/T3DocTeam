@@ -1,6 +1,8 @@
 .. include:: Includes.txt
 .. highlight:: rst
 
+.. _start:
+
 =================
 T3DocTeam at Work
 =================
