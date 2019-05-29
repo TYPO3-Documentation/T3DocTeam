@@ -5,12 +5,18 @@
 
 
 .. _overview-of-manuals:
-.. _overview-of-manuals-current-status:
+.. _overview-of-manuals-review:
 
-================================
-Overview of Manuals (for Review)
-================================
+========================================
+Overview of Manuals (Review Information)
+========================================
 
+Information that is relevant for reviewing a manual is maintained here:
+
+* State: Is it up to date? Does it need review?
+* Maintainer:
+* In Progress: Somebody is already doing something
+* Next step: to be done next
 
 
 .. t3-field-list-table::
