@@ -5,6 +5,13 @@
 DRAFT: Documentation Styleguide
 ===============================
 
+.. important::
+
+   Some things are already documented in :ref:`h2document:general-conventions`. We use
+   this space here to take notes. Once new texts have been written and matured, they
+   can be moved to :ref:`h2document:general-conventions`.
+
+
 Description
    ...
 
