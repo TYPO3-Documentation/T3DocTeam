@@ -1,15 +1,29 @@
 .. include:: ../Includes.txt
 
-.. _list-of-manuals-about-writing-docs:
 
-==============================================================
-Information About Writing Documentation and Documentation Team
-==============================================================
+.. _overview-of-manuals-about:
 
+================
+Scope of Manuals
+================
 
 This page is used to clarify for the listed manuals and webpages:
 
-Scope? What is it about? What is the target group? **What should be documented where?**
+What is it about? What is the target group? **What should be documented where?**
+What is the scope?
+
+If you are not sure, what to put in which, place: look here.
+
+.. todo:: create list of manuals with about information (about, comment)
+
+For now, use `Tutorials and Guides <https://docs.typo3.org/typo3cms/GuidesAndTutorials/Index.html>`__
+and `Core Documentation <https://docs.typo3.org/typo3cms/References/Index.html>`__
+(References).
+
+.. _list-of-manuals-about-writing-docs-about:
+
+Scope of DocTeam Pages
+======================
 
 
 .. t3-field-list-table::
@@ -17,24 +31,16 @@ Scope? What is it about? What is the target group? **What should be documented w
 
  - :Manual:       Manual
    :Scope:        About
-   :State:        State, is it up-to-date?
-   :NextStep:     Next step
    :Comment:      Comment
 
  - :Manual:       :ref:`h2document:start` (Guide)
    :Scope:        Main documentation for writing documentation on docs.typo3.org,
                   for contributors, extension developers (and Documentation Team).
-   :State:        Reviewed and up to date!
-   :NextStep:
    :Comment:      Use this as main resource for contributors!
 
 
  - :Manual:       :ref:`start` (this manual)
    :Scope:        Information *for* doc team. (In comparison:
-                  `team page on typo3.org <https://typo3.org/community/teams/documentation/>`__
-                  is *about* team.)
-   :State:        In progress
-   :NextStep:
    :Comment:      This can be used for things that only concern documentation team. It can
                   also be used for drafts. As information matures, it may get moved either to
                   team page on typo3.org or to "Writing Documentation".
@@ -44,8 +50,6 @@ Scope? What is it about? What is the target group? **What should be documented w
    :Scope:        About the "Documentation Team" for interested public. Contains "official,
                   general information". WIP and internal information should be put in :ref:`start`
                   (this manual)
-   :State:        In progress
-   :NextStep:
    :Comment:      It's important for interested contributors to find relevant information.
                   Place strategic links on team page about contribution, joining Slack and
                   joining the team. The public should also have the possibility to inform
@@ -54,8 +58,6 @@ Scope? What is it about? What is the target group? **What should be documented w
 
  - :Manual:       "About TYPO3 Documentation" on "glue pages" https://docs.typo3.org/About.html
    :Scope:        Contains documentation news, Tips & Tricks ...
-   :State:        Up to date
-   :NextStep:
    :Comment:      :ref:`h2document:start` now being used as main resource for contributors.
                   In order to not have information in too many different places, the pages
                   "Contribution" and "Writing Documentation" have been replaced by external
@@ -64,8 +66,6 @@ Scope? What is it about? What is the target group? **What should be documented w
  - :Manual:       "Tips" on "start page" https://docs.typo3.org/
    :Scope:        **Changed:** Mostly tips about **using** (reading) documentation and
                   **general tips about TYPO3 or where to find things**!
-   :State:        Up to date
-   :NextStep:
    :Comment:      "Writing Documentation" now being used as main resource for contributors.
                   Because of this, the **tips on writing** documentation have been moved to
                   :ref:`h2document:start` (see startpage).
@@ -76,72 +76,26 @@ Scope? What is it about? What is the target group? **What should be documented w
                   `slack call notes <https://forge.typo3.org/projects/team-docteam/wiki/index>`__.
                   Provide miminal information on that page and link elsewhere.
                   Could be removed if we did not still need the slack call notes and other notes.
-   :State:
-   :NextStep:
    :Comment:      todo: move "responsibilities of documentation team" to
                   `team page on typo3.org <https://typo3.org/community/teams/documentation/>`__
 
 
-
-
-
-
-Rendering
----------
-
-.. t3-field-list-table::
- :header-rows: 1
-
- - :Manual:       Manual
-   :Shortcut:     Shortcut
-   :Mentor:       Maintainer
-   :State:        State
-   :NextStep:     Next Step
-   :About:        About
-
  - :Manual:       :ref:`rendert3docs:start`
-   :Shortcut:     rendert3docs
-   :Mentor:
-   :State:
-   :NextStep:     There is overlap with Readme on GitHub. Clarify.
-   :About:        About rendering (Docs server, local rendering with docker)
+   :Scope:        About rendering. There is overlap with Readme on GitHub and :ref:`h2document:start`
+   :Comment:
 
- - :Manual:       `docker-render-documenation <https://github.com/t3docs/docker-render-documentation>`__
-   :Shortcut:
-   :Mentor:
-   :State:
-   :NextStep:
-   :About:        This is a Github Readme! Explains how to use the official Docker Image for rendering.
-
-
-Examples
---------
-
-.. t3-field-list-table::
- :header-rows: 1
-
- - :Manual:       Manual
-   :Shortcut:     Shortcut
-   :Urlpath:      URL path
-   :Mentor:       Mentor
-   :State:        State
-   :NextStep:     Next Step
-   :About:        About
+ - :Manual:       `docker-render-documentation <https://github.com/t3docs/docker-render-documentation>`__
+                  Readme.rst on GitHub
+   :Scope:        This is a Github Readme! Explains how to use the official Docker Image for rendering.
+   :Comment:
 
  - :Manual:       `t3SphinxThemeRtd Demo Docs <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/>`__
-   :Shortcut:     tbd, e.g. t3sphinxthemertddemodocs ?
-   :Urlpath:      /t3SphinxThemeRtdDemoDocs/
-   :Mentor:
-   :State:
-   :NextStep:
-   :About:        Examples (can probably be compared with the "styleguide" for the core?)
+   :Scope:        Examples of reST rendering. Can be used as testcase for rendering, as showcase of what
+                  is possible and as inspiration (as ext:styleguide in core).
+   :Comment:
 
  - :Manual:       `Martin's Starter Project 001 <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001>`__
-   :Shortcut:
-   :Urlpath:      /T3DocumentationStarter/Public-Info-001/
-   :Mentor:
-   :State:
-   :NextStep:
-   :About:        Various examples, "Teaching Docs", "Style Guides" ...
+   :Scope:        Various examples, "Teaching Docs", "Style Guides" ...
+   :Comment:      Is Martin's manual. Not official. You can read, but not change ...
 
 

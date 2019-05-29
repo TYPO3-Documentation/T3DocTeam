@@ -7,16 +7,17 @@
 .. _overview-of-manuals:
 .. _overview-of-manuals-review:
 
-========================================
-Overview of Manuals (Review Information)
-========================================
+========================
+Review Status of Manuals
+========================
 
-Information that is relevant for reviewing a manual is maintained here:
+The information in the columns is relevant for reviewing (proofreading,
+correcting) the information.
 
-* State: Is it up to date? Does it need review?
-* Maintainer:
-* In Progress: Somebody is already doing something
-* Next step: to be done next
+* **State**: Is it up to date? Does it need review?
+* **Maintainer**:
+* **In Progress**: Somebody is already doing something
+* **Next step**: to be done next
 
 
 .. t3-field-list-table::
@@ -74,21 +75,6 @@ Information that is relevant for reviewing a manual is maintained here:
    :NextStep:     Make decision about guide. Should we continue maintaining it? What is scope?
                   How should it be structured? Should Fluid section be separated?
 
- - :Manual:       :ref:`rendert3docs:start`
-   :Mentor:       Martin Bless
-   :State:        **needs revision** "Work in progress!"
-   :InProgress:
-   :NextStep:     Should be updated and "WIP" removed. What is scope of guide? Clarify, what
-                  information should go in "Rendering Guide", what in "Writing Documentation":
-                  :ref:`h2document:rendering-docs` and what in
-                  `Readme on GitHub for Docker image <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
-
- - :Manual:       :ref:`h2document:start`
-   :Mentor:       Martin Bless, Sybille Peters
-   :State:        **good** Fully revised, is up-to-date!
-   :InProgress:
-   :NextStep:
-
  - :Manual:       :ref:`t3start:start`
    :Mentor:       Sybille Peters
    :State:        9.5 branch fully updated, other branches: unclear
@@ -144,6 +130,160 @@ Information that is relevant for reviewing a manual is maintained here:
    :NextStep:
 
 
-See also list of documentation about documentation:
-:ref:`list-of-manuals-about-writing-docs`
+.. _overview-of-manuals-review-sysext:
 
+Review Status of System Extensions
+==================================
+
+.. t3-field-list-table::
+ :header-rows: 1
+
+ - :Manual:       Manual
+   :Mentor:       Maintainer
+   :State:        State
+   :InProgress:   In progress
+   :NextStep:     Next Step
+
+ - :Manual:       `felogin <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>`__
+   :Mentor:
+   :State:
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       `fluid_styled_content <https://docs.typo3.org/typo3cms/extensions/fluid_styled_content/>`__
+   :Mentor:
+   :State:
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       `form <https://docs.typo3.org/typo3cms/extensions/form/>`__
+   :Mentor:
+   :State:        Up-to-date (assessed after superficially glimpsing through - May, 2019)
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       `indexed_search <https://docs.typo3.org/typo3cms/extensions/indexed_search/>`__
+   :Mentor:
+   :State:
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       `linkvalidator <https://docs.typo3.org/typo3cms/extensions/linkvalidator/>`__
+   :Mentor:
+   :State:
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       `recycler <https://docs.typo3.org/typo3cms/extensions/recycler/>`__
+   :Mentor:
+   :State:
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       `rte_ckeditor <https://docs.typo3.org/typo3cms/extensions/recycler/>`__
+   :Mentor:
+   :State:        Up-to-date (as it was recently published, we assume it is still up-to-date - May, 2019)
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       `scheduler <https://docs.typo3.org/typo3cms/extensions/scheduler/>`__
+   :Mentor:
+   :State:
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       `sys_action <https://docs.typo3.org/typo3cms/extensions/sys_action/>`__
+   :Mentor:
+   :State:
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       `taskcenter <https://docs.typo3.org/typo3cms/extensions/taskcenter/>`__
+   :Mentor:
+   :State:
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       `workspaces <https://docs.typo3.org/typo3cms/extensions/workspaces/>`__
+   :Mentor:
+   :State:
+   :InProgress:
+   :NextStep:
+
+
+
+
+* rsaauth (rsaauth is outdated!)
+
+
+.. _overview-of-manuals-review-doc-team:
+
+Writing Documentation and DocTeam (for Review)
+==============================================
+
+This is an overview of information About writing documentation and
+the documentation team.
+
+The information in the columns is relevant for reviewing (proofreading,
+correcting) the information.
+
+
+.. important::
+
+   We do not list all sources here at the moment.
+   For more see :ref:`list-of-manuals-about-writing-docs-about`.
+
+.. t3-field-list-table::
+ :header-rows: 1
+
+ - :Manual:       Manual
+   :Maintainer:   Maintainer
+   :State:        State
+   :InProgress:   In progress
+   :NextStep:     Next Step
+
+ - :Manual:       :ref:`rendert3docs:start`
+   :Maintainer:   Martin Bless
+   :State:        **needs revision** "Work in progress!"
+   :InProgress:
+   :NextStep:     Should be updated and "WIP" removed. What is scope of guide? What
+                  information should go in "Rendering Guide", what in "Writing Documentation":
+                  :ref:`h2document:rendering-docs` and what in
+                  `Readme on GitHub for Docker image <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
+
+ - :Manual:       :ref:`start` (this manual)
+   :Maintainer:   Documentation Team
+   :State:        **In progress**
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       :ref:`h2document:start`
+   :Maintainer:   Martin Bless, Sybille Peters
+   :State:        **good** Fully revised, up-to-date! (May 2019)
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       Team page on **typo3.org**: https://typo3.org/community/teams/documentation/
+   :Maintainer:   Documentation Team
+   :State:        **good** Fully revised, up-to-date! (May 29, 2019)
+   :InProgress:
+   :NextStep:
+
+
+ - :Manual:       "About TYPO3 Documentation" on "glue pages" https://docs.typo3.org/About.html
+   :Maintainer:   Documentation Team
+   :State:        **good** Fully revised, up-to-date! (May, 2019)
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       "Tips" on "start page" https://docs.typo3.org/
+   :Maintainer:   Documentation Team
+   :State:        **good** Fully revised, up-to-date! (May, 2019)
+   :InProgress:
+   :NextStep:
+
+ - :Manual:       Forge Wiki: https://forge.typo3.org/projects/team-docteam
+   :Maintainer:   Documentation Team
+   :State:        **good** Fully revised, up-to-date! (May, 2019)
+   :InProgress:
+   :NextStep:
