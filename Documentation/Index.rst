@@ -22,20 +22,21 @@ TYPO3
 About this manual:
    This manual contains information *for* the Documentation Team.
 
-This manual also contains information that is interesting for other parties which want to contribute
+This manual also contains information that may be interesting for other parties which want to contribute
 to the documentation beyond what is already described in :ref:`h2document:docs-official-how-you-can-help`.
 
 
-* Please see the `Team page on typo3.org <https://typo3.org/community/teams/documentation/>`__ for more
-  information *about* the Documentation Team.
+* Please see the `Team page <https://typo3.org/community/teams/documentation/>`__ (on typo3.org)
+  for more   information *about* the Documentation Team.
 
-* Please see :ref:`h2document:start` for information on how to contribute to the documentation and
+* Please see :ref:`h2document:start` for information on *how to contribute* to the documentation and
   write documentation for TYPO3 extensions.
 
 
 .. toctree::
    :hidden:
 
+   AboutTheTeam/Index
    AboutDocumentation/Index
    Events/Index
    HowWeWork/Index

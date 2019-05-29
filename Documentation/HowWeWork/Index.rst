@@ -8,14 +8,17 @@ Using Github
 ============
 
 Pull requests
-   * `List at docs.typo3.org <https://docs.typo3.org/services/GithubPullRequests/>`__
-   * `open pull requests (oldest first) 
+
+.. This link currently points to a 404
+..   * `List at docs.typo3.org <https://docs.typo3.org/services/GithubPullRequests/>`__
+
+
+   * `open pull requests (oldest first)
      <https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+org%3ATYPO3-Documentation+sort%3Acreated-asc>`__
 
 Issues
-   * `open issues, recently updated
-     <https://github.com/search?o=desc&q=org%3ATYPO3-Documentation+type%3Aissue&s=updated&state=open&type=Issues>`__
-   * `Github: T3DocTeam issues  <https://github.com/TYPO3-Documentation/T3DocTeam/issues>`_
+
+   * `Github: Team issues  <https://github.com/TYPO3-Documentation/T3DocTeam/issues>`_
    * `Github: All open issues in TYPO3-Documentation workspace (sort by Recently updated)
      <https://github.com/search?o=desc&q=org%3ATYPO3-Documentation+type%3Aissue&s=updated&state=open&type=Issues>`__
 
@@ -39,24 +42,4 @@ Tips
    :alt: teaser
         :target: https://chris.beams.io/posts/git-commit/
         :class: with-shadow
-
-
-
-Using Forge
-===========
-
-"What's new?" file archive
-   The `documentation subproject "What's new?" at Forge
-   <https://forge.typo3.org/projects/documentation-whatsnew>`__
-   is used to ① provide a description, to ② list the people involved and,
-   most important, to ③ keep a `file archive of all existing PDF files
-   <https://forge.typo3.org/projects/documentation-whatsnew/files>`__
-   in various languages.
-
-   The slides (pdf files) are advertised on typo3.org with urls pointing
-   to their Forge location:
-
-   .. figure:: UsingForge-001.png
-      :class: with-shadow
-      :width: 62%
 
