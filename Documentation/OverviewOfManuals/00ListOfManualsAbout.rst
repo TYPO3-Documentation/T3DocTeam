@@ -3,9 +3,9 @@
 
 .. _overview-of-manuals-about:
 
-================
-Scope of Manuals
-================
+=====
+Scope
+=====
 
 This page is used to clarify for the listed manuals and webpages:
 
