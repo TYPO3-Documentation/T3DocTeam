@@ -14,11 +14,22 @@ What is the scope?
 
 If you are not sure, what to put in which, place: look here.
 
+
+.. _list-of-manuals-about-writing-docs-about:
+
+Scope of General Manuals
+========================
+
+
 .. todo:: create list of manuals with about information (about, comment)
+
 
 For now, use `Tutorials and Guides <https://docs.typo3.org/typo3cms/GuidesAndTutorials/Index.html>`__
 and `Core Documentation <https://docs.typo3.org/typo3cms/References/Index.html>`__
 (References).
+
+
+
 
 .. _list-of-manuals-about-writing-docs-about:
 
