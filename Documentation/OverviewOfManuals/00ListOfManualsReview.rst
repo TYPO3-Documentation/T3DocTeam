@@ -23,22 +23,6 @@ correcting) the information.
 Review Status of Main Manuals
 =============================
 
-In need of general decision:
-
-* :ref:`t3extbasebook:start`: Clarify license, check for overlap with book by Michael Schams,
-  make general decision if this should be maintained long term.
-* :ref:`t3extbase:start`: Decide on structure. What should be in this guide? Does it cover the
-  basics? Currently, it is
-* :ref:`t3l10n:start`: Should information in that manual be kept separate?
-* ...
-
-In need of branching out for new versions:
-
-* :ref:`t3sitepackage:start`
-* :ref:`t3l10n:start`
-* :ref:`t3editors:start`
-* ...
-
 
 
 .. t3-field-list-table::
