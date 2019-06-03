@@ -41,7 +41,7 @@ to the documentation beyond what is already described in :ref:`h2document:docs-o
    Events/Index
    HowWeWork/Index
    OverviewOfManuals/Index
-   Drafts/Index
+   draft/Index
    PersonalNotes/Index
    Sitemap/Index
    Linktargets/Index
