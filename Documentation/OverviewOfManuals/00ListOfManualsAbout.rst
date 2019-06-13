@@ -91,10 +91,6 @@ Scope of DocTeam Pages
                   `team page on typo3.org <https://typo3.org/community/teams/documentation/>`__
 
 
- - :Manual:       :ref:`rendert3docs:start`
-   :Scope:        About rendering. There is overlap with Readme on GitHub and :ref:`h2document:start`
-   :Comment:
-
  - :Manual:       `docker-render-documentation <https://github.com/t3docs/docker-render-documentation>`__
                   Readme.rst on GitHub
    :Scope:        This is a Github Readme! Explains how to use the official Docker Image for rendering.
