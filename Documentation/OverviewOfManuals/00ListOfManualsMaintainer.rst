@@ -95,9 +95,6 @@ Writing Documentation and DocTeam (Maintainer)
  - :Manual:       Manual
    :Maintainer:   Maintainer
 
- - :Manual:       :ref:`rendert3docs:start`
-   :Maintainer:   Martin Bless
-
  - :Manual:       :ref:`start` (this manual)
    :Maintainer:   Documentation Team
 
@@ -116,3 +113,9 @@ Writing Documentation and DocTeam (Maintainer)
 
  - :Manual:       Forge Wiki: https://forge.typo3.org/projects/team-docteam
    :Maintainer:   Documentation Team
+
+
+Archived / Removed
+==================
+
+* :ref:`rendert3docs:start`
