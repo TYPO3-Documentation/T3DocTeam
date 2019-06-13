@@ -213,14 +213,6 @@ correcting) the information.
    :InProgress:   In progress
    :NextStep:     Next Step
 
- - :Manual:       :ref:`rendert3docs:start`
-   :State:        **needs revision** "Work in progress!"
-   :InProgress:
-   :NextStep:     Should be updated and "WIP" removed. What is scope of guide? What
-                  information should go in "Rendering Guide", what in "Writing Documentation":
-                  :ref:`h2document:rendering-docs` and what in
-                  `Readme on GitHub for Docker image <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
-
  - :Manual:       :ref:`start` (this manual)
    :State:        **In progress**
    :InProgress:
