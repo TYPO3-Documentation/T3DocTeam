@@ -34,7 +34,7 @@ Review Status of Main Manuals
    :NextStep:     Next Step
 
  - :Manual:       :ref:`t3l10n:start`
-   :State:        **outdated** Current "latest" is for version 7.6
+   :State:        **outdated** Current "master" is for version 7.6
    :InProgress:
    :NextStep:     Decision: Should this manual be kept as separate manual or for example be merged to "TYPO3 Explained"?
 
@@ -55,38 +55,38 @@ Review Status of Main Manuals
 
  - :Manual:       :ref:`t3extbasebook:start`
    :State:        **needs revision** Was often mentioned, that it is not up-to-date. Was also mentioned,
-                  that language needs improvement.
+                  that language needs improvement. Text partially long winded. Could be shortened. Outdated
+                  example extensions.
    :InProgress:
    :NextStep:     Decisions: Clarify license.
-                  Decide if all branches should be maintained longterm or only "latest". Possibly,
-                  remove other branches from being rendered (branches can be kept but will not
-                  be rendered). Review for: up-to-date, proofread language.
+                  Make general decision. Decide if all branches should be maintained longterm or only "master". Possibly,
+                  remove other branches from being rendered or add outdated notice. Review for: up-to-date, 
+                  proofread language, shorten text, make it better readable.
 
  - :Manual:       :ref:`t3extbase:start`
-   :State:        **needs revision** Scope of Guide unclear.
+   :State:        **to be deprecated** outdated and incomplete
    :InProgress:
-   :NextStep:     Make decision about guide. Should we continue maintaining it? What is scope?
-                  How should it be structured? Should Fluid section be separated?
+   :NextStep:     Move existing information and add redirects
 
  - :Manual:       :ref:`t3start:start`
    :State:        9.5 branch fully updated, other branches: unclear
    :InProgress:
-   :NextStep:     Remove 8 branch from rendering until updated. Check 8 and 7 branch.
+   :NextStep:     No immediate action required.
 
  - :Manual:       :ref:`t3editors:start`
-   :State:        Current latest for TYPO3 8
+   :State:        Current master for TYPO3 8
    :InProgress:
-   :NextStep:     Branch out and update "latest" for 8 
+   :NextStep:     Branch out and update "master" for 9 (or maybe for 10?)
 
  - :Manual:       :ref:`t3ts45:start`
    :State:
    :InProgress:
-   :NextStep:
+   :NextStep:      Assess quality
 
  - :Manual:       :ref:`t3templating:start`
-   :State:
+   :State:        todo
    :InProgress:
-   :NextStep:     
+   :NextStep:     todo
 
  - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
    :State:        **good** Up to date
@@ -96,20 +96,20 @@ Review Status of Main Manuals
  - :Manual:       :ref:`Core API <t3coreapi:start>`
    :State:        Mostly in good shape. Some parts outdated. Some parts missing.
    :InProgress:
-   :NextStep:     Check entire manual, if up-to-date for TYPO3 9 (latest)
+   :NextStep:     Check entire manual, if up-to-date for TYPO3 9 (latest). Add missing information.
 
  - :Manual:       :ref:`t3tca:start`
-   :State:
+   :State:        unclear 
    :InProgress:
-   :NextStep:
+   :NextStep:     
 
  - :Manual:       :ref:`t3tsconfig:start`
-   :State:
+   :State:        unclear  
    :InProgress:
    :NextStep:
 
  - :Manual:       :ref:`t3tsref:start`
-   :State:
+   :State:        unclear 
    :InProgress:
    :NextStep:
 
