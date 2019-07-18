@@ -36,9 +36,7 @@ to the documentation beyond what is already described in :ref:`h2document:docs-o
 .. toctree::
    :hidden:
 
-   AboutTheTeam/Index
-   AboutDocumentation/Index
-   Events/Index
+   Documentation Team  ➜   <https://typo3.org/community/teams/documentation/>
    HowWeWork/Index
    OverviewOfManuals/Index
    draft/Index
