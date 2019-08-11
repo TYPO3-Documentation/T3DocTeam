@@ -34,19 +34,19 @@ Review Status of Main Manuals
    :NextStep:     Next Step
 
  - :Manual:       :ref:`t3l10n:start`
-   :State:        **outdated** Current "master" is for version 7.6
+   :State:        **outdated** Versions 7.6 until master (10) have not been thoroughly reviewed yet.
    :InProgress:
-   :NextStep:     Decision: Should this manual be kept as separate manual or for example be merged to "TYPO3 Explained"?
+   :NextStep:     Decision: Should probably be merged to "TYPO3 Explained"?
 
  - :Manual:       :ref:`t3install:start`
-   :State:        **good** Generally, "latest" (9.5) version looks good and up-to-date.
+   :State:        **good** Generally, "master" (10) and 9.5 version looks good and up-to-date.
    :InProgress:
    :NextStep:
 
  - :Manual:       :ref:`t3sitepackage:start`
    :State:        "master" is for TYPO3 8.7
    :InProgress:
-   :NextStep:     Check if changes for 9 are necessary, branch out and create changes for 9 
+   :NextStep:     Check if changes for 9 and 10 are necessary, branch out and create changes for 9 and 10.
 
  - :Manual:       :ref:`t3contribute:start`
    :State:        **good** Up-to-date, proofread (4/2018)
@@ -69,19 +69,19 @@ Review Status of Main Manuals
    :NextStep:     Move existing information and add redirects
 
  - :Manual:       :ref:`t3start:start`
-   :State:        9.5 branch fully updated, other branches: unclear
+   :State:        9.5 branch fully updated, master (10) to be updated, other branches: unclear
    :InProgress:
    :NextStep:     No immediate action required.
 
  - :Manual:       :ref:`t3editors:start`
    :State:        Current master for TYPO3 8
    :InProgress:
-   :NextStep:     Branch out and update "master" for 9 (or maybe for 10?)
+   :NextStep:     Branch out and update "master" for 9 (and 10)
 
  - :Manual:       :ref:`t3ts45:start`
    :State:
    :InProgress:
-   :NextStep:      Assess quality
+   :NextStep:      Assess quality. Check what is outdated. Is it still helpful in its current form?
 
  - :Manual:       :ref:`t3templating:start`
    :State:        todo
