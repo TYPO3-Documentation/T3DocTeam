@@ -118,5 +118,5 @@ Scope of DocTeam Pages
    to their Forge location:
 
    .. figure:: UsingForge-001.png
-      :class: with-shadow
+      :class: with-border with-shadow
       :width: 62%
