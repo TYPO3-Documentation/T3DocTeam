@@ -106,8 +106,7 @@ Scope of DocTeam Pages
    :Comment:      Is Martin's manual. Not official. You can read, but not change ...
 
 
-**"What's new?" file archive**
-
+"What's new?" file archive
    The `documentation subproject "What's new?" at Forge
    <https://forge.typo3.org/projects/documentation-whatsnew>`__
    is used to ① provide a description, to ② list the people involved and,
