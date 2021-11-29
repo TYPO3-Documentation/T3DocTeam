@@ -4,6 +4,6 @@
     "description": "The TYPO3 Documentation team is taking notes here.",
     "license": "OPL-1.0",
     "require": {
-      "typo3/cms-core": "^9.5"
+      "typo3/cms-core": "^11.5"
     }
 }
