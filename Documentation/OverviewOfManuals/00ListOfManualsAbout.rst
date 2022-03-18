@@ -1,4 +1,4 @@
-.. include:: ../Includes.txt
+.. include:: /Includes.rst.txt
 
 
 .. _overview-of-manuals-about:
@@ -30,8 +30,6 @@ and `Core Documentation <https://docs.typo3.org/typo3cms/References/Index.html>`
 
 
 
-
-.. _list-of-manuals-about-writing-docs-about:
 
 Scope of DocTeam Pages
 ======================

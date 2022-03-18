@@ -1,4 +1,4 @@
-.. include:: ../Includes.txt
+.. include:: /Includes.rst.txt
 
 
 .. _overview-of-manuals:
@@ -60,7 +60,7 @@ Review Status of Main Manuals
    :InProgress:
    :NextStep:     Decisions: Clarify license.
                   Make general decision. Decide if all branches should be maintained longterm or only "master". Possibly,
-                  remove other branches from being rendered or add outdated notice. Review for: up-to-date, 
+                  remove other branches from being rendered or add outdated notice. Review for: up-to-date,
                   proofread language, shorten text, make it better readable.
 
  - :Manual:       :ref:`t3extbase:start`
@@ -99,17 +99,17 @@ Review Status of Main Manuals
    :NextStep:     Check entire manual, if up-to-date for TYPO3 9 (latest). Add missing information.
 
  - :Manual:       :ref:`t3tca:start`
-   :State:        unclear 
+   :State:        unclear
    :InProgress:
-   :NextStep:     
+   :NextStep:
 
  - :Manual:       :ref:`t3tsconfig:start`
-   :State:        unclear  
+   :State:        unclear
    :InProgress:
    :NextStep:
 
  - :Manual:       :ref:`t3tsref:start`
-   :State:        unclear 
+   :State:        unclear
    :InProgress:
    :NextStep:
 

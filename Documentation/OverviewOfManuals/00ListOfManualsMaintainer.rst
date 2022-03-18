@@ -1,4 +1,4 @@
-.. include:: ../Includes.txt
+.. include:: /Includes.rst.txt
 
 
 .. _overview-of-manuals-maintainer:
@@ -64,10 +64,10 @@ Main Manuals
 
  - :Manual:       :ref:`t3tsref:start`
    :Maintainer:
-   
+
 Other
 =====
-   
+
 .. t3-field-list-table::
  :header-rows: 1
 
@@ -75,13 +75,13 @@ Other
    :Maintainer:   Maintainer
 
  - :Manual:       `Tell me Something About <https://docs.typo3.org/m/typo3/guide-tell-me-something-about/master/en-us/>`__
-   :Maintainer:   
- 
+   :Maintainer:
+
  - :Manual:       `List of Snippets <https://docs.typo3.org/m/typo3/docs-snippets/master/en-us/>`__
-   :Maintainer:   
- 
-   
-   
+   :Maintainer:
+
+
+
 
 .. _overview-of-manuals-maintainer-doc-team:
 
@@ -118,4 +118,4 @@ Writing Documentation and DocTeam (Maintainer)
 Archived / Removed
 ==================
 
-* :ref:`rendert3docs:start`
+* rendert3docs:start
