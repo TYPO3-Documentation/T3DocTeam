@@ -1,21 +1,10 @@
-=========
-T3DocTeam
-=========
+====================================
+The TYPO3 Documentation Team at Work
+====================================
 
-This repository is for the `TYPO3 Documentation Team <https://typo3.org/community/teams/documentation/>`__. 
-
-This is where the team takes notes and tracks general issues.
-
+In this repository, the TYPO3 Documentation Team takes notes and keeps track of
+common tasks that affect the entirety of the manuals, not just individual ones.
 
 :Repository:      https://github.com/TYPO3-Documentation/T3DocTeam/
-:Read online:     https://docs.typo3.org/m/typo3/team-t3docteam/master/en-us/
-:Writing here:    TYPO3 Documentation Team
-
-
-Additional information
-======================
-
-* `About the TYPO3 Documentation Team <https://typo3.org/community/teams/documentation/>`__
-* `Contribute to TYPO3 documentation <https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html>`__
-* `Contribute to TYPO3 core <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>`__
-* `Help & Support for TYPO3 <https://typo3.org/help>`__
+:Read online:     https://docs.typo3.org/m/typo3/team-t3docteam/main/en-us/
+:Homepage:        https://typo3.org/community/teams/documentation/

@@ -1,47 +1,51 @@
-.. include:: Includes.txt
+.. include:: /Includes.rst.txt
 .. highlight:: rst
 
 .. _start:
 
-=================
-T3DocTeam at Work
-=================
+====================================
+The TYPO3 Documentation Team at Work
+====================================
 
-:Writing here:    TYPO3 Documentation Team
-:Status:          In progress
-:License:         Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (`CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`__)
-:Buildinfo:       `buildinfo <_buildinfo>`_ \|
-                  `warnings.txt <_buildinfo/warnings.txt>`__ \|
-                  `rebuild <https://docs.typo3.org/~mbless/github.com/T3DocumentationStarter/Public-Info-054.git.make/request_rebuild.php>`__
-:Sitemap:         :ref:`sitemap`
+:Version:
+   |release|
 
+:Language:
+   en
 
-TYPO3
-   The content of this document is related to TYPO3 CMS, a GNU/GPL CMS/Framework available from typo3.org .
+:Author:
+   TYPO3 Documentation Team & Contributors
 
-About this manual:
-   This manual contains information *for* the Documentation Team.
+:License:
+   This document is published under the
+   `Creative Commons BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`__
+   license.
 
-This manual also contains information that may be interesting for other parties which want to contribute
-to the documentation beyond what is already described in :ref:`h2document:docs-official-how-you-can-help`.
+:Rendered:
+   |today|
 
+----
 
-* Please see the `Team page <https://typo3.org/community/teams/documentation/>`__ (on typo3.org)
-  for more   information *about* the Documentation Team.
+In this repository, the TYPO3 Documentation Team takes notes and keeps track of
+common tasks that affect the entirety of the manuals, not just individual ones.
 
-* Please see :ref:`h2document:start` for information on *how to contribute* to the documentation and
-  write documentation for TYPO3 extensions.
+See the `team page <https://typo3.org/community/teams/documentation/>`__ for
+more information about the documentation team and how you can contribute to the
+TYPO3 documentation.
 
+----
+
+**Table of Contents:**
+
+.. toctree::
+   :maxdepth: 2
+
+   OverviewOfManuals/Index
+
+.. Meta Menu
 
 .. toctree::
    :hidden:
 
-   Documentation Team  ➜   <https://typo3.org/community/teams/documentation/>
-   HowWeWork/Index
-   OverviewOfManuals/Index
-   draft/Index
-   PersonalNotes/Index
-   Sitemap/Index
-   Linktargets/Index
-
-
+   Sitemap
+   genindex
