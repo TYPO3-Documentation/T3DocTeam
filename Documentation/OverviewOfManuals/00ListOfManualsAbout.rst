@@ -42,7 +42,7 @@ Scope of DocTeam Pages
    :Scope:        About
    :Comment:      Comment
 
- - :Manual:       :ref:`h2document:start` (Guide)
+ - :Manual:       :doc:`h2document:Index` (Guide)
    :Scope:        Main documentation for writing documentation on docs.typo3.org,
                   for contributors, extension developers (and Documentation Team).
    :Comment:      Use this as main resource for contributors!
@@ -67,17 +67,17 @@ Scope of DocTeam Pages
 
  - :Manual:       "About TYPO3 Documentation" on "glue pages" https://docs.typo3.org/About.html
    :Scope:        Contains documentation news, Tips & Tricks ...
-   :Comment:      :ref:`h2document:start` now being used as main resource for contributors.
+   :Comment:      :doc:`h2document:Index` now being used as main resource for contributors.
                   In order to not have information in too many different places, the pages
                   "Contribution" and "Writing Documentation" have been replaced by external
-                  links to :ref:`h2document:start`.
+                  links to :doc:`h2document:Index`.
 
  - :Manual:       "Tips" on "start page" https://docs.typo3.org/
    :Scope:        **Changed:** Mostly tips about **using** (reading) documentation and
                   **general tips about TYPO3 or where to find things**!
    :Comment:      "Writing Documentation" now being used as main resource for contributors.
                   Because of this, the **tips on writing** documentation have been moved to
-                  :ref:`h2document:start` (see startpage).
+                  :doc:`h2document:Index` (see startpage).
 
 
  - :Manual:       Forge Wiki: https://forge.typo3.org/projects/team-docteam

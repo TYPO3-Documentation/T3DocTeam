@@ -17,52 +17,52 @@ Main Manuals
  - :Manual:       Manual
    :Maintainer:   Maintainer
 
- - :Manual:       :ref:`t3l10n:start`
+ - :Manual:       :doc:`t3l10n:Index`
    :Maintainer:
 
- - :Manual:       :ref:`t3install:start`
+ - :Manual:       :doc:`t3install:Index`
    :Maintainer:
 
- - :Manual:       :ref:`t3security:start` (Merged into TYPO3 Explained)
+ - :Manual:       :doc:`t3security:Index` (Merged into TYPO3 Explained)
    :Maintainer:   Michael Schams
 
  - :Manual:       `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
    :Maintainer:   Michael Schams
 
- - :Manual:       :ref:`t3contribute:start`
+ - :Manual:       :doc:`t3contribute:Index`
    :Maintainer:   Sybille Peters, Josef Glatz
 
- - :Manual:       :ref:`t3extbasebook:start`
+ - :Manual:       :doc:`t3extbasebook:Index`
    :Maintainer:
 
- - :Manual:       :ref:`t3extbase:start`
+ - :Manual:       :doc:`t3extbase:Index`
    :Maintainer:
 
- - :Manual:       :ref:`t3start:start`
+ - :Manual:       :doc:`t3start:Index`
    :Maintainer:   Sybille Peters
 
- - :Manual:       :ref:`t3editors:start`
+ - :Manual:       :doc:`t3editors:Index`
    :Maintainer:
 
- - :Manual:       :ref:`t3ts45:start`
+ - :Manual:       :doc:`t3ts45:Index`
    :Maintainer:
 
- - :Manual:       :ref:`t3templating:start`
+ - :Manual:       :doc:`t3templating:Index`
    :Maintainer:
 
  - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
    :Maintainer:   Christian Kuhn
 
- - :Manual:       :ref:`Core API <t3coreapi:start>`
+ - :Manual:       :doc:`Core API <t3coreapi:Index>`
    :Maintainer:   Christian Kuhn
 
- - :Manual:       :ref:`t3tca:start`
+ - :Manual:       :doc:`t3tca:Index`
    :Maintainer:
 
- - :Manual:       :ref:`t3tsconfig:start`
+ - :Manual:       :doc:`t3tsconfig:Index`
    :Maintainer:
 
- - :Manual:       :ref:`t3tsref:start`
+ - :Manual:       :doc:`t3tsref:Index`
    :Maintainer:
 
 Other
@@ -98,7 +98,7 @@ Writing Documentation and DocTeam (Maintainer)
  - :Manual:       :ref:`start` (this manual)
    :Maintainer:   Documentation Team
 
- - :Manual:       :ref:`h2document:start`
+ - :Manual:       :doc:`h2document:Index`
    :Maintainer:   Martin Bless, Sybille Peters
 
  - :Manual:       Team page on **typo3.org**: https://typo3.org/community/teams/documentation/
