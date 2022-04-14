@@ -33,27 +33,27 @@ Review Status of Main Manuals
    :InProgress:   In progress
    :NextStep:     Next Step
 
- - :Manual:       :ref:`t3l10n:start`
+ - :Manual:       :doc:`t3l10n:Index`
    :State:        **outdated** Versions 7.6 until master (10) have not been thoroughly reviewed yet.
    :InProgress:
    :NextStep:     Decision: Should probably be merged to "TYPO3 Explained"?
 
- - :Manual:       :ref:`t3install:start`
+ - :Manual:       :doc:`t3install:Index`
    :State:        **good** Generally, "master" (10) and 9.5 version looks good and up-to-date.
    :InProgress:
    :NextStep:
 
- - :Manual:       :ref:`t3sitepackage:start`
+ - :Manual:       :doc:`t3sitepackage:Index`
    :State:        "master" is for TYPO3 8.7
    :InProgress:
    :NextStep:     Check if changes for 9 and 10 are necessary, branch out and create changes for 9 and 10.
 
- - :Manual:       :ref:`t3contribute:start`
+ - :Manual:       :doc:`t3contribute:Index`
    :State:        **good** Up-to-date, proofread (4/2018)
    :InProgress:
    :NextStep:
 
- - :Manual:       :ref:`t3extbasebook:start`
+ - :Manual:       :doc:`t3extbasebook:Index`
    :State:        **needs revision** Was often mentioned, that it is not up-to-date. Was also mentioned,
                   that language needs improvement. Text partially long winded. Could be shortened. Outdated
                   example extensions.
@@ -63,27 +63,27 @@ Review Status of Main Manuals
                   remove other branches from being rendered or add outdated notice. Review for: up-to-date,
                   proofread language, shorten text, make it better readable.
 
- - :Manual:       :ref:`t3extbase:start`
+ - :Manual:       :doc:`t3extbase:Index`
    :State:        **to be deprecated** outdated and incomplete
    :InProgress:
    :NextStep:     Move existing information and add redirects
 
- - :Manual:       :ref:`t3start:start`
+ - :Manual:       :doc:`t3start:Index`
    :State:        9.5 branch fully updated, master (10) to be updated, other branches: unclear
    :InProgress:
    :NextStep:     No immediate action required.
 
- - :Manual:       :ref:`t3editors:start`
+ - :Manual:       :doc:`t3editors:Index`
    :State:        Current master for TYPO3 8
    :InProgress:
    :NextStep:     Branch out and update "master" for 9 (and 10)
 
- - :Manual:       :ref:`t3ts45:start`
+ - :Manual:       :doc:`t3ts45:Index`
    :State:
    :InProgress:
    :NextStep:      Assess quality. Check what is outdated. Is it still helpful in its current form?
 
- - :Manual:       :ref:`t3templating:start`
+ - :Manual:       :doc:`t3templating:Index`
    :State:        todo
    :InProgress:
    :NextStep:     todo
@@ -93,22 +93,22 @@ Review Status of Main Manuals
    :InProgress:
    :NextStep:
 
- - :Manual:       :ref:`Core API <t3coreapi:start>`
+ - :Manual:       :doc:`Core API <t3coreapi:Index>`
    :State:        Mostly in good shape. Some parts outdated. Some parts missing.
    :InProgress:
    :NextStep:     Check entire manual, if up-to-date for TYPO3 9 (latest). Add missing information.
 
- - :Manual:       :ref:`t3tca:start`
+ - :Manual:       :doc:`t3tca:Index`
    :State:        unclear
    :InProgress:
    :NextStep:
 
- - :Manual:       :ref:`t3tsconfig:start`
+ - :Manual:       :doc:`t3tsconfig:Index`
    :State:        unclear
    :InProgress:
    :NextStep:
 
- - :Manual:       :ref:`t3tsref:start`
+ - :Manual:       :doc:`t3tsref:Index`
    :State:        unclear
    :InProgress:
    :NextStep:
@@ -218,7 +218,7 @@ correcting) the information.
    :InProgress:
    :NextStep:
 
- - :Manual:       :ref:`h2document:start`
+ - :Manual:       :doc:`h2document:Index`
    :State:        **good** Fully revised, up-to-date! (May 2019)
    :InProgress:
    :NextStep:
